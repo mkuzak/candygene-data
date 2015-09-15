@@ -1,0 +1,1062 @@
+0;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;unk;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+1;VIR;20892;CHN;chancayense;NULL;NULL;NULL;NULL;D. Lima;P. Chancay;PE;PER;Lomas de Lachay;NULL;OCHS 11251;200;Tuberosa;24
+2;PI;561637;ABZ;albornozii;-4;0400S;-79.25;07915W;P. Loja;D. Catamayo;EC;ECU;3.6 km SW of junction of old Loja-Catamayo road and road to Duraznillo;01/05/91;SCLp  5033;2610;Piurana;NULL
+3;PI;365356;AML;amabile;-13.20;NULL;-72.07;NULL;NULL;NULL;PE;PER;Huajratanca, near Ckosniriti.;NULL;OCH S-  49;NULL;Tuberosa;NULL
+4;PI;545880;ARZ;arnezii;-19.6;1936S;-646.333;06438W;D. Chuquisaca;P. Azurduy;BO;BOL;11 km from Abra Kasa on way to Tarabuco. 20 km before Cruz Kasa;01/04/86;HAO    157;2500;Yungasensa;NULL
+5;PI;607896;AYM;aymaraesense;-140.666;1404S;-73.25;07315W;D. Apurimac;P. Aymaraes;PE;PER;400m E of San Francisco (at deviation of road N of Toraya), S side of road, 20m from margin of Rio Chalhuanca;17/04/98;SS   7257;2465;Tuberosa;NULL
+6;PI;498214;SPEC;species;-84.833;0829S;-776.166;07737W;D. Ancash;P. Sihuas;PE;PER;Cerro Santa Rosa;NULL;OCH  13009;3100;Piurana;NULL
+7;PI;568922;BUE;buesii;-135.333;1332S;-719.333;07156W;D. Cusco;P. Urubamba;PE;PER;Ppuyupatamarca;NULL;OCH  13637;3300;Conicibaccata;NULL
+8;PI;607889;BUE;buesii;-132.333;1314S;-72.5;07230W;D. Cusco;P. Urubamba;PE;PER;growing about Rio Pacaymayo, at village of Pacaymayo, at crossing of River with Inca Trail N and W of Machu Pichu;13/03/98;SS   7235;3600;Conicibaccata;NULL
+9;PI;255516;DPH;bulbocastanum dolichophyllum;NULL;NULL;NULL;NULL;E. Jalisco;NULL;MX;MEX;Cuidad Guzman;NULL;GRA    300b;NULL;Bulbocastana;NULL
+10;PI;545752;DPH;bulbocastanum dolichophyllum;189.166;1855N;-997.166;09943W;E. Mexico;NULL;MX;MEX;East of Coatepec Harinas, between San Francisco and Porfirio Diaz;03/10/84;TRHRG  244;2450;Bulbocastana;NULL
+11;PI;498235;CHV;chavinense;-9.4;0924S;-770.333;07702W;D. Ancash;P. Huari;PE;PER;Tambillo;NULL;OCH  12072;3900;Megistacroloba;NULL
+12;PI;607890;CHI;chillonanum (=tenellum);-138.333;1350S;-72.25;07215W;D. Apurimac;P. Cotabambas;PE;PER;Quellomayo, 39 km SE of center of town of Cotabambas, ca. 10 km NW of town of Tambobamba, ca. 50 m E of road;21/03/98;SS   7239;4050;Tuberosa;NULL
+13;PI;497996;AZN;fendleri arizonicum;283.166;2819N;-107.35;10721W;E. Chihuahua;NULL;MX;MEX;Along road from La Junta to Tomochic. On E side of Papigochic River;22/09/82;TRHRG    7;2090;Longipedicellata;NULL
+14;PI;570620;FLH;flahaultii;5.1;0506N;-740.333;07402W;D. Cundinamarca;NULL;CO;COL;Farm called Caldera del Diablo of San Benito, field called Panama, 12km from deviation Zipaquira to Pacho & San Cayetano;30/07/92;SCPL  1272;3400;Conicibaccata;NULL
+15;PI;583306;FLH;flahaultii;60.333;0602N;-724.833;07229W;D. Boyaca;NULL;CO;COL;On Paramo de Pisba, 88 km from Belen to Chita;07/08/92;SCPL  1287;3360;Conicibaccata;NULL
+16;PI;597750;GND;gandarillasii;-189.166;1855S;-65.1;06506W;D. Chuquisaca;P. Oropeza;BO;BOL;41 km N of Sucre (by posted road markers), on rd to Aiquile;25/02/93;SFVU  6624;2031;Tuberosa;NULL
+17;PI;498158;GAB;garcia-barrigae;80.833;0805N;-732.166;07313W;D. Norte de Santander;P. Abreyo;CO;COL;NULL;NULL;CCC   5170;NULL;Conicibaccata;NULL
+18;PI;365359;HCB;huancabambense;NULL;NULL;NULL;NULL;NULL;NULL;PE;PER;NULL;NULL;OCH S-  49;NULL;Yungasensa;NULL
+19;PI;607843;LPS;leptosepalum;26.85;2651N;-101.266;10116W;E. Coahuila;NULL;MX;MEX;Sierra de La Gloria, 15km E of Monclova to Candela, then S to farm of Dr. Cardenas;21/09/97;RSSV   926;2070;Tuberosa;NULL
+20;PI;558434;LES;lesteri;17.55;1733N;-974.333;09726W;E. Oaxaca;NULL;MX;MEX;On W side of Route 125, 3.4 km S of Route 190,just S of San Juan Teposcolul;16/09/88;SHGRF 4155;2250;Polyadenia;NULL
+21;PI;558435;LES;lesteri;162.166;1613N;-965.333;09632W;E. Oaxaca;NULL;MX;MEX;Along E side of Route 175, at km 134.1, about 50 m off road;19/09/88;SHGRF 4177;2390;Polyadenia;NULL
+22;PI;NULL;LBB;lobbianum;5.04;5.04 N;-75.19;75.19 W;D. Caldas;NULL;CO;COL;1.5 km E of road going to Nevado de Ruiz, on road from Manizales to Fresno.;NULL;SCPL  1211;3310;Tuberosa;NULL
+23;PI;607844;MCP;macropilosum;239.833;2359N;-997.333;09944W;E. Nuevo Leon;NULL;MX;MEX;slopes of Cerro El Viejo, along logging path up hill, ca.5 km by air ENE of town square of Zaragoza;24/09/97;RSSV   931;2750;Tuberosa;NULL
+24;PI;583298;MIN;minutifoliolum;-14.333;0126S;-784.166;07825W;P. Tungurahua;D. Banos;EC;ECU;0.5-1.5 km S of end of new stone road to Runtun, which ends 12 km from main east-west road through Banos;15/05/91;SCLp  5080;2850;Tuberosa;NULL
+25;PI;230462;MSP;moscopanum;2.35;0221N;-76.3;07618W;D. Huila;P. La Plata;CO;COL;Paramo de Moscopan. San Marcos, km 32 on the road from Purace to Moscopan;21/07/48;CPC   2176;2920;Conicibaccata;NULL
+26;PI;545825;NYR;nayaritense;215.833;2135N;-102.85;10251W;E. Zacatecas;NULL;MX;MEX;Hwy 70, 12 km NW of Jalpa, 18 km along the track SE towards Tlachichila;27/09/84;TRHRG  225;2460;Pinnatisecta;NULL
+27;PI;545820;NYR;nayaritense;21.65;2139N;-103.133;10308W;E. Jalisco;NULL;MX;MEX;From highway 54, 10 km SW of Jalpa, 263 km along track towards Tlaltenango;28/09/84;TRHRG  234a;2400;Pinnatisecta;NULL
+28;PI;583307;ORO;orocense;78.333;0750N;-732.333;07314W;D. Norte de Santander;NULL;CO;COL;On Cerro Oroque, 40.2 km from Abrego, then 300m N from main road, before antennas. Growing in wet stream;19/08/92;SCPL  1304;3100;Conicibaccata;NULL
+29;PI;498213;ORP;orophilum;-89.166;0855S;-778.333;07750W;D. Ancash;P. Sihuas;PE;PER;Near Quebrada Santa Cruz;NULL;OCH  13020;3400;Tuberosa;NULL
+30;PI;570618;OTI;otites;103.666;1022N;-72.8;07248W;D. Cesar;NULL;CO;COL;In El Cinco, 24.7 km from Manaure, in Sierra de Perija;12/08/92;SCPL  1291;2450;Conicibaccata;NULL
+31;PI;NULL;OXC;oxycarpum;18.14;18?14 N;-96.07;096?07 W;E. Veracruz;NULL;MX;MEX;Pedragal de la Joya;NULL;GRA      1;2000;Conicibaccata;NULL
+32;PI;498026;OXC;oxycarpum;183.333;1820N;-970.666;09704W;E. Puebla;NULL;MX;MEX;Road from Tehuacan to Oaxaca turning off at Coxcatlan towards Zoquitlan;23/10/83;TRHRG  182;2640;Conicibaccata;NULL
+33;PI;561650;PCJ;paucijugum;-0.65;0039S;-78.5;07830W;P. Cotopaxi;D. Macachi;EC;ECU;In Parque Nacional Cotopaxi, 10.5 km east of Proyecto Llamas Station;03/06/91;SCLp  5129;3610;Conicibaccata;NULL
+34;PI;365365;PUR;piurana;NULL;NULL;NULL;NULL;NULL;NULL;PE;PER;NULL;NULL;OCH S-  63;NULL;Piurana;NULL
+35;PI;558227;RCH;rechei;-292.166;2913S;-67.65;06739W;P. La Rioja;D. Chilecito;AR;ARG;Los Manzanos, N of Sanogasta;04/04/90;SCl   4572;1820;Tuberosa;NULL
+36;PI;607887;SAN;santolallae;-131.833;1311S;-72.55;07233W;D. Cusco;P. Urubamba;PE;PER;along Inca train from Machu Pichu N to Winaywayna, about 1.5 km S of Winaywayna;21/03/98;SS   7228;2650;Conicibaccata;NULL
+37;PI;365363;SCB;scabrifolium;-94.166;0925S;-767.833;07647W;D. Huanuco;P. Llata;PE;PER;NULL;NULL;OCH S-  60;3000;Tuberosa;NULL
+38;PI;558114;SIT;sitiens;NULL;NULL;NULL;NULL;NULL;NULL;CL;CHL;NULL;NULL;CON    724;NULL;Juglandifolia;NULL
+39;PI;583320;SUC;sucubunense;18.333;0150N;-765.166;07631W;D. Cauca;NULL;CO;COL;At Impala, 300m from Rio Sucubun, about 9km SE from Valencia (2 hour walk from Valencia), in Valle de las Papas;18/07/92;SCPL  1255;2950;Conicibaccata;NULL
+40;PI;570642;TRN;tarnii;NULL;NULL;NULL;NULL;E. Hidalgo;NULL;MX;MEX;Route 85 from Zimapan to Tamazunchale, turning off at Trancas and going 6 km towards Nicolas Flores;17/10/91;HJT   7365;2300;Pinnatisecta;NULL
+41;PI;498048;TRN;tarnii;208.666;2052N;-992.666;09916W;E. Hidalgo;NULL;MX;MEX;From Las Trancas, hwy 85, Zimapan to Jacala;09/08/83;TRHRG   79;2500;Pinnatisecta;NULL
+42;PI;473473;TND;tundalomense;NULL;NULL;NULL;NULL;P. Loja;C. Cuenca;EC;ECU;Nudo De Portete     ??;NULL;OCHS 11003;3400;Conicibaccata;NULL
+43;PI;546033;SPEC;species;-19.55;1933S;-649.166;06455W;D. Chuquisaca;P. Yamparaez;BO;BOL;Miska Mayu, 10 km south of Tarabuco on road to Icla;09/04/87;HOHL   298;3000;Piurana;NULL
+44;PI;546029;UGT;ugentii;-19.6;1936S;-646.166;06437W;D. Chuquisaca;P. Azurduy;BO;BOL;37-38 km beyond the turn-off to Torre Pampa on the Tarabuco-Azurduy road;06/04/87;HOHL   284;3450;Tuberosa;NULL
+45;PI;498204;ACG;acroglossum;-106.666;1040S;-760.833;07605W;D. Pasco;P. Pasco;PE;PER;Pampania;NULL;OCHS 11297;3500;Piurana;NULL
+46;PI;230495;ACS;acroscopicum;-174.666;1728S;-700.333;07002W;D. Tacna;P. Tarata;PE;PER;Chivateria;21/03/53;OCH   2043;3450;Tuberosa;NULL
+47;PI;611096;AJH;ajanhuiri;NULL;NULL;NULL;NULL;NULL;NULL;BO;BOL;NULL;NULL;PI 611096;NULL;Tuberosa;NULL
+48;PI;442701;BLG;blanco-galdosii;-71.833;0711S;-782.166;07813W;D. Cajamarca;NULL;PE;PER;Pencalca el Mirador;NULL;OCH  10673;NULL;Piurana;NULL
+49;PI;310989;CHQ;chiquidenum;-69.666;0658S;-785.666;07834W;D. Cajamarca;P. Cajamarca;PE;PER;Road from Hualgayo to Cajamarca, Chimola valley;29/03/64;HAW   2435;3350;Tuberosa;NULL
+50;PI;473459;CHQ;chiquidenum;NULL;NULL;NULL;NULL;D. Cajamarca;P. Contumaza;PE;PER;Cerro Chungarran;NULL;OCHS 11059;3200;Tuberosa;NULL
+51;PI;310942;CHQ;chiquidenum;-70.833;0705S;-785.833;07835W;D. Cajamarca;P. Granja Porcon;PE;PER;NULL;06/06/63;UGN   5398;NULL;Tuberosa;NULL
+52;PI;275202;CLR;clarum;NULL;NULL;NULL;NULL;D. Totonicapan;NULL;GT;GTM;22 miles N of Quezaltenango, near the Quezaltenango border;02/11/58;HHLs   1833;3250;Bulbocastana;NULL
+53;PI;611082;EDN;edinense;19.15;1909N;-998.833;09953W;E. Mexico;NULL;MX;MEX;35.7km SW of Toluca (by posted road signs), shortly SW of entrance to Meson Viejo, 50m downslope, 300m N of Rt.134;20/10/97;RSSV   983;2700;Demissa;NULL
+54;PI;497999;AZN;fendleri arizonicum;282.333;2814N;-107.45;10727W;E. Chihuahua;NULL;MX;MEX;30 km along the road to San Juanito from the La Junta to Yepachic Hwy;22/09/82;TRHRG   10;2040;Longipedicellata;NULL
+55;PI;498000;AZN;fendleri arizonicum;281.333;2808N;-107.5;10730W;E. Chihuahua;NULL;MX;MEX;Near Cebolla, 36 km along the road from the La Junta to Yepachic Hwy;22/09/82;TRHRG   11;2060;Longipedicellata;NULL
+56;PI;498001;AZN;fendleri arizonicum;291.333;2908N;-108.133;10808W;E. Chihuahua;NULL;MX;MEX;About 5 km W of Madera on the road to Sirupa;23/09/82;TRHRG   16;2050;Longipedicellata;NULL
+57;PI;566752;FRN;fernandezianum;-336.333;3338S;-788.666;07852W;P. Juan Fernandez;NULL;CL;CHL;150 from Experimental Garden at CONAF (Corporation NationalForest) Revegeta;13/01/91;AND   1569;NULL;Etuberosa;NULL
+58;PI;566755;FRN;fernandezianum;NULL;NULL;NULL;NULL;P. Juan Fernandez;NULL;CL;CHL;NULL;NULL;CON     88;NULL;Etuberosa;NULL
+59;PI;566756;FRN;fernandezianum;NULL;NULL;NULL;NULL;P. Juan Fernandez;NULL;CL;CHL;NULL;NULL;CON    819;NULL;Etuberosa;NULL
+60;PI;498166;FLH;flahaultii;50.333;0502N;-74;07400W;D. Cundinamarca;P. Zipaguini;CO;COL;NULL;NULL;CCC   5164;NULL;Conicibaccata;NULL
+61;PI;583317;FLH;flahaultii;NULL;NULL;NULL;NULL;D. Boyaca;NULL;CO;COL;Cluta, Paramo de la Cana;26/07/81;CCC   5259;NULL;Conicibaccata;NULL
+62;PI;597751;GND;gandarillasii;-18.5;1830S;-651.666;06510W;D. Cochabamba;P. Campero;BO;BOL;29 km S of Aiquile, on road to Sucre;04/03/93;SFVU  6656;2241;Tuberosa;NULL
+63;PI;498245;IMT;immite;-81.166;0807S;-790.333;07902W;D. La Libertad;P. Otuzco;PE;PER;Between Casmiche and  San Chicon  ??;NULL;OCH  13346;3700;Tuberosa;NULL
+64;PI;365331;IMT;immite;-98.666;0952S;-777.333;07744W;D. Ancash;P. Cerro Jutcapampa;PE;PER;Near Huayan;NULL;OCH S-  56;2400;Tuberosa;NULL
+65;PI;568985;IRS;irosinum;NULL;NULL;NULL;NULL;D. Cajamarca;P. Cutervo;PE;PER;Cerro Angurra, near Cutervo;05/06/77;OCH  11646;2600;Conicibaccata;NULL
+66;PI;583305;IRS;irosinum;NULL;NULL;NULL;NULL;D. Cajamarca;P. Cutervo;PE;PER;Coronilla;NULL;OCHS 15210;2800;Conicibaccata;NULL
+67;PI;498253;LGL;lignicaule;-133.333;1320S;-71.95;07157W;D. Cusco;P. Calca;PE;PER;Intihuatana;NULL;OCH  11617;2800;Lignicaulia;NULL
+68;PI;208780;LGC;longiconicum;94.666;0928N;-842.166;08413W;P. Cartago;NULL;CR;CRI;Isle Bonita;NULL;PI  208780 HOP;NULL;Conicibaccata;NULL
+69;PI;604093;LGC;longiconicum;103.166;1019N;-84.8;08448W;P. Alajuela;NULL;CR;CRI;Monteverde Cloud Forest Preserve, division point of provinces A, P and G;30/11/96;SHV   7109;1830;Conicibaccata;48
+70;PI;604095;LGC;longiconicum;100.833;1005N;-840.666;08404W;P. Heredia;NULL;CR;CRI;Parque Nacional Braulio Carillo sector Cerro Chompipes;10/12/96;SHV   7123;2200;Conicibaccata;NULL
+71;PI;558090;LYC;lycopersicoides;NULL;NULL;NULL;NULL;NULL;NULL;CL;CHL;NULL;NULL;CON    670;NULL;Juglandifolia;NULL
+72;PI;558091;LYC;lycopersicoides;NULL;NULL;NULL;NULL;NULL;NULL;CL;CHL;NULL;NULL;CON    704;NULL;Juglandifolia;NULL
+73;PI;NULL;LYC;lycopersicoides;-17.46;17?46 S;-69.57;069?57 W;D. Tacna;P. Tacna;PE;PER;Near Causuri, 1 km from Palca.;NULL;RCK LA 461;2890;Juglandifolia;NULL
+74;PI;607845;MCP;macropilosum;239.833;2359N;-997.166;09943W;E. Nuevo Leon;NULL;MX;MEX;slopes of Cerro El Viejo, along logging path up hill, ca.6 km by air ENE of town square of Zaragoza;24/09/97;RSSV   932;2850;Tuberosa;NULL
+75;PI;245087;MAG;maglia;-329.666;3258S;-715.333;07132W;P. Valparaiso;D. Vina del Mar;CL;CHL;Between ViÃ±a del Mar and Concon;05/01/58;COR  C   1;NULL;Maglia;NULL
+76;PI;558316;MAG;maglia;-32.55;3233S;-714.333;07126W;P. Valparaiso;D. Petorca;CL;CHL;Ca. 500 m S of beach at Zapallar, at house of Rosa Perez;02/03/91;SCo   4310;10;Maglia;NULL
+77;PI;607884;MRN;marinasense;-13.6;1336S;-718.833;07153W;D. Cusco;P. Quispicanchis;PE;PER;S of Cusco, E of main road through town, direction Granja Kaira San Geronimo to km7.5, 300m uphill;03/03/98;SS   7209;3550;Tuberosa;NULL
+78;PI;619119;MRL;morelliforme;196.166;1937N;-97.05;09703W;E. Veracruz;NULL;MX;MEX;On road from Perote to Jalapa just E of Toxtlacoaya, 3.6 km W of Las Vigas, 20 m off S side of road.;02/10/97;RSSV   946;2300;Moreliformia;NULL
+79;PI;545720;MRL;morelliforme;183.333;1820N;-970.666;09704W;E. Puebla;NULL;MX;MEX;Road from Tehuacan to Oaxaca, turning off at Coxcatlan, 20 km to Zoquitlan;23/10/83;TRHRG  178;2640;Moreliformia;NULL
+80;PI;545775;MRL;morelliforme;16.5;1630N;-923.166;09219W;E. Chiapas;NULL;MX;MEX;Hwy 190 from San Cristobal de las Casas to Comitan;23/10/84;TRHRG  281;2400;Moreliformia;NULL
+81;PI;498159;MSP;moscopanum;2.4;0224N;-76.45;07627W;D. Cauca;NULL;CO;COL;Coconuco;NULL;CCC   5147;NULL;Conicibaccata;NULL
+82;PI;570636;ORO;orocense;7.85;0751N;-732.333;07314W;D. Norte de Santander;NULL;CO;COL;On Cerro Oroque (also known as Jurisdicciones), 46 km from Abrego, growing;17/08/92;SCPL  1303;3350;Conicibaccata;NULL
+83;PI;498209;ORP;orophilum;-92.666;0916S;-772.666;07716W;D. Ancash;P. Huari;PE;PER;Acopalca, in route from Huari to San Luis;NULL;OCH  12080;3200;Tuberosa;NULL
+84;PI;498212;ORP;orophilum;-91.666;0910S;-776.666;07740W;D. Ancash;P. Yungay;PE;PER;Maria Huayta;NULL;OCH  13015;3750;Tuberosa;NULL
+85;PI;545776;OXC;oxycarpum;174.666;1728N;-96.5;09630W;E. Oaxaca;NULL;MX;MEX;21.8 km N of Ixtlan de Juarez on Hwy 175 to Tuxtepec;16/10/84;TRHRG  272;2870;Conicibaccata;NULL
+86;PI;545779;OXC;oxycarpum;19.55;1933N;-971.666;09710W;E. Veracruz;NULL;MX;MEX;Turning off route 140 between Perote and Las Vigas, S from Sierra de Agua;01/11/84;TRHRG  288;2840;Conicibaccata;NULL
+87;PI;587114;PRM;paramoense;87.833;0847N;-70.8;07048W;E. Merida;NULL;VE;VEN;50-200 m S of S end of Laguna Negra, 5.5. km ESE (by air) from Apartaderos;02/09/92;SVRPV 6321;3480;Tuberosa;NULL
+88;PI;604202;PRM;paramoense;8.75;0845N;-708.666;07052W;E. Merida;NULL;VE;VEN;growing on SW side of Quebrada Saisay, ca. 200 m from middle of valley;07/09/92;SVRPV 6329;3500;Tuberosa;NULL
+89;PI;583299;PCJ;paucijugum;-0.6;0036S;-786.333;07838W;P. Cotopaxi;D. Cotopaxi;EC;ECU;In Parque Nacional Cotopaxi, 1.3 km east of center of fenced in deer (venad;21/05/91;SCLp  5096;3630;Conicibaccata;NULL
+90;PI;561651;PCJ;paucijugum;-1.3;0118S;-787.666;07846W;P. Cotopaxi;D. Simiatug;EC;ECU;30.5 km southeast of Ambato on road to Guaranda;05/06/91;SCLp  5130;3580;Conicibaccata;NULL
+91;PI;590922;PCS;paucissectum;NULL;NULL;NULL;NULL;D. Piura;P. Huancabamba;PE;PER;Cashcapampa;NULL;OCH  11628;NULL;Piurana;NULL
+92;PI;595478;SMB;sambucinum;20.8;2048N;-100.433;10026W;E. Queretaro;NULL;MX;MEX;Foot-hills of El Buey, mountain;23/08/93;ROD   2563;2050;Pinnatisecta;NULL
+93;PI;607894;SND;sandemanii;-16.4;1624S;-714.333;07126W;D. Arequipa;P. Arequipa;PE;PER;E side Quebrada Honda, 25m from base, 100m upstream N from Arequipa-Chiguata road, at point 59.8 km ENE of PanAmHighway;09/04/98;SS   7250;2750;Tuberosa;NULL
+94;PI;607895;SND;sandemanii;-162.833;1617S;-715.166;07131W;D. Arequipa;P. Arequipa;PE;PER;18 km N of main town square (Plaza de Armas) of Arequipa on road to Cabreria, then 100-150 m W or road;09/04/98;SS   7252;2600;Tuberosa;NULL
+95;PI;558115;SIT;sitiens;NULL;NULL;NULL;NULL;NULL;NULL;CL;CHL;NULL;NULL;CON    725;NULL;Juglandifolia;NULL
+96;PI;590926;TUQ;tuquerrense;NULL;NULL;NULL;NULL;D. Narino;P. Cumbal;CO;COL;Tambillo, at Llano Grande, farm of Billy Bert;29/08/80;CCC   5180;NULL;Piurana;NULL
+97;PI;619114;VLR;velardei;-13.5;1330S;-72.8;07248W;D. Apurimac;P. Abancay;PE;PER;Marchancay, 5 km walk NW uphill of Cachora;22/03/98;SS   7240;3140;Tuberosa;NULL
+98;PI;614703;YUN;yungasense;-16.4;1624S;-676.333;06738W;D. La Paz;P. Nor Yungas;BO;BOL;1.5km downstream E of Rio Tamampaya, after hanging bridge in Puente Villa, on river floodplain;20/03/93;SFVU  6739;1243;Yungasensa;NULL
+99;GLKS;32830;ACH;achacachense;NULL;NULL;NULL;NULL;La Paz;NULL;BO;BOL;Between Achacachi & Sorata, ~ 2km and ~3km towards Sorata from highest point on road.;NULL;HPS      3;3900;Tuberosa;NULL
+100;GLKS;32436;ACS;acroscopicum;-15.2;1512S;-729.333;07256W;D. Arequipa;P. Cotahuasi;PE;PER;Ayachani, above Cotahuasi;NULL;OCH S-  86;3300;Tuberosa;NULL
+101;GLKS;32292;AGF;agrimonifolium;168.166;1649N;-925.833;09235W;E. Chiapas;NULL;MX;MEX;Road from San Cristobal de las Casas to Cerro Zontehuitz;20/10/84;TRHRG  277;2750;Conicibaccata;NULL
+102;GLKS;35297;ABZ;albornozii;-4;0400S;-792.833;07917W;P. Loja;D. Catamayo;EC;ECU;300-500 m south of old road from Loja-Catamayo;01/05/91;SCLp  5030;2350;Piurana;NULL
+103;GLKS;35298;ABZ;albornozii;-4;0400S;-792.666;07916W;P. Loja;D. Catamayo;EC;ECU;On old road from Loja to Catamayo, on south slope of Cerro Villonaco;01/05/91;SCLp  5032;2630;Piurana;NULL
+104;GLKS;32282;AMB;ambosinum;-82.666;0816S;-77.85;07751W;D. Ancash;P. Yana-Cocha;PE;PER;Near Conchucos;NULL;OCH S-  59;3500;Tuberosa;NULL
+105;GLKS;35299;AMB;ambosinum;NULL;NULL;NULL;NULL;D. Cusco;NULL;PE;PER;Chacan;14/01/66;UGN   4297;NULL;Tuberosa;NULL
+106;GLKS;1638;ADR;andreanum;1.2;0112N;-769.166;07655W;D. Cauca;NULL;CO;COL;Comisaria de Putumayo, valley of Sibundoy, 1.5 km from Santiago;30/08/65;HAW   2546;2100;Tuberosa;NULL
+107;GLKS;1639;ADR;andreanum;-0.5333;0032S;-779.166;07755W;P. Napo;D. Cosanga;EC;ECU;About 2 hr. walk west of Baeza-Tena Road, south of Rio Bermejo;02/06/91;SCLp  5126;2100;Tuberosa;NULL
+108;GLKS;5303;ADR;andreanum;-21.666;0210S;-784.166;07825W;P. Morona Santiago;NULL;EC;ECU;About 16 km NW of San Vicente, on old footpath on W side of Rio Upano;19/06/91;SCLp  5152;2650;Tuberosa;NULL
+109;GLKS;30082;ARP;aracc-papa;NULL;NULL;NULL;NULL;NULL;NULL;PE;PER;NULL;NULL;GLK   5.  4;NULL;Tuberosa;NULL
+110;GLKS;30081;ARP;aracc-papa;NULL;NULL;NULL;NULL;D. Cusco;NULL;PE;PER;San Sebastian;NULL;SCH    150;NULL;Tuberosa;NULL
+111;GLKS;32832;ARZ;arnezii;-19.6;1936S;-64.65;06439W;D. Chuquisaca;P. Azurduy;BO;BOL;On north edge of Abra Kasa going towards Tarabuco.  59 km from Azurduy;01/04/86;HAO    154;2600;Yungasensa;NULL
+112;GLKS;32833;ARZ;arnezii;-19.55;1933S;-64.65;06439W;D. Chuquisaca;P. Azurduy;BO;BOL;26 km from Abra Kasa (85 km from Azurduy) on the road to Tarabuco;01/04/86;HAO    159;3200;Yungasensa;NULL
+113;GLKS;32834;ARZ;arnezii;-195.666;1934S;-645.333;06432W;D. Chuquisaca;P. Azurduy;BO;BOL;About 5 km before San Pedro on the road from Corralon Mayu;08/04/87;HOHL   297;2000;Yungasensa;NULL
+114;GLKS;32836;AST;astleyi;-194.333;1926S;-65.4;06524W;D. Potosi;P. Saavedra;BO;BOL;78 km from Potosi on road to Sucre, 34 km beyond Betanzos;22/03/86;HAO    126;3280;Megistacroloba;NULL
+115;GLKS;35309;BLG;blanco-galdosii;NULL;NULL;NULL;NULL;NULL;NULL;PE;PER;NULL;NULL;OCH   5169;NULL;Piurana;NULL
+116;GLKS;2717;BST;brachistotrichum;NULL;NULL;NULL;NULL;NULL;NULL;MX;MEX;NULL;NULL;GLK 157.  6;NULL;Pinnatisecta;NULL
+117;GLKS;32801;BST;brachistotrichum;NULL;NULL;NULL;NULL;E. Aguascalientes;NULL;MX;MEX;Collected between Aguascalientes and Calvillo;NULL;GRA 347 x 348;NULL;Pinnatisecta;NULL
+118;GLKS;32714;BST;brachistotrichum;291.333;2908N;-106.083;10605W;E. Chihuahua;NULL;MX;MEX;Majalca, 40 miles NW of Chihuahua, near the village;14/08/58;HHLs   1234;2150;Pinnatisecta;24
+119;GLKS;35399;DPH;bulbocastanum dolichophyllum;190.166;1901N;-99.1;09906W;E. Morelos;NULL;MX;MEX;Km 90 on railway from Mexico City to Cuernavaca, 0.5 km above El Parque;05/10/58;HHLs   1632;2300;Bulbocastana;NULL
+120;GLKS;35322;PTT;bulbocastanum partitum;151.666;1510N;-915.166;09131W;D. Huehuetenango;NULL;GT;GTM;Road from Huehuetenango to Quezaltenango, 5 km S of Malacatancito;31/10/58;HHLs   1796;1800;Bulbocastana;NULL
+121;GLKS;35323;PTT;bulbocastanum partitum;161.666;1610N;-92.2;09212W;E. Chiapas;NULL;MX;MEX;9.4 km S of Route 190 (from near Teopisca), to Las Rosas;27/09/88;SHGRF 4224;1720;Bulbocastana;NULL
+122;GLKS;5328;CJM;cajamarquense;-69.666;0658S;-791.833;07911W;D. Cajamarca;P. Cajamarca;PE;PER;Above Chiquiden on the highway from Cajamarca to Chiclayo;30/03/64;HAW   2436;2800;Tuberosa;NULL
+123;GLKS;32175;SPEC;species;-157.833;1547S;-686.666;06840W;D. La Paz;P. Larecaja;BO;BOL;Near Mines of Martinsito, District of Sorata on the slopes of Illampu;09/03/78;OCHS 11913;4000;Tuberosa;NULL
+124;GLKS;99;CPH;cardiophyllum;NULL;NULL;NULL;NULL;E. Michoacan;NULL;MX;MEX;NULL;NULL;GRA 298 x 218;NULL;Pinnatisecta;24
+125;GLKS;30162;CHC;chacoense;NULL;NULL;NULL;NULL;P. Tucuman;NULL;AR;ARG;NULL;NULL;BRU      6b;NULL;Yungasensa;NULL
+126;GLKS;30161;CHC;chacoense;NULL;NULL;NULL;NULL;NULL;NULL;AR;ARG;North of Argentina;NULL;BRU    444;NULL;Yungasensa;NULL
+127;GLKS;30180;CHC;chacoense;NULL;NULL;NULL;NULL;NULL;NULL;AR;ARG;NULL;NULL;HHRO 3305 x ZHK 780b;NULL;Yungasensa;NULL
+128;GLKS;30125;CHA;chaucha;NULL;NULL;NULL;NULL;NULL;NULL;PE;PER;NULL;NULL;"(VIR; K-9598)";NULL;Tuberosa;NULL
+129;GLKS;30115;CHA;chaucha;NULL;NULL;NULL;NULL;D. Cusco;NULL;PE;PER;Cusco;NULL;"(VIR; P5-404-1)";NULL;Tuberosa;NULL
+130;GLKS;30120;CHA;chaucha;NULL;NULL;NULL;NULL;D. Cusco;NULL;PE;PER;Cusco;NULL;"(VIR; P5-457-12)";NULL;Tuberosa;NULL
+131;GLKS;30118;CHA;chaucha;NULL;NULL;NULL;NULL;D. Cusco;NULL;PE;PER;Cusco;NULL;"(VIR; P5-457-2)";NULL;Tuberosa;NULL
+132;GLKS;30119;CHA;chaucha;NULL;NULL;NULL;NULL;D. Cusco;NULL;PE;PER;Cusco;NULL;"(VIR; P5-457-4)";NULL;Tuberosa;NULL
+133;GLKS;32378;CLR;clarum;NULL;NULL;NULL;NULL;D. Totonicapan;NULL;GT;GTM;Between Totonicapan and Los Encuentros;19/10/56;GRA    138;3000;Bulbocastana;NULL
+134;GLKS;35433;COP;coelestipetalum;NULL;NULL;NULL;NULL;D. Apurimac;NULL;PE;PER;NULL;NULL;OCH   7728;NULL;Tuberosa;NULL
+135;GLKS;35434;COP;coelestipetalum;NULL;NULL;NULL;NULL;D. Apurimac;P. Cotabambas;PE;PER;Between Cole and  Colesniyoc;NULL;OCH  13674;3600;Tuberosa;NULL
+136;GLKS;31536;COL;colombianum;NULL;NULL;NULL;NULL;NULL;NULL;CO;COL;NULL;NULL;CCC   4439;NULL;Conicibaccata;48
+137;GLKS;1530;spec;species;NULL;NULL;NULL;NULL;NULL;NULL;CO;COL;NULL;NULL;EBS    572;NULL;Conicibaccata;NULL
+138;GLKS;5343;COL;colombianum;0.1333;0008N;-779.666;07758W;P. Pichincha;D. Nevado Cayambe;EC;ECU;By trail on west end of Laguna San Marcos, near south end of lake;18/04/91;SCLp  5004;3450;Conicibaccata;NULL
+139;GLKS;35340;MLM;commersonii malmeanum;-23;2300S;-60;06000W;D. Boqueron;d. Pedro P. Pena;PY;PRY;Chaco;NULL;BRU     18;NULL;Commersoniana;NULL
+140;GLKS;31620;CUR;curtilobum;NULL;NULL;NULL;NULL;NULL;NULL;EC;ECU;Cuenca;NULL;"(VIR; P5-480-2)";NULL;Tuberosa;NULL
+141;GLKS;31628;CUR;curtilobum;NULL;NULL;NULL;NULL;NULL;NULL;BO;BOL;NULL;NULL;CAR     30;NULL;Tuberosa;NULL
+142;GLKS;35346;CUR;curtilobum;NULL;NULL;NULL;NULL;NULL;NULL;CO;COL;NULL;NULL;CCC    479;NULL;Tuberosa;NULL
+143;GLKS;31627;CUR;curtilobum;NULL;NULL;NULL;NULL;D. Cusco;NULL;PE;PER;Pancartambo;NULL;YAB  284;NULL;Tuberosa;NULL
+144;GLKS;32882;DDS;doddsii;-177.333;1744S;-65.1;06506W;D. Cochabamba;P. Carrasco;BO;BOL;2 km from Totora on road to Sucre. About 300 m towards Sucre;04/03/86;HAO     19;2900;Tuberosa;NULL
+145;GLKS;32883;DDS;doddsii;-179.833;1759S;-651.166;06507W;D. Cochabamba;P. Campero;BO;BOL;24 km north of Aiquile on road to Totora.  9 km before crossing Rio Mizque;24/03/86;HAO    138;2260;Tuberosa;NULL
+146;GLKS;32880;DDS;doddsii;-186.666;1840S;-651.666;06510W;D. Cochabamba;P. Carrasco;BO;BOL;Km 192, road from Sucre to Epizana, 40 km from Aiquile;03/03/71;HHCH  4534;2600;Tuberosa;NULL
+147;GLKS;32342;DCM;dolichocremastrum;-9.4;0924S;-770.333;07702W;D. Ancash;P. Huari;PE;PER;Tambillo, before the bridge on the Cahuish river;NULL;OCH  12071;3900;Tuberosa;NULL
+148;GLKS;35348;DCM;dolichocremastrum;-90.833;0905S;-770.166;07701W;D. Ancash;P. San Ant.Raimondi;PE;PER;Vecinity of  Cerro Coto , Ccaccas near Llamellin;NULL;OCH  12074;4000;Tuberosa;NULL
+149;GLKS;35349;DCM;dolichocremastrum;-95.166;0931S;-772.333;07714W;D. Ancash;P. Huari;PE;PER;San Marcos, in route from San Luis;NULL;OCH  13013;3900;Tuberosa;NULL
+150;GLKS;25493;EDN;edinense;191.666;1910N;-99.8;09948W;E. Mexico;NULL;MX;MEX;Parq.Nac. Nevado de Tolu, on Rt.10 at Loma Alta, 1,2 km S of La Puerta (on Rt.124), E side road;20/10/97;RSSV   969;3330;Demissa;NULL
+151;GLKS;25492;EDN;edinense;191.833;1911N;-99.65;09939W;E. Mexico;NULL;MX;MEX;2,4 km SW of Zacango (zoo) at SW end, on paved and then dirt road ascending Nevado de Toluca;27/10/97;RSSV   994;2840;Demissa;NULL
+152;GLKS;25494;EDN;edinense;191.833;1911N;-996.666;09940W;E. Mexico;NULL;MX;MEX;3,5 km SW of Zacango (zoo) at SW end, on paved and then dirt road ascending Nevado de Toluca;27/10/97;RSSV   995;2800;Demissa;NULL
+153;GLKS;35331;EHR;ehrenbergii;214.166;2125N;-102.65;10239W;E. Jalisco;NULL;MX;MEX;201 km from Guadalajara towards San Luis Potosi;31/08/49;HAW   1095;1850;Bulbocastana;NULL
+154;GLKS;35332;EHR;ehrenbergii;22.15;2209N;-100.983;10059W;E. San Luis Potosi;NULL;MX;MEX;Hills S of San Luis Potosi, 322 km from Guadalajara;31/08/49;HAW   1097;2200;Bulbocastana;NULL
+155;GLKS;32158;EHR;ehrenbergii;227.833;2247N;-102.583;10235W;E. Zacatecas;NULL;MX;MEX;726.5 km from Mexico towards Zacatecas;14/09/49;HAW   1100;2100;Bulbocastana;NULL
+156;GLKS;30425;FEN;fendleri;NULL;NULL;NULL;NULL;E. New Mexico;NULL;US;USA;NULL;NULL;CPC   1577.3;NULL;Longipedicellata;48
+157;GLKS;30428;FEN;fendleri;NULL;NULL;NULL;NULL;E. New Mexico;NULL;US;USA;Clouderoff;NULL;GRA    391;NULL;Longipedicellata;48
+158;GLKS;30429;FEN;fendleri;NULL;NULL;NULL;NULL;E. New Mexico;NULL;US;USA;Coronado, national park;NULL;GRA    393;NULL;Longipedicellata;48
+159;GLKS;30433;FEN;fendleri;329.333;3256N;-105.716;10543W;E. New Mexico;C. Otero;US;USA;Lincoln National Forest.  Lane located a quarter of a mile S of Cloudcroft;31/07/58;HHLs   1156;2600;Longipedicellata;NULL
+160;GLKS;30444;FEN;fendleri;262.666;2616N;-105.45;10527W;E. Chihuahua;NULL;MX;MEX;11 miles from Vergel on road from Parral;18/08/58;HHLs   1314;2500;Longipedicellata;NULL
+161;GLKS;35350;AZN;fendleri arizonicum;284.333;2826N;-107;10700W;E. Chihuahua;NULL;MX;MEX;17 km from Cuauhtemoc towards La Junta;22/09/82;TRHRG    6;2090;Longipedicellata;NULL
+162;GLKS;35351;AZN;fendleri arizonicum;282.333;2814N;-107.45;10727W;E. Chihuahua;NULL;MX;MEX;27 km along the road to San Juanito from the La Junta to Yepachic Hwy;22/09/82;TRHRG    9;2060;Longipedicellata;NULL
+163;GLKS;32423;GND;gandarillasii;-177.166;1743S;-65.2;06512W;D. Cochabamba;P. Mizque;BO;BOL;Julpe, Near the Rio Julpe. Upstream from the crossing just before village;04/03/86;HAO     18;2200;Tuberosa;NULL
+164;GLKS;715;PTR;gourlayi pachytrichum;NULL;NULL;NULL;NULL;D. Potosi;P. Frias;BO;BOL;Near Potosi;01/03/59;ROR    184b;4000;Tuberosa;24
+165;GLKS;31512;SPEC;species;NULL;NULL;NULL;NULL;NULL;NULL;MX;MEX;NULL;NULL;GLK  65.  5;NULL;Demissa;NULL
+166;GLKS;32762;HAW;hawkesianum;-253.333;2520S;-658.666;06552W;P. Salta;D. San Carlos;AR;ARG;Cuesta del Obispo, La Herradura, route 59;24/03/73;OKA   4849;3300;Tuberosa;24
+167;GLKS;32765;HAW;hawkesianum;-251.666;2510S;-658.666;06552W;P. Salta;D. Chicoana-San Carlos;AR;ARG;Route 59, km 56, 13 km from pie de la cuesta and 16 km W of Hosteria Maray;04/04/73;OKA   4911;3340;Tuberosa;NULL
+168;GLKS;32852;HDM;hondelmannii;-192.333;1914S;-651.666;06510W;D. Chuquisaca;P. Yamparaez;BO;BOL;Chamicle, 7 km from turn-off from the Sucre-Tarabuco road toward Sotomayor;09/03/86;HAO     57;2700;Tuberosa;NULL
+169;GLKS;32885;HPS;hoopesii;-194.833;1929S;-64.7;06442W;D. Chuquisaca;P. Azurduy;BO;BOL;103 km from Azurduy, 13 km beyond Cruz Kasa, on the road to Tarabuco;01/04/86;HAO    161b;3440;Tuberosa;NULL
+170;GLKS;32441;HCB;huancabambense;NULL;NULL;NULL;NULL;NULL;NULL;PE;PER;NULL;NULL;GLK 155.  1  OCH;NULL;Yungasensa;NULL
+171;GLKS;32829;HMP;humectophilum;NULL;NULL;NULL;NULL;D. Amazonas;P. Chachapoyas;PE;PER;Convento;NULL;OCH  13247;2800;Tuberosa;24
+172;GLKS;32819;IMT;immite;-101.666;1010S;-776.666;07740W;D. Ancash;P. Uahpa-cotu;PE;PER;Near Huayan;NULL;OCH S-  53;2500;Tuberosa;NULL
+173;GLKS;25465;JUZ;juzepczukii;NULL;NULL;NULL;NULL;D. Cusco;NULL;PE;PER;NULL;NULL;GLKS 25465;NULL;Tuberosa;NULL
+174;GLKS;25467;JUZ;juzepczukii;NULL;NULL;NULL;NULL;NULL;NULL;UNK;;NULL;NULL;GLKS 25467;NULL;Tuberosa;NULL
+175;GLKS;25468;JUZ;juzepczukii;NULL;NULL;NULL;NULL;NULL;NULL;UNK;;NULL;NULL;GLKS 25468;NULL;Tuberosa;NULL
+176;GLKS;25469;JUZ;juzepczukii;NULL;NULL;NULL;NULL;NULL;NULL;UNK;;NULL;NULL;GLKS 25469;NULL;Tuberosa;NULL
+177;GLKS;25470;JUZ;juzepczukii;NULL;NULL;NULL;NULL;NULL;NULL;UNK;;NULL;NULL;GLKS 25470;NULL;Tuberosa;NULL
+178;GLKS;32439;LXS;laxissimum;NULL;NULL;NULL;NULL;D. Junin;P. Satipo;BO;PER;La Calabaza;NULL;OCHS 11855;2500;Conicibaccata;NULL
+179;GLKS;32215;LGL;lignicaule;-134.333;1326S;-71.85;07151W;D. Cusco;P. Calca;PE;PER;Pisac, valley Intihuatana;17/04/59;EBS   1884;3100;Lignicaulia;24
+180;GLKS;35363;LGC;longiconicum;NULL;NULL;NULL;NULL;P. Cartago;NULL;CR;CRI;Pan-American highway, 60 km S of Cartago;07/11/49;HAW   1130;2850;Conicibaccata;NULL
+181;GLKS;35430;MRN;marinasense;NULL;NULL;NULL;NULL;D. Cusco;P. Quispicanchis;PE;PER;Paucarpata;NULL;OCH  13619;3450;Tuberosa;NULL
+182;GLKS;32281;MRN;marinasense;-133.333;1320S;-71.95;07157W;D. Cusco;P. Urubamba;PE;PER;Quebrada de Chochoc, near Calca;NULL;OCH S-  14;NULL;Tuberosa;NULL
+183;GLKS;32226;MED;medians;NULL;NULL;NULL;NULL;D. Lima;P. Canta;PE;PER;Just below Canta on the road Lima-Canta;12/04/64;HAW   2463;2700;Tuberosa;24
+184;GLKS;35422;SPEC;species;NULL;NULL;NULL;NULL;D. Tarija;P. Aviles;BO;BOL;Punas de Patanca, 10 km NE of Copacabana;21/03/78;OCH  11987;3780;Megistacroloba;NULL
+185;GLKS;32346;MCH;michoacanum;NULL;NULL;NULL;NULL;NULL;NULL;MX;MEX;NULL;NULL;HHLs 1541 x 1517;NULL;Pinnatisecta;NULL
+186;GLKS;2319;MCQ;mochiquense;NULL;NULL;NULL;NULL;NULL;NULL;PE;PER;NULL;NULL;GLK 126.  2;NULL;Tuberosa;NULL
+187;GLKS;32245;MRL;morelliforme;14.75;1445N;-91.55;09133W;D. Quezaltenango;NULL;GT;GTM;5 km SW of Quezaltenango, lower slopes of Volcan Santa Maria, Baho;01/11/58;HHLs   1805;2550;Moreliformia;24
+188;GLKS;5366;MSP;moscopanum;2.5;0230N;-76.4;07624W;D. Cauca;P. Totoro;CO;COL;NULL;NULL;CCC   5153;NULL;Conicibaccata;NULL
+189;GLKS;5435;MTP;multiinterruptum;NULL;NULL;NULL;NULL;D. Ancash;P. Aija;PE;PER;Huayan;NULL;OCH  11690;3000;Tuberosa;NULL
+190;GLKS;32431;MTP;multiinterruptum;-98.666;0952S;-777.333;07744W;D. Ancash;P. Huamanwilca;PE;PER;Above Huayan;NULL;OCH S-  27;3550;Tuberosa;NULL
+191;GLKS;5444;MTP;multiinterruptum;NULL;NULL;NULL;NULL;D. Lima;P. Huaral;PE;PER;Milacancha;NULL;OCHS 14689;3400;Tuberosa;NULL
+192;GLKS;35364;MAT;matehulae;NULL;NULL;NULL;NULL;NULL;NULL;MX;MEX;NULL;NULL;TRHRG  155;NULL;Tuberosa;NULL
+193;GLKS;32855;NCD;neocardenasii;-18.1;1806S;-641.833;06411W;D. Santa Cruz;P. Valle Grande;BO;BOL;Road to Vallegrande, 1.5 km S of Mataral, top of a small hill in pasture;NULL;SL   32084.1;1400;Tuberosa;NULL
+194;GLKS;919;SPEC;species;NULL;NULL;NULL;NULL;NULL;NULL;AR;ARG;NULL;NULL;GLK  47.  2;NULL;Juglandifolia;24
+195;GLKS;5441;ORP;orophilum;NULL;NULL;NULL;NULL;D. Ancash;P. San Ant.Raimondi;PE;PER;Cuncayoc;NULL;OCH  12077;3800;Tuberosa;NULL
+196;GLKS;35301;ORP;orophilum;-92.666;0916S;-772.666;07716W;D. Ancash;P. Huari;PE;PER;Segundo Rag Rag, above Ccopalca, in route from Huari to San Luis;NULL;OCH  12082;3500;Tuberosa;NULL
+197;GLKS;35317;PLS;palustre;-39.75;3945S;-713.333;07120W;P. Neuquen;D. Huiliches;AR;ARG;On both sides of dirt road, on N side of Lago Huechulafquen;19/02/90;SCl   4517;1020;Etuberosa;NULL
+198;GLKS;35319;PLS;palustre;-34.75;3445S;-707.166;07043W;P. O'Higgins;D. Colchagua;CL;CHL;5.7 km E of intersection of road to Bellavista and road to Termas del Flaco;01/02/89;SCo   4329;820;Etuberosa;NULL
+199;GLKS;35372;PCJ;paucijugum;-17.333;0144S;-78.8;07848W;P. Chimborazo;D. Sicalpa;EC;ECU;In Quebrada Camal, on north side of road from Sicalpa-Pallatanga;17/05/91;SCLp  5084;3770;Conicibaccata;NULL
+200;GLKS;31467;PHU;phureja;11.666;0110N;-771.666;07710W;D. Narino;P. Pasto;CO;COL;NULL;NULL;CCC    119;3000;Tuberosa cult;NULL
+201;GLKS;31468;PHU;phureja;23.833;0223N;-76.5;07630W;D. Cauca;NULL;CO;COL;Munchique. Carpinteria, in a garden.;18/08/48;CCC    278;2200;Tuberosa cult;24
+202;GLKS;2659;PHU;phureja;NULL;NULL;NULL;NULL;D. Cauca (2x);NULL;CO;COL;Cauca/Cauca;NULL;HAW  182/DOP 55;NULL;Tuberosa cult;NULL
+203;GLKS;31455;PHU;phureja;NULL;NULL;NULL;NULL;NULL;NULL;UNK;;NULL;NULL;HJT GLKS 31455;NULL;Tuberosa cult;NULL
+204;GLKS;31586;PNT;pinnatisectum;NULL;NULL;NULL;NULL;E. Michoacan;NULL;MX;MEX;Near Morelia;29/07/49;HAW   1041;1860;Pinnatisecta;NULL
+205;GLKS;22340;SPEC;species;-5.5;0530S;-796.666;07940W;D. Piura;P. Huancabamba;PE;PER;between Canchaque & Paso Cuello del Iindio, road to Huancabamba;02/04/64;HAW   2443;2900;Piurana;NULL
+206;GLKS;32341;PUR;piurana;-52.333;0514S;-794.666;07928W;D. Piura;P. Huancabamba;PE;PER;Culin hill, Alturas de Huancabamba;15/06/74;HUA    964;3200;Piurana;NULL
+207;GLKS;35375;PLD;polyadenium;187.166;1843N;-973.166;09719W;E. Veracruz;NULL;MX;MEX;Near Puerto del Aire, on old Orizaba - Mexico road, highway 150;24/10/67;TRN    234;2340;Polyadenia;NULL
+208;GLKS;30637;RAP;raphanifolium;NULL;NULL;NULL;NULL;D. Cusco;P. Calca;PE;PER;Intihuatana en Ruinas de Pisac;24/04/53;OCH   2061;3450;Megistacroloba;24
+209;GLKS;30644;RAP;raphanifolium;-13.4;1324S;-72.05;07203W;D. Cusco;P. Chincheros;PE;PER;NULL;23/02/63;UGN   3935;NULL;Megistacroloba;NULL
+210;GLKS;32808;SPEC;species;NULL;NULL;NULL;NULL;NULL;NULL;AR;ARG;NULL;NULL;HAW    867;NULL;Tuberosa;NULL
+211;GLKS;32809;SPEC;species;NULL;NULL;NULL;NULL;NULL;NULL;AR;ARG;NULL;NULL;HAW    868;NULL;Tuberosa;NULL
+212;GLKS;30658;SNK;schenckii;21.1;2106N;-99.7;09942W;E. Queretaro;NULL;MX;MEX;Hwy 120, Jalpan to San Juan del Rio, just beyond Madrono, about 4 km NW;15/09/83;TRHRG  107;2850;Demissa;NULL
+213;GLKS;30659;SNK;schenckii;183.333;1820N;-971.666;09710W;E. Puebla;NULL;MX;MEX;Tehuacan-Oaxaca road, turning at Coxcatlan towards Zoquitlan;23/10/83;TRHRG  179;2660;Demissa;NULL
+214;GLKS;31014;STL;setulosistylum;NULL;NULL;NULL;NULL;NULL;NULL;AR;ARG;NULL;NULL;HAW     41;NULL;Tuberosa;NULL
+215;GLKS;35382;SGR;sogarandinum;NULL;NULL;NULL;NULL;D. Ancash;P. Acrana;PE;PER;NULL;NULL;OCH S-  54;3500;Megistacroloba;NULL
+216;GLKS;35383;SOL;solisii;NULL;NULL;NULL;NULL;P. Tungurahua;C. Tungurahua;EC;ECU;Vecinity of Rio Yangahua;NULL;OCHS 10990;3550;Piurana;NULL
+217;GLKS;32755;SPG;spegazzinii;-250.333;2502S;-662.333;06614W;P. Salta;D. Cachi;AR;ARG;Las Pailas, 14 km NW of Cachi. Quebrada de Las Arcas;20/04/71;OKA   4058;2640;Tuberosa;24
+218;GLKS;30762;STN;stenotomum;NULL;NULL;NULL;NULL;NULL;NULL;BO;BOL;NULL;NULL;"(VIR; K-9906)";NULL;Tuberosa cult;NULL
+219;GLKS;30732;STN;stenotomum;NULL;NULL;NULL;NULL;NULL;NULL;PE;PER;NULL;NULL;"(VIR; P5-463-2)";NULL;Tuberosa cult;NULL
+220;GLKS;32703;GON;stenotomum goniocalyx;NULL;NULL;NULL;NULL;NULL;NULL;PE;PER;NULL;NULL;(GLKS 63.156/21x65.1;NULL;Tuberosa;NULL
+221;GLKS;30512;STO;stoloniferum;NULL;NULL;NULL;NULL;NULL;NULL;MX;MEX;NULL;NULL;GLK  22.  9;NULL;Longipedicellata;48
+222;GLKS;30722;SUB;subandigena;NULL;NULL;NULL;NULL;D. Chuquisaca;P. Sucre;BO;BOL;NULL;NULL;BLS   6146;NULL;Tuberosa;NULL
+223;GLKS;22873;SUP;subpanduratum;NULL;NULL;NULL;NULL;E. Merida;NULL;VE;VEN;Rangel, Paramo Los Haticos;NULL;OCHS 11208;3700;Conicibaccata;NULL
+224;GLKS;31570;TAR;tarijense;NULL;NULL;NULL;NULL;NULL;NULL;BO;BOL;NULL;NULL;CPC   2667;NULL;Yungasensa;24
+225;GLKS;31572;TAR;tarijense;NULL;NULL;NULL;NULL;NULL;NULL;BO;BOL;NULL;NULL;HAW     17;NULL;Yungasensa;24
+226;GLKS;32870;TRN;tarnii;20.55;2033N;-984.833;09829W;E. Veracruz;NULL;MX;MEX;About 14 km S of Huayacocotla, near Viborillos, on road to Tulancingo;04/09/83;TRHRG   56;2410;Pinnatisecta;NULL
+227;GLKS;35384;TRN;tarnii;203.166;2019N;-984.833;09829W;E. Hidalgo;NULL;MX;MEX;28 km S of Huayacocotla, 8 km before Agua Blanca;04/09/83;TRHRG   57;2360;Pinnatisecta;NULL
+228;GLKS;35385;TRN;tarnii;NULL;NULL;NULL;NULL;NULL;NULL;MX;MEX;NULL;06/09/83;TRHRG   62;NULL;Pinnatisecta;NULL
+229;GLKS;32871;TRN;tarnii;20.8;2048N;-992.333;09914W;E. Hidalgo;NULL;MX;MEX;Turning off Hwy 85 at Las Trancas, go 6.4 km along road to Nicolas Flores;09/10/84;TRHRG  257;2440;Pinnatisecta;NULL
+230;GLKS;2355;TRF;trifidum;196.333;1938N;-102;10200W;E. Michoacan;NULL;MX;MEX;Km 48 on the Carapan-Uruapan hwy;NULL;CSC    460;NULL;Pinnatisecta;NULL
+231;GLKS;32298;PNT;pinnatisectum;NULL;NULL;NULL;NULL;E. Jalisco;NULL;MX;MEX;NULL;NULL;GRA 305 x 309;NULL;Pinnatisecta;NULL
+232;GLKS;22827;TBR;tuberosum;NULL;NULL;NULL;NULL;NULL;NULL;PE;PER;NULL;NULL;"(VIR; K-11289-1, 206";NULL;Tuberosa;NULL
+233;GLKS;31211;TBR;tuberosum;NULL;NULL;NULL;NULL;NULL;Chiloe;CL;CHL;NULL;NULL;DOP CPC 3463;NULL;Tuberosa;NULL
+234;GLKS;31114;TBR;tuberosum;NULL;NULL;NULL;NULL;P. Cautin;NULL;CL;CHL;NULL;NULL;"Temuco 82; DOP";NULL;Tuberosa;NULL
+235;GLKS;35027;ADG;tuberosum andigena;NULL;NULL;NULL;NULL;NULL;NULL;AR;ARG;NULL;NULL;(GLKS 59.3/681 x 70.;NULL;Tuberosa;NULL
+236;GLKS;4994;ADG;tuberosum andigena;NULL;NULL;NULL;NULL;NULL;NULL;UNK;;NULL;NULL;"(VIR; 772-1)";NULL;Tuberosa;NULL
+237;GLKS;34963;ADG;tuberosum andigena;NULL;NULL;NULL;NULL;NULL;NULL;EC;ECU;NULL;NULL;"(VIR; K-10048)";NULL;Tuberosa;NULL
+238;GLKS;34867;ADG;tuberosum andigena;NULL;NULL;NULL;NULL;NULL;NULL;PE;PER;NULL;NULL;"(VIR; K-9567)";NULL;Tuberosa;NULL
+239;GLKS;34149;ADG;tuberosum andigena;NULL;NULL;NULL;NULL;NULL;NULL;BO;BOL;Tupiza Cinte;NULL;BRU    912;NULL;Tuberosa;48
+240;GLKS;34509;ADG;tuberosum andigena;NULL;NULL;NULL;NULL;D. Puno;NULL;PE;PER;NULL;NULL;DOP   299 CPC 3121E;NULL;Tuberosa;NULL
+241;GLKS;34523;ADG;tuberosum andigena;NULL;NULL;NULL;NULL;D. La Paz;NULL;BO;BOL;NULL;NULL;DOP   334;NULL;Tuberosa;NULL
+242;GLKS;34630;ADG;tuberosum andigena;NULL;NULL;NULL;NULL;NULL;NULL;PE;PER;NULL;NULL;OCH     93;NULL;Tuberosa;NULL
+243;GLKS;34737;ADG;tuberosum andigena;NULL;NULL;NULL;NULL;NULL;NULL;PE;PER;NULL;NULL;OCH    616;NULL;Tuberosa;NULL
+244;GLKS;35388;TND;tundalomense;NULL;NULL;NULL;NULL;P. Tungurahua;C. Tungurahua;EC;ECU;Vecinity of Rio de Oro;NULL;OCHS 10986;3200;Conicibaccata;NULL
+245;GLKS;35389;TND;tundalomense;-30.166;0301S;-790.333;07902W;P. Azuay;C. Cuenca;EC;ECU;Portete de Tarqui;NULL;OCHS 11004;3400;Conicibaccata;NULL
+246;GLKS;32343;CHC;chacoense;NULL;NULL;NULL;NULL;P. Loja;C. Loja;EC;ECU;Zaragura, Huacaquiru;NULL;OCHS 11008;3100;Conicibaccata;NULL
+247;GLKS;35390;TND;tundalomense;-30.166;0301S;-790.333;07902W;P. Azuay;C. Cuenca;EC;ECU;Portete de Tarqui;NULL;OCHS 11009;3400;Conicibaccata;NULL
+248;GLKS;32887;UGT;ugentii;-19.55;1933S;-64.65;06439W;D. Chuquisaca;P. Azurduy;BO;BOL;30 km beyond the Torre Pampa junction, 20 km before Cruz Kasa;06/04/87;HOHL   288;3740;Tuberosa;NULL
+249;GLKS;32889;UGT;ugentii;-195.166;1931S;-646.833;06441W;D. Chuquisaca;P. Azurduy;BO;BOL;About 22 km beyond the Torre Pampa junction on the way to Azurduy;06/04/87;HOHL   290;3730;Tuberosa;NULL
+250;GLKS;32794;VNT;venturii;NULL;NULL;NULL;NULL;NULL;NULL;AR;ARG;NULL;NULL;HAW    841;NULL;Tuberosa;24
+251;GLKS;2798;VIO;violaceimarmoratum;-163.166;1619S;-67.9;06754W;D. La Paz;P. Nor Yungas;BO;BOL;10 km from Unduavi to Coroico;03/04/71;HHCH  5042;3225;Conicibaccata;NULL
+252;GLKS;32196;HAN;hannemanii;NULL;NULL;NULL;NULL;NULL;NULL;BO;BOL;NULL;NULL;ZYK     22;NULL;Tuberosa;24
+253;GLKS;32722;SPEC;species;NULL;NULL;NULL;NULL;D. Arequipa;NULL;PE;PER;Torata;NULL;ROR 726 x 702;NULL;Tuberosa;NULL
+254;GLKS;32725;WBR;weberbaueri;NULL;NULL;NULL;NULL;NULL;NULL;PE;PER;NULL;NULL;OCH   5061;NULL;Tuberosa;NULL
+255;GLKS;32172;SPEC;species;NULL;NULL;NULL;NULL;NULL;NULL;BO;BOL;NULL;NULL;GLK 107.  3;NULL;Yungasensa;NULL
+256;CPC;3768;ACL;acaule;-222.333;2214S;-652.833;06517W;P. Jujuy;D. Yavi;AR;ARG;2.8 km above Rincon de Cajas on the road to Santa Vivctoria;12/03/66;HHR   3813;4125;Acaulia;48
+257;CPC;7212;ALN;alandiae;NULL;NULL;NULL;NULL;D. Cochabamba;P. Mizque;BO;BOL;40 km from Aiquile to Epizana (192 km from Sucre);18/03/71;HHCH  4735;2650;Tuberosa;24
+258;CPC;3822;BST;brachistotrichum;NULL;NULL;NULL;NULL;NULL;NULL;MX;MEX;NULL;NULL;HHLs 1234 x 1471;NULL;Pinnatisecta;NULL
+259;CPC;7028;BCP;brachycarpum;NULL;NULL;NULL;NULL;NULL;NULL;MX;MEX;NULL;NULL;ROC    454;NULL;Demissa;NULL
+260;CPC;2725;CAN;canasense;-134.333;1326S;-71.85;07151W;D. Cusco;P. Calca;PE;PER;Intihuatana Ruins, up from Pisac;24/04/53;PEH   1527;3350;Tuberosa;NULL
+261;CPC;3554;CAP;capsicibaccatum;NULL;NULL;NULL;NULL;NULL;NULL;BO;BOL;NULL;NULL;CPC   3554 CAR;NULL;Circaeifolia;24
+262;CPC;7211;SPEC;species;NULL;NULL;NULL;NULL;NULL;NULL;CL;CHL;NULL;NULL;EBS   2084;NULL;Yungasensa;NULL
+263;CPC;5901;CHC;chacoense;NULL;NULL;NULL;NULL;NULL;NULL;AR;ARG;NULL;NULL;PEH 1900a x 1889;NULL;Yungasensa;NULL
+264;CPC;5858;DMS;demissum;NULL;NULL;NULL;NULL;NULL;NULL;unk;URY;NULL;NULL;CPC   5858;NULL;Commersoniana;NULL
+265;CPC;5861;CMM;commersonii;NULL;NULL;NULL;NULL;E. Rio Grande do Sul;NULL;BR;BRA;Pelotas;NULL;MDC  2 x MDC 3;NULL;Commersoniana;NULL
+266;CPC;7520;MLM;commersonii malmeanum;NULL;NULL;NULL;NULL;NULL;NULL;UNK;;NULL;NULL;CPC BPC  825;NULL;Commersoniana;NULL
+267;CPC;7323;CUR;curtilobum;NULL;NULL;NULL;NULL;NULL;NULL;UNK;;NULL;NULL;4990 CPC 7323;NULL;Tuberosa;NULL
+268;CPC;7510;JAM;jamesii;NULL;NULL;NULL;NULL;NULL;NULL;UNK;;NULL;NULL;CPC BPC  463;NULL;Bulbocastana;NULL
+269;CPC;7519;ETB;etuberosum;NULL;NULL;NULL;NULL;NULL;NULL;UNK;;NULL;NULL;CPC BPC  330;NULL;Etuberosa;NULL
+270;CPC;7044;GND;gandarillasii;NULL;NULL;NULL;NULL;NULL;NULL;BO;BOL;NULL;NULL;B      715;NULL;Tuberosa;NULL
+271;CPC;7050;HOU;hougasii;NULL;NULL;NULL;NULL;NULL;NULL;MX;MEX;NULL;NULL;COR 14340 x 14342;NULL;Demissa;NULL
+272;CPC;2718;HOU;hougasii;19.4;1924N;-101.6;10136W;E. Michoacan;NULL;MX;MEX;7 miles beyond Opopeo, km 51 on Quirogo-Tacambaro road;20/09/58;HHLs   1531;2950;Demissa;NULL
+273;CPC;2922;IOP;iopetalum;NULL;NULL;NULL;NULL;NULL;NULL;UNK;;NULL;NULL;CPC   2922;NULL;Demissa;NULL
+274;CPC;7167;JAM;jamesii;NULL;NULL;NULL;NULL;E. New Mexico;NULL;US;USA;Grant Co. State Hwy 180, 27km  NE of Lordsburg;10/09/63;LES      5;1800;Pinnatisecta;NULL
+275;CPC;5864;KTZ;kurtzianum;NULL;NULL;NULL;NULL;NULL;NULL;AR;ARG;NULL;NULL;HHR 3152 x 3384;NULL;Tuberosa;NULL
+276;CPC;5889;KTZ;kurtzianum;NULL;NULL;NULL;NULL;NULL;NULL;UNK;;NULL;NULL;HHR 3383 x 3384;NULL;Tuberosa;NULL
+277;CPC;7172;MRN;marinasense;NULL;NULL;NULL;NULL;D. Cusco;P. Cusco;PE;PER;Granja de Kkaira, Munaihuarmey, road to Kishuar Pata;17/04/64;HAW   2474;3300;Tuberosa;NULL
+278;CPC;1773;TOR;megistacrolobum toralapanum;-174.333;1726S;-657.166;06543W;D. Cochabamba;P. Arani;BO;BOL;Toralapa;NULL;CPC   1773 CAR;3500;Megistacroloba;NULL
+279;CPC;3847;MCH;michoacanum;NULL;NULL;NULL;NULL;NULL;NULL;MX;MEX;NULL;NULL;CPC   3847;NULL;Pinnatisecta;NULL
+280;CPC;7208;TAR;tarijense;NULL;NULL;NULL;NULL;NULL;NULL;BO;BOL;NULL;NULL;CPC BPC 1747;NULL;Tuberosa;NULL
+281;CPC;6047;NRS;neorossii;NULL;NULL;NULL;NULL;NULL;NULL;UNK;;NULL;NULL;CPC   6047;NULL;Tuberosa;NULL
+282;CPC;7517;OCR;ochranthum;NULL;NULL;NULL;NULL;NULL;NULL;UNK;;NULL;NULL;CPC BPC 1289;NULL;Juglandifolia;NULL
+283;CPC;7129;VNT;venturii;-25.15;2509S;-658.333;06550W;P. Salta;D. Chicoana;AR;ARG;Cuesta del Obispo, 7km arriba pie de la cuesta, ruta nac.59, km 50.7;08/04/74;HOHH  6034;2740;Tuberosa;24
+284;CPC;7034;PLS;palustre;NULL;NULL;NULL;NULL;NULL;NULL;BO;BOL;NULL;NULL;CPC BPC 1030;NULL;Etuberosa;NULL
+285;CPC;1576;PLS;palustre;NULL;NULL;NULL;NULL;NULL;NULL;BO;BOL;NULL;NULL;CPC   1576 RBGE;NULL;Etuberosa;NULL
+286;CPC;2451;PLS;palustre;-41.05;4103S;-71.15;07109W;P. Neuquen;NULL;AR;ARG;Peninsula Quertrihue. Parque Nacional de Nahuel Huapi;01/04/52;PEH   1890;800;Etuberosa;NULL
+287;CPC;7328;SPEC;species;NULL;NULL;NULL;NULL;NULL;NULL;UNK;;NULL;NULL;CPC   7328;NULL;Tuberosa;NULL
+288;CPC;6024;PAM;pampasense;NULL;NULL;NULL;NULL;D. Ayacucho;P. Cangallo;PE;PER;Pajonal, between Ocras and Andahuaylas;18/04/53;PEH   1420;2000;Tuberosa;24
+289;CPC;4188;PHU;phureja;NULL;NULL;NULL;NULL;D. Narino;NULL;CO;COL;NULL;NULL;CPC   4188;NULL;Tuberosa cult;NULL
+290;CPC;4414;PHU;phureja;NULL;NULL;NULL;NULL;E. Merida;NULL;VE;VEN;NULL;NULL;CPC   4414;NULL;Tuberosa cult;NULL
+291;CPC;7090;RAP;raphanifolium;NULL;NULL;NULL;NULL;D. Cusco;NULL;PE;PER;Fort Sacsayhuaman, above Cuzco;26/02/58;COR  P 218;NULL;Megistacroloba;24
+292;CPC;7105;SPEC;species;-14.05;1403S;-724.666;07228W;D. Apurimac;P. Abancay;PE;PER;Abra Soccllaccasa, at the top of the pass before descending to Abancay;17/04/71;HHCH  5211;4050;Megistacroloba;NULL
+293;CPC;7165;SNK;schenckii;NULL;NULL;NULL;NULL;NULL;NULL;MX;MEX;NULL;NULL;CPC BPC  306;NULL;Demissa;NULL
+294;CPC;7164;SNK;schenckii;173.333;1720N;-964.833;09629W;E. Oaxaca;NULL;MX;MEX;Sierra de Juarez, 14 miles on the Oaxaca-Ixtlan road past the divergence;21/10/58;HHLs   1724;2700;Demissa;NULL
+295;CPC;7331;SEM;semidemissum;NULL;NULL;NULL;NULL;NULL;NULL;UNK;;NULL;NULL;CPC BPC 1406;NULL;Demissa;NULL
+296;CPC;4741;STN;stenotomum;NULL;NULL;NULL;NULL;NULL;NULL;UNK;;NULL;NULL;CPC   4741;NULL;Tuberosa cult;NULL
+297;CPC;12;STO;stoloniferum;NULL;NULL;NULL;NULL;E. Tlaxcala;NULL;MX;MEX;Tetlanochan -Mt. Malinche, Estranjerotla;21/06/38;BLS   4864;2600;Longipedicellata;NULL
+298;CPC;28;STO;stoloniferum;191.166;1907N;-987.666;09846W;E. Mexico;NULL;MX;MEX;Popocatepetl. Amecameca to Paraje;25/07/38;BLS   5097;2700;Longipedicellata;48
+299;CPC;7069;DMS;demissum;NULL;NULL;NULL;NULL;P. Bolivar;C. Guaranda;unk;ECU;NULL;NULL;COR  E 437;NULL;Piurana;NULL
+300;CPC;6032;WBR;weberbaueri;NULL;NULL;NULL;NULL;NULL;NULL;PE;PER;NULL;NULL;CPC   6032 HAW;NULL;Tuberosa;NULL
+301;CIP;761605;ALB;albicans;NULL;NULL;NULL;NULL;P. Chimborazo;NULL;EC;ECU;Cerro Colorado;NULL;OCH  13395;3600;Acaulia;NULL
+302;CIP;763004;AMY;amayanum;NULL;NULL;NULL;NULL;D. Huancavelica;NULL;PE;PER;NULL;NULL;OCHS 16263;NULL;Tuberosa;NULL
+303;CIP;763005;AMY;amayanum;NULL;NULL;NULL;NULL;D. Huancavelica;NULL;PE;PER;NULL;NULL;OCHS 16265;NULL;Tuberosa;NULL
+304;CIP;761448;ACP;ancophilum;NULL;NULL;NULL;NULL;D. Ancash;P. Yungay;PE;PER;Llanganuco;NULL;OCH  12086;3750;Tuberosa;NULL
+305;CIP;762631;AGU;augustii;NULL;NULL;NULL;NULL;D. Ancash;P. Huaraz;PE;PER;NULL;NULL;OCHS 12596;NULL;Tuberosa;NULL
+306;CIP;761755;COP;coelestipetalum;NULL;NULL;NULL;NULL;D. Cusco;P. Anta;PE;PER;Ccalayhua;NULL;OCH  13716;3525;Tuberosa;NULL
+307;CIP;761999;COP;coelestipetalum;NULL;NULL;NULL;NULL;D. Apurimac;P. Abancay;PE;PER;Yanamachay;NULL;OCH  14342;2950;Tuberosa;NULL
+308;CIP;762533;DCM;dolichocremastrum;NULL;NULL;NULL;NULL;D. Ancash;P. Huari;PE;PER;Near  Chavin;NULL;OCH  12083a;3600;Tuberosa;NULL
+309;CIP;761224;HRO;huarochiriense;NULL;NULL;NULL;NULL;D. Lima;P. Huarochiri;PE;PER;Huarochiri;NULL;OCH  11335;3154;Tuberosa;NULL
+310;CIP;761265;SPEC;species;NULL;NULL;NULL;NULL;D. Ancash;P. Aija;PE;PER;Huayan;NULL;OCH  11699;3600;Tuberosa;NULL
+311;CIP;761259;HCR;hypacrarthrum;NULL;NULL;NULL;NULL;D. Ancash;P. Aija;PE;PER;Huayan;NULL;OCH  11692;2800;Piurana;NULL
+312;CIP;761252;IRS;irosinum;NULL;NULL;NULL;NULL;D. Cajamarca;P. Chota;PE;PER;Cerro Iros;NULL;OCH  11640;3250;Conicibaccata;NULL
+313;CIP;762259;IRS;irosinum;NULL;NULL;NULL;NULL;D. Cajamarca;P. Cutervo;PE;PER;Laurel;NULL;OCHS 15225;2600;Conicibaccata;NULL
+314;CIP;761078;LYC;lycopersicoides;NULL;NULL;NULL;NULL;NULL;NULL;PE;PER;NULL;NULL;OCH  15247;NULL;Juglandifolia;NULL
+315;CIP;761465;SGR;sogarandinum;NULL;NULL;NULL;NULL;D. Ancash;P. Sihuas;PE;PER;Cerro Huinjirca;NULL;OCH  13006;3300;Megistacroloba;NULL
+316;CIP;761586;SGR;sogarandinum;NULL;NULL;NULL;NULL;D. La Libertad;P. Pataz;PE;PER;Blanca Murococha;NULL;OCH  13336;3600;Megistacroloba;NULL
+317;CGN;17843;ACL;acaule;-159.166;1555S;-686.333;06838W;D. La Paz;P. Omasuyos;BO;BOL;High pass between Achacachi and Sorata;27/03/59;ROR    636;4500;Acaulia;48
+318;CGN;20620;ACL;acaule;-186.333;1838S;-66.95;06657W;D. Oruro;P. Poopo;BO;BOL;Farm (finke St. Helena), 5 km from Plazna to Lago Poopo;04/04/80;VSH    246;3700;Acaulia;48
+319;CGN;18285;AGF;agrimonifolium;15.5;1530N;-90.95;09057W;D. Totonicapan;NULL;GT;GTM;Chemal;23/10/56;GRA    145;2651;Conicibaccata;48
+320;CGN;18245;ALN;alandiae;-181.166;1807S;-65.1;06506W;D. Cochabamba;P. Campero;BO;BOL;10 km from Aiquile on the road to Misque, by the railway crossing;26/03/80;HHA   6657;2400;Tuberosa;24
+321;CGN;18344;BCP;brachycarpum;1.6;0136N;-77.15;07709W;D. Narino;P. Pasto;CO;COL;La Union, 2 km E of Santiago on the road to San Francisco;08/04/58;COR  C 491;2200;Tuberosa;24
+322;CGN;20644;BER;berthaultii;-179.166;1755S;-659.166;06555W;D. Cochabamba;P. E. Arce;BO;BOL;17 km along road from Anzaldo to Mollepujro, just above Alfamayo;06/03/80;HHA   6542;2600;Tuberosa;24
+323;CGN;20650;BER;berthaultii;NULL;NULL;NULL;NULL;D. Chuquisaca;P. Oropeza;BO;BOL;17 km from Sucre to Zudanez, Tambo-kasa (east of Sucre);11/03/59;ROR    325;2750;Tuberosa;24
+324;CGN;18042;BER;berthaultii;NULL;NULL;NULL;NULL;NULL;NULL;BO;BOL;NULL;NULL;EBS 1271 x 1288;NULL;Tuberosa;24
+325;CGN;17681;BST;brachistotrichum;NULL;NULL;NULL;NULL;E. Durango;NULL;MX;MEX;Near Chihuahua border, 45 miles from Parral between Ojito and Rio Balleza;NULL;HHLs 1287 x 1471;NULL;Pinnatisecta;24
+326;CGN;17721;BCP;brachycarpum;19.4;1924N;-100.25;10015W;E. Michoacan;NULL;MX;MEX;Near Zitacuaro, km 147 from Mexico to Morelia;31/07/49;HAW   1043;2920;Demissa;72
+327;CGN;18231;BRC;brevicaule;-173.166;1719S;-663.666;06622W;D. Cochabamba;P. Quillacollo;BO;BOL;25.5 km from Quillacollo on the road to Morochata.Below Hairpin Bend by;02/04/80;HHA   6690;3850;Tuberosa;24
+328;CGN;17683;BUK;bukasovii;NULL;NULL;NULL;NULL;NULL;NULL;PE;PER;NULL;NULL;OCH WAC 3342;NULL;Tuberosa;24
+329;CGN;18249;SPEC;species;-126.833;1241S;-75.5;07530W;D. Junin;P. Huancayo;PE;PER;Km 337 of Lima, between Huancayo and La Mejorada;15/04/53;PEH   1370;3700;Tuberosa;24
+330;CGN;21306;BLB;bulbocastanum;17.5;1730N;-96.45;09627W;E. Oaxaca;NULL;MX;MEX;Road from Oaxaca to Valle Nacional;01/10/58;HHLs   1593;1950;Bulbocastana;24
+331;CGN;17693;BLB;bulbocastanum;197.166;1943N;-997.833;09947W;E. Mexico;NULL;MX;MEX;Cerro de Cocotitlan;01/10/58;HHLs   1595;NULL;Bulbocastana;24
+332;CGN;18062;CNS;canense;NULL;NULL;NULL;NULL;NULL;NULL;BO;BOL;NULL;NULL;BGRC 18634 ROR;NULL;NULL;NULL
+333;CGN;18123;CNS;canense;-16.35;1621S;-675.833;06735W;D. La Paz;P. Sud Yungas;BO;BOL;20 km from Chulumani to Pt. Villa, Chaijro Village at Montoncora River,;21/02/80;VSOA    10;1350;NULL;NULL
+334;CGN;18297;CAP;capsicibaccatum;NULL;NULL;NULL;NULL;NULL;NULL;BO;BOL;NULL;NULL;BGRC 53016 GND;NULL;Circaeifolia;24
+335;CGN;18268;CAP;capsicibaccatum;-173.333;1720S;-66.35;06621W;D. Cochabamba;P. Quillacollo;BO;BOL;22 km from Quillacollo old road to Morochata near New Puente San Miguel;03/04/80;HHA   6702;3650;Circaeifolia;24
+336;CGN;18325;CPH;cardiophyllum;NULL;NULL;NULL;NULL;E. Michoacan;NULL;MX;MEX;NULL;NULL;GRA 118 x 207;NULL;Pinnatisecta;24
+337;CGN;18326;CPH;cardiophyllum;NULL;NULL;NULL;NULL;NULL;NULL;MX;MEX;NULL;NULL;HAW 1059 x HHLs 1729;NULL;Pinnatisecta;24
+338;CGN;18248;CHC;chacoense;NULL;NULL;NULL;NULL;NULL;NULL;AR;ARG;NULL;NULL;BGRC 28503;NULL;Yungasensa;24
+339;CGN;18060;CHP;chaparense;NULL;NULL;NULL;NULL;NULL;NULL;BO;BOL;NULL;NULL;HOF    932;NULL;NULL;NULL
+340;CGN;18127;QUM;circaeifolium quimense;-17.05;1703S;-672.833;06717W;D. La Paz;P. Inquisivi;BO;BOL;88 km from Panduro to Quime (10 km before Quime);24/02/80;VSOA    24;3310;Circaeifolia;24
+341;CGN;18128;QUM;circaeifolium quimense;-168.333;1650S;-672.666;06716W;D. La Paz;P. Inquisivi;BO;BOL;25 km from Inquisivi to Circuata;25/02/80;VSOA    30;2810;Circaeifolia;24
+342;CGN;18313;DMS;demissum;240.333;2402N;-104.683;10441W;E. Durango;NULL;MX;MEX;Durango;NULL;HHLs   1134;NULL;Demissa;72
+343;CGN;17820;DMS;demissum;19.15;1909N;-999.333;09956W;E. Mexico;NULL;MX;MEX;38 km from the main Toluca-Morelia road, towards Valle de Bravo;02/10/58;HHLs   1608;2750;Demissa;72
+344;CGN;20571;DMS;demissum;155.166;1531N;-914.833;09129W;D. Huehuetenango;NULL;GT;GTM;Sierra de los Cuchumatanes, 28 miles from Huehuetenango;30/10/58;HHLs   1782;3500;Demissa;72
+345;CGN;17810;DMS;demissum;NULL;NULL;NULL;NULL;NULL;NULL;MX;MEX;NULL;NULL;CPC   2127 SPB;NULL;Demissa;72
+346;CGN;20560;GND;gandarillasii;-183.333;1820S;-651.666;06510W;D. Cochabamba;P. Campero;BO;BOL;20 km from Aiquile to Sucre;11/03/59;ROR    268;2200;Tuberosa;24
+347;CGN;17851;GRL;gourlayi;-225.166;2231S;-651.166;06507W;P. Salta;D. Santa Victoria;AR;ARG;Rio Nazareno;NULL;HOF   1727;3050;Tuberosa;24
+348;CGN;18290;GRR;guerreroense;19.65;1939N;-103.633;10338W;E. Jalisco;NULL;MX;MEX;Near Sayulapa, slopes of Volcan de Nevada;18/12/47;COR  14342a;NULL;Demissa;72
+349;CGN;17717;HJT;hjertingii;254.166;2525N;-100.85;10051W;E. Coahuila;NULL;MX;MEX;Near Saltillo, Municipio Artiaga, Canon de los Lirios, Chupadero;12/10/49;HAW   1113;2000;Longipedicellata;48
+350;CGN;17718;HJT;hjertingii;254.166;2525N;-101;10100W;E. Coahuila;NULL;MX;MEX;Saltillo.  School of Agriculture, about 5 miles S of Saltillo;23/08/58;HHLs   1353;1760;Longipedicellata;48
+351;CGN;18106;HDM;hondelmannii;-19.1;1906S;-652.333;06514W;D. Chuquisaca;P. Oropeza;BO;BOL;Tacos, 12 km from Sucre to Zudanez;26/03/74;AST     21;2900;Tuberosa;24
+352;CGN;18182;SPEC;species;-192.166;1913S;-658.333;06550W;D. Potosi;P. Frias;BO;BOL;2 km from Tinguipaya to Potosi;28/02/80;HAM     65;3180;Tuberosa;24
+353;CGN;18306;HCB;huancabambense;-5.4;0524S;-79.6;07936W;D. Piura;P. Huancabamba;PE;PER;Km 22 Huancabamba to Canchaque (Jusgara);16/06/74;HUA    966;2500;Yungasensa;24
+354;CGN;17719;HCB;huancabambense;-52.333;0514S;-794.666;07928W;D. Piura;P. Huancabamba;PE;PER;Causol;NULL;OCH S-  21 x 24;1800;Yungasensa;24
+355;CGN;18349;JAM;jamesii;NULL;NULL;NULL;NULL;E. New Mexico;NULL;US;USA;Arizona and New Mexico;NULL;GRA 381 x 386;NULL;Pinnatisecta;24
+356;CGN;18174;LPH;leptophyes;-184.333;1826S;-664.333;06626W;D. Potosi;P. Bustillos;BO;BOL;24 km from Uncia to Chayanta and Amayapampa;20/02/80;HAM     14;3600;Tuberosa;24
+357;CGN;18140;LPH;leptophyes;-165.333;1632S;-68.1;06806W;D. La Paz;P. Murillo;BO;BOL;Below la paz on road to palca (ovejuyo) near inst. nac. de biologia animal;12/03/80;VSOA    99;3570;Tuberosa;24
+358;CGN;18337;LES;lesteri;162.833;1617N;-96.55;09633W;E. Oaxaca;NULL;MX;MEX;Miahuatlan.  25.8 km S of Miahuatlan on the Oaxaca-Puerto Angel road;19/10/58;HHLs   1714;2300;Polyadenia;24
+359;CGN;18064;MAG;maglia;NULL;NULL;NULL;NULL;P. Valparaiso;NULL;CL;CHL;Olmue, Granizo;30/03/56;HJR    532;100;Maglia;24
+360;CGN;17596;MCD;microdontum;-232.166;2313S;-649.166;06455W;P. Salta;D. Oran;AR;ARG;Sa de Zenta, Santa Cruz;01/04/72;OKA   4478;3000;Tuberosa;24
+361;CGN;18046;GIG;microdontum gigantophyllum;NULL;NULL;NULL;NULL;NULL;NULL;BO;BOL;NULL;NULL;EBS   2879 CAR;NULL;Tuberosa;24
+362;CGN;18083;GIG;microdontum gigantophyllum;-24.9;2454S;-65.65;06539W;P. Salta;D. Rosario de Lerma;AR;ARG;Quebrada del Toro, Virrey Toledo, ruta nac.51, km 35.5,;05/04/74;HOHH  6000;1600;Tuberosa;24
+363;CGN;17824;MLT;multidissectum;-11.75;1145S;-754.666;07528W;D. Junin;P. Huancayo;PE;PER;32 km towards Tarma from Huancayo;11/04/53;PEH   1366;4000;Tuberosa;24
+364;CGN;17829;DMS;demissum;NULL;NULL;NULL;NULL;NULL;NULL;unk;PER;NULL;NULL;ROR   1161;NULL;Tuberosa;24
+365;CGN;18000;VNT;venturii;-236.333;2338S;-65.1;06506W;P. Jujuy;D. Tilcara;AR;ARG;piscuno, por la senda de casa colorada a molulo. a 10 m de oka 4391;23/03/72;OKA   4392;3200;Tuberosa;24
+366;CGN;18109;VNT;venturii;-251.666;2510S;-658.333;06550W;P. Salta;D. Chicoana;AR;ARG;Cuesta del Obispo, Quebrada La Sirena , 4km arriba pie de la cuesta, ruta59;08/04/74;HOHH  6033;2600;Tuberosa;24
+367;CGN;18108;VNT;venturii;-25.15;2509S;-658.333;06550W;P. Salta;D. Chicoana;AR;ARG;Nacional route 59, km 50.6, 10 km W of Hosteria El Maray;04/04/73;OKA   4908;3100;Tuberosa;24
+368;CGN;17998;VNT;venturii;NULL;NULL;NULL;NULL;P. Jujuy;D. Tilcara;AR;ARG;Piscuno, Casa Colorada-Molulo road;NULL;OKA 4388 x 4404;NULL;Tuberosa;24
+369;CGN;17830;PTA;papita;24.95;2457N;-103.9;10354W;E. Durango;NULL;MX;MEX;Near Hacienda Otinapa, Ranche Alamito, high valley of Rio Chico;11/09/58;HHLs   1482;2300;Longipedicellata;48
+370;CGN;17832;PTA;papita;NULL;NULL;NULL;NULL;NULL;NULL;MX;MEX;NULL;NULL;HHLs 1475 x 1473;NULL;Longipedicellata;48
+371;CGN;17667;PHU;phureja;NULL;NULL;NULL;NULL;D. Cauca;NULL;CO;COL;NULL;NULL;CCC   1152;NULL;Tuberosa cult;24
+372;CGN;18301;PHU;phureja;NULL;NULL;NULL;NULL;NULL;NULL;CO;COL;NULL;NULL;CGN 18301;NULL;Tuberosa cult;24
+373;CGN;18315;PHU;phureja;NULL;NULL;NULL;NULL;NULL;NULL;EC;ECU;NULL;NULL;DOP 130 x 131;NULL;Tuberosa cult;24
+374;CGN;17745;PNT;pinnatisectum;206.666;2040N;-103.333;10320W;E. Jalisco;NULL;MX;MEX;29 miles from Guadalajara on the road to Mexico City;15/09/58;HHLs   1505;1600;Pinnatisecta;24
+375;CGN;17743;PNT;pinnatisectum;NULL;NULL;NULL;NULL;NULL;NULL;MX;MEX;NULL;NULL;ROC S-  44;NULL;Pinnatisecta;24
+376;CGN;17749;PLD;polyadenium;NULL;NULL;NULL;NULL;NULL;NULL;MX;MEX;NULL;NULL;EBS     51;NULL;Polyadenia;24
+377;CGN;17746;PLD;polyadenium;19.7;1942N;-101.116;10107W;E. Michoacan;NULL;MX;MEX;Mount Punguato, Morelia;09/09/62;UGN   1766;2200;Polyadenia;24
+378;CGN;17750;PLT;polytrichon;NULL;NULL;NULL;NULL;NULL;NULL;MX;MEX;NULL;NULL;HAW    533.1;NULL;Longipedicellata;48
+379;CGN;17751;PLT;polytrichon;227.833;2247N;-102.583;10235W;E. Zacatecas;NULL;MX;MEX;8 miles from Zacatecas on the road to Durango;09/09/58;HHLs   1467;2350;Longipedicellata;48
+380;CGN;17598;RAP;raphanifolium;-134.333;1326S;-71.85;07151W;D. Cusco;P. Calca;PE;PER;Intihuatana Ruins, up from Pisac;24/04/53;PEH   1529;3350;Megistacroloba;24
+381;CGN;17753;SPEC;species;-135.166;1331S;-719.833;07159W;D. Cusco;P. Quispicanchis;PE;PER;Sacsayhuaman ruins;17/04/59;ROR    791;3520;Megistacroloba;24
+382;CGN;18225;SPL;sparsipilum;-173.833;1723S;-661.666;06610W;D. Cochabamba;P. Cercado;BO;BOL;On the grounds of the University of Cochabamba;17/03/80;HHA   6627;2560;Tuberosa;24
+383;CGN;18230;SPL;sparsipilum;-176.166;1737S;-663.166;06619W;D. Cochabamba;P. Capinota;BO;BOL;Charamoco, S 1 km from the village;29/03/80;HHA   6670;2400;Tuberosa;24
+384;CGN;18154;SPL;sparsipilum;-16.55;1633S;-690.166;06901W;D. La Paz;P. Ingavi;BO;BOL;2.5 km from Desaguadero to Guaqui;22/03/80;VSLC   159;3790;Tuberosa;24
+385;CGN;17759;SPG;spegazzinii;-272.333;2714S;-66.25;06615W;P. Catamarca;D. Andalgala;AR;ARG;Route 63, between Santa Maria and Andalgala, Ingenion Arenala;17/02/66;HHR   3518;2800;Tuberosa;24
+386;CGN;17839;SPG;spegazzinii;NULL;NULL;NULL;NULL;NULL;NULL;AR;ARG;NULL;NULL;PEH  332 x HAW 2464;NULL;Tuberosa;24
+387;CGN;18351;STN;stenotomum;NULL;NULL;NULL;NULL;NULL;NULL;CO;COL;NULL;NULL;OCH   1402;NULL;Tuberosa cult;24
+388;CGN;20616;STN;stenotomum;-183.333;1820S;-67.6;06736W;D. Oruro;P. Carangas;BO;BOL;39km from Toledo to Corque, near Hauko Kcale.;27/03/80;VSAH   186;3750;Tuberosa cult;24
+389;CGN;17605;STO;stoloniferum;19.7;1942N;-101.116;10107W;E. Michoacan;NULL;MX;MEX;Cerro de Punguato;05/08/65;EBS   2630;2400;Longipedicellata;48
+390;CGN;18332;STO;stoloniferum;NULL;NULL;NULL;NULL;NULL;NULL;MX;MEX;NULL;NULL;GLK  23. 85;NULL;Longipedicellata;48
+391;CGN;18205;SCR;sucrense;-201.333;2008S;-654.833;06529W;D. Potosi;P. Nor Chichas;BO;BOL;90 km from Cotagaita to Potosi via Vitiche;01/04/80;HAM    192;3030;Tuberosa;48
+392;CGN;17861;TAR;tarijense;-251.833;2511S;-65.8;06548W;P. Salta;D. Chicoana;AR;ARG;2 km above de Escoipe, route 59. Pasando el Vado del RÃ_o Escoipe;08/04/74;OKA   5632;2100;Yungasensa;24
+393;CGN;17768;VER;verrucosum;192.833;1917N;-98.05;09803W;E. Tlaxcala;NULL;MX;MEX;Above San Diego de Pinar. mt.Malinche;12/10/38;BLS   5628;2900;Tuberosa;24
+394;CGN;18121;SPEC;species;-162.666;1616S;-679.666;06758W;D. La Paz;P. Sud Yungas;BO;BOL;44 km from toll-block La Paz to Unduavi (Unduavi Junction);19/02/80;VSOA     7;3250;Conicibaccata;24
+395;CGN;18144;ADG x CUR;ADG x CUR;-17.65;1739S;-675.166;06731W;D. Oruro;P. Cercado;BO;BOL;6km from Eucaliptus to La Joya (along Rio Desaguadero).;14/03/80;VSAL   131;3700;Tuberosa;48
+396;CGN;18149;ADG x CUR;ADG x CUR;-178.833;1753S;-670.333;06702W;D. Oruro;P. Cercado;BO;BOL;23km from Caihuasi to Oruro, 3km after Paria.;19/03/80;VSLC   142A;3780;Tuberosa;48
+397;CGN;18134;ADG x CUR;ADG x CUR;-15.55;1533S;-690.833;06905W;D. La Paz;P. Camacho;BO;BOL;15km from Escoma to Italaque (Chicoma village).;06/03/80;VSOA    76;3900;Tuberosa;48
+398;CGN;962564;ADG x SCR;ADG x SCR;NULL;NULL;NULL;NULL;D. Potosi;P. Nor Chichas;BO;BOL;2km from Cotagaita on road to Atocha;03/04/74;AST     69;3200;Tuberosa;48
+399;CGN;NULL;ADG x SCR;ADG x SCR;NULL;NULL;NULL;NULL;D. Chuquisaca;P. Sud Cinti;BO;BOL;15km E of Culpina on road from San Pedro to Incahuasi.;NULL;HHCH  4619;2925;Tuberosa;48
+400;CGN;21355;ADG x SCR;ADG x SCR;NULL;NULL;NULL;NULL;D. Potosi;P. Nor Chichas;BO;BOL;49km from Tupiza to Cotagaita (East branch);17/04/74;HVHL  6114;NULL;Tuberosa;48
+401;CGN;18191;ARZ x HDM;ARZ x HDM;-192.166;1913S;-644.833;06429W;D. Chuquisaca;P. Jaime Mendoza;BO;BOL;54km from Zudanez to Padilla;09/03/80;HAM    125;2040;NULL;24
+402;CGN;18229;BER x SPL;BER x SPL;-175.666;1734S;-663.833;06623W;D. Cochabamba;P. Capinota;BO;BOL;2 km from Parotani on the road to Capinota (1 km from the new road);29/03/80;HHA   6669;2450;Tuberosa;24
+403;CGN;962403;BRC x SPL;BRC x SPL;-174.833;1729S;-652.666;06516W;D. Cochabamba;P. Carrasco;BO;BOL;106km from Cochabamba to Santa Cruz, Escalante;21/02/80;HHA   6429;2950;Tuberosa;24
+404;CGN;962443;BRC x SPL;BRC x SPL;-173.166;1719S;-661.666;06610W;D. Cochabamba;P. Cercado;BO;BOL;road through Parque de Tunari, Cerro Tunari, 17-18 km from park entrance;14/03/80;HHA   6609;3750;Tuberosa;24
+405;CGN;20619;LPH x SPL;LPH x SPL;-18.38;NULL;-66.57;NULL;NULL;NULL;BO;;farm (Finke St. Helena), 5km from Plazna to Lago Poopo.;NULL;VSH 244F;NULL;Tuberosa;24
+406;CGN;18250;MAG x MCD;MAG x MCD;NULL;NULL;NULL;NULL;P. Mendoza;NULL;AR;ARG;Q. Alvarado;NULL;EBS    955;1500;NULL;24
+407;CGN;NULL;OPL x TBR;OPL x TBR;-22.06;22.06 S;-65.28;065.28 W;P. Jujuy;D. Yavi;AR;ARG;NULL;NULL;OKAH  5863;3400;Tuberosa;48
+408;CGN;20632;PTR x LPH;PTR x LPH;-196.666;1940S;-655.333;06532W;D. Potosi;P. Linares;BO;BOL;54km from Potosi to Puna via Chaqui;03/03/80;HAM    100;3300;Tuberosa;24
+409;CGN;962183;PTR x LPH;PTR x LPH;-19.45;1927S;-658.166;06549W;D. Potosi;P. Frias;BO;BOL;Cayara village, 25km from Potosi on the old road to Oruro;04/03/80;HAM    105;3380;Tuberosa;24
+410;CGN;960058;RAP x SPL;RAP x SPL;NULL;NULL;NULL;NULL;D. Cusco;P. Cusco;PE;PER;Cachona, 7 km from Cusco;16/04/59;ROR    787;3200;NULL;24
+411;CGN;20658;RCH x MCD;RCH x MCD;NULL;NULL;NULL;NULL;NULL;NULL;AR;ARG;NULL;NULL;HHR 3363 x 3830;NULL;NULL;24
+412;CGN;962507;SCR x OPL;SCR x OPL;NULL;NULL;NULL;NULL;NULL;NULL;BO;BOL;NULL;NULL;HHCH 4597A x 4613;NULL;Tuberosa;48
+413;CGN;18142;SPL x LPH;SPL x LPH;-16.55;1633S;-68.1;06806W;D. La Paz;P. Murillo;BO;BOL;from La Paz to Mecapaca, Aranjuez, 1km past Inst. Biblico Nazareno, garden of Vivera Forestal;13/03/80;VSAL  120a;3190;Tuberosa;24
+414;CGN;960960;SPL x SCR;SPL x SCR;NULL;NULL;NULL;NULL;NULL;NULL;BO;BOL;NULL;NULL;EBS   2187 OCH;NULL;Tuberosa;24
+415;CGN;961703;spp;species;-8.25;0815S;-780.166;07801W;D. Ancash;P. Pallasca;PE;PER;Near Consuzo, Cerro Huaura, minas de Huaura, San Luis;26/03/64;HAW   2417;4000;NULL;24
+416;CGN;20580;SPEC;species;NULL;NULL;NULL;NULL;D. Lima;NULL;PE;PER;Valley Chillon River;NULL;ROR   1029b;1150;NULL;24
+417;CGN;961753;spp;species;NULL;NULL;NULL;NULL;D. Lima;NULL;PE;PER;Zarate forest above Lima;NULL;ROR   1401;2700;NULL;NULL
+418;CGN;962468;TAR x ARZ;TAR x ARZ;NULL;NULL;NULL;NULL;NULL;NULL;UNK;BOL;NULL;NULL;BGRC 28982 X HHA 650;NULL;NULL;24
+419;CGN;960084;TAR x MCD;TAR x MCD;NULL;NULL;NULL;NULL;D. Potosi;P. Frias;BO;BOL;near Potosi;01/03/59;ROR    182A;4100;Yungasensa;24
+420;CGN;961955;VIO x YUN;VIO x YUN;-163.166;1619S;-67.85;06751W;D. La Paz;P. Sud Yungas;BO;BOL;62km from Chulumani to La Paz;22/02/80;VSOA    13;2480;NULL;24
+421;CGN;18124;VIO x YUN;VIO x YUN;-162.666;1616S;-679.166;06755W;D. La Paz;P. Sud Yungas;BO;BOL;61km from Chulamani to La Paz, Tresmarias;22/02/80;VSOA    15;2400;NULL;24
+422;CGN;20656;WBR x YUN;WBR x YUN;NULL;NULL;NULL;NULL;NULL;NULL;UNK;;NULL;NULL;ROR 726 x HHA 6503;NULL;NULL;24
+423;CGN;18357;ABN;abancayense;NULL;NULL;NULL;NULL;NULL;NULL;PE;PER;NULL;NULL;OCH   7728 ?;NULL;Tuberosa;24
+424;CGN;18179;ACL;acaule;-188.333;1850S;-658.833;06553W;D. Potosi;P. Chayanta;BO;BOL;4 km from Ocuri to Colquechaca;23/02/80;HAM     45;3780;Acaulia;48
+425;CGN;18203;ACL;acaule;-216.333;2138S;-65.05;06503W;D. Tarija;P. Aviles;BO;BOL;79 km far from Tarija on road to Villacon;31/03/80;HAM    188;3650;Acaulia;48
+426;CGN;962297;ACL;acaule;-17.3;1718S;-661.666;06610W;D. Cochabamba;P. Cercado;BO;BOL;Sierra de Tunari, near Lake Huara Huara, at the end of the road;14/03/80;HHA   6604;4000;Acaulia;48
+427;CGN;22768;ACL;acaule;-171.666;1710S;-66.5;06630W;D. Cochabamba;P. Ayopaya;BO;BOL;34 km from turning off Morochata-Cochabamba road to Cocapata, Viscachas;03/04/80;HHA   6699;4000;Acaulia;48
+428;CGN;18068;ACL;acaule;-224.333;2226S;-661.833;06611W;P. Jujuy;D. Rinconada;AR;ARG;Rinconada, en la plazita a la escuela;02/04/74;HOHH  5914;3950;Acaulia;48
+429;CGN;22332;ACL;acaule;-28.7;2842S;-678.333;06750W;P. La Rioja;D. Famatina;AR;ARG;Sierra de Famatina, Puesto de La Cienaga Grande;08/02/72;OKA   4271;3100;Acaulia;48
+430;CGN;21328;ACL;acaule;-235.833;2335S;-65.2;06512W;P. Jujuy;D. Tilcara;AR;ARG;Piedra Rosada, Casa Colorado, by the Ventura River;21/03/72;OKA   4360;4000;Acaulia;48
+431;CGN;17930;ACL;acaule;-244.833;2429S;-662.166;06613W;P. Salta;D. La Poma;AR;ARG;Negra Muerta, route 40, 10 km S of Abray Acay. 500m. abajo de OKA 4834;21/03/73;OKA   4835;4300;Acaulia;48
+432;CGN;22359;ACL;acaule;-267.833;2647S;-65.75;06545W;P. Tucuman;D. Tafi del Valle;AR;ARG;road Santa Maria - Tafi, Quebrada Honda km 84;13/02/59;ROR     51b;2950;Acaulia;48
+433;CGN;22763;ACL;acaule;-171.833;1711S;-684.833;06829W;D. La Paz;P. Pacajes;BO;BOL;90 km from La Paz to Corocoro;24/03/80;VSLC   169;3960;Acaulia;48
+434;CGN;21303;AEM;acaule aemulans;-289.666;2858S;-67.7;06742W;P. La Rioja;D. Famatina;AR;ARG;Sierra Famatina, valley of Rio Amarillo above La Encrucijada;05/02/66;HHRO  3407b;3250;Acaulia;48
+435;CGN;21330;AEM;acaule aemulans;-23.6;2336S;-651.333;06508W;P. Jujuy;D. Tilcara;AR;ARG;Tembriojo, por la Senda Huairahuase a Molulo;22/03/72;OKA   4379;3500;Acaulia;48
+436;CGN;21331;AEM;acaule aemulans;-235.833;2335S;-651.666;06510W;P. Jujuy;D. Tilcara;AR;ARG;Piedra Parada area, Morron del Carrascal.Cerca Encrucijada del Rio Ventura;24/03/72;OKA   4412;3700;Acaulia;48
+437;CGN;23789;AEM;acaule aemulans;-289.666;2858S;-67.7;06742W;P. La Rioja;D. Famatina;AR;ARG;Sierra de Famatina, La Encrucijada;14/03/75;OKA   6085a;3050;Acaulia;48
+438;CGN;20675;PAL;acaule palmirense;-2.15;0209S;-787.166;07843W;P. Chimborazo;D. Palmira;EC;ECU;On Loma Mayocancha, at Estacion Experimental Paramo Moyocancha;11/05/91;SCLp  5070;3750;Acaulia;72
+439;CGN;20666;PNE;acaule punae;-113.833;1123S;-764.833;07629W;D. Lima;P. Canta;PE;PER;Slopes above Cullhuay;07/03/58;COR  P 298;4050;Acaulia;48
+440;CGN;960591;PNE;acaule punae;-11.6;1136S;-753.666;07522W;D. Junin;NULL;PE;PER;Km 34 between Jauja and Tarma;NULL;COR  P 751;4100;Acaulia;48
+441;CGN;20672;PNE;acaule punae;-12.85;1251S;-74.85;07451W;D. Huancavelica;P. Acobamba;PE;PER;Huancavelica to Lircay, km 26;NULL;HJT   5401;4150;Acaulia;48
+442;CGN;20665;PNE;acaule punae;NULL;NULL;NULL;NULL;NULL;NULL;PE;PER;NULL;NULL;IICA  3324;NULL;Acaulia;48
+443;CGN;20669;PNE;acaule punae;-92.666;0916S;-765.833;07635W;D. Huanuco;P. Huamalies;PE;PER;Luichocancha, district of Tantamayo;NULL;OCH S-  83;3700;Acaulia;48
+444;CGN;18298;ACH;achacachense;NULL;NULL;NULL;NULL;La Paz;NULL;BO;BOL;Between Achacachi & Sorata, ~ 2km and ~3km towards Sorata from highest point on road.;NULL;HPS      3;3900;Tuberosa;24
+445;CGN;18251;ACH;achacachense;NULL;NULL;NULL;NULL;NULL;NULL;BO;BOL;NULL;NULL;BGRC 29616 IBTA;NULL;Tuberosa;24
+446;CGN;18252;ACH;achacachense;NULL;NULL;NULL;NULL;NULL;NULL;BO;BOL;NULL;NULL;BGRC 29617 IBTA;NULL;Tuberosa;24
+447;CGN;18253;ACH;achacachense;NULL;NULL;NULL;NULL;NULL;NULL;BO;BOL;NULL;NULL;BGRC 29618 IBTA;NULL;Tuberosa;24
+448;CGN;962654;ACG;acroglossum;-10;1000S;-76.5;07630W;D. Huanuco;P. Dos de Mayo;PE;PER;Between Huanuco and Banos;NULL;OCH S-  66;2200;Piurana;24
+449;CGN;22730;ACS;acroscopicum;-15.2;1512S;-729.333;07256W;D. Arequipa;P. Cotahuasi;PE;PER;Huambo, near Cotahuasi;NULL;OCH S-  81;3200;Tuberosa;24
+450;CGN;22356;AGF;agrimonifolium;151.666;1510N;-91.95;09157W;D. San Marcos;NULL;GT;GTM;1.0 km NW of town square of Ixchiguan, on road to Tacana, ca 50 m N of road;24/09/95;SMHV  7026;3380;Conicibaccata;48
+451;CGN;962770;AGF;agrimonifolium;148.666;1452N;-91.2;09112W;D. Solola;NULL;GT;GTM;7.0 km west of the intersection of the road from Nahuala to Guatemala City;28/09/95;SMHV  7036;3000;Conicibaccata;48
+452;CGN;962793;AGF;agrimonifolium;158.166;1549N;-915.166;09131W;D. Huehuetenango;NULL;GT;GTM;24.3 km N of town square of Santa Eulalia, 5.5 km S of town square;26/10/95;SMHV  7074;3020;Conicibaccata;48
+453;CGN;18239;AJH;ajanhuiri;NULL;NULL;NULL;NULL;NULL;NULL;BO;BOL;NULL;NULL;IBTA   1122;NULL;Tuberosa;24
+454;CGN;22389;AJH;ajanhuiri;NULL;NULL;NULL;NULL;NULL;NULL;BO;BOL;Market La Paz;NULL;SCH    174;NULL;Tuberosa;24
+455;CGN;22349;ALN;alandiae;-17.75;1745S;-65.2;06512W;D. Cochabamba;P. Mizque;BO;BOL;148 km from Cochabamba on the old road to Sucre, 1 km before Totora;19/03/80;HAM    147;2700;Tuberosa;24
+456;CGN;18258;ALN;alandiae;-18.7;1842S;-64.2;06412W;D. Santa Cruz;P. Valle Grande;BO;BOL;45 km from Valle grande to Pucara, over Pucara;01/03/80;HHA   6523;2650;Tuberosa;24
+457;CGN;962384;ALN;alandiae;-186.833;1841S;-641.833;06411W;D. Santa Cruz;P. Valle Grande;BO;BOL;42 km from Valle Grande on the road to Pucara, 5 km before Pucara;01/03/80;HHA   6526a;2450;Tuberosa;24
+458;CGN;20651;ALN;alandiae;-17.9;1754S;-64.65;06439W;D. Santa Cruz;P. M.M. Caballero;BO;BOL;71 km from Mataral to Cochabamba, 1 km before Torrecillas;02/03/80;HHA   6530;2600;Tuberosa;24
+459;CGN;18260;ALN;alandiae;-177.166;1743S;-65.1;06506W;D. Cochabamba;P. Carrasco;BO;BOL;1 km above Totora on the road to Epizana;27/03/80;HHA   6664;2800;Tuberosa;24
+460;CGN;18264;ALN;alandiae;NULL;NULL;NULL;NULL;D. Cochabamba;P. Mizque;BO;BOL;13-18 KM FROM MIZQUE TO ARANI;23/02/80;HHA 6456 x 6457;NULL;Tuberosa;24
+461;CGN;20667;ALB;albicans;-7.05;0703S;-78.6;07836W;D. Cajamarca;NULL;PE;PER;3.5 miles from the Entrance to Hacienda Porcon;NULL;COR  P 863;3300;Acaulia;72
+462;CGN;20670;ALB;albicans;-82.833;0817S;-77.3;07718W;D. La Libertad;P. Santiago de Chuco;PE;PER;San Jose farm;NULL;OCH   2713;NULL;Acaulia;72
+463;CGN;20663;ALB;albicans;-98.666;0952S;-77.2;07712W;D. Ancash;P. Recuay;PE;PER;Near mines of Tuco;NULL;OCH  12068;4150;Acaulia;72
+464;CGN;20674;ALB;albicans;-9.85;0951S;-774.166;07725W;D. Ancash;P. Recuay;PE;PER;Between Ticapampa and Conococha;NULL;OCH  13014;4100;Acaulia;72
+465;CGN;20668;ALB;albicans;-105.666;1034S;-76.9;07654W;D. Lima;P. Cajatambo;PE;PER;Pomaca between Oyon and Cajatambo;NULL;OCH S-  21;3650;Acaulia;72
+466;CGN;22731;ABZ;albornozii;-4;0400S;-792.166;07913W;P. Loja;C. Loja;EC;ECU;Km 15 road  Loja  to  Catamayo;NULL;OCHS 11007;2700;Piurana;24
+467;CGN;18358;AMB;ambosinum;-82.833;0817S;-77.3;07718W;D. La Libertad;P. Tayabamba;PE;PER;Tayabamba;NULL;PI  458405 OCH;NULL;Tuberosa;24
+468;CGN;18354;AMB;ambosinum;-102.166;1013S;-761.333;07608W;D. Huanuco;NULL;PE;PER;Between Ambo and San Rafael;NULL;OCH S-  47;NULL;Tuberosa;24
+469;CGN;18322;AMB;ambosinum;NULL;NULL;NULL;NULL;D. Pasco;P. Daniel Carrion;PE;PER;Choccec;NULL;OCHS 11865;2800;Tuberosa;24
+470;CGN;17679;CHC;chacoense;NULL;NULL;NULL;NULL;NULL;NULL;CO;;NULL;NULL;HAW    654;NULL;Tuberosa;24
+471;CGN;962195;ARZ;arnezii;-19.3;1918S;-64.45;06427W;D. Chuquisaca;P. Jaime Mendoza;BO;BOL;64 km from Zudanez to Padilla;09/03/80;HAM    126;2140;Yungasensa;24
+472;CGN;18207;AST;astleyi;-196.333;1938S;-652.833;06517W;D. Potosi;P. Saavedra;BO;BOL;11 km from turning point near Betanzos to Esquire;03/04/80;HAM    203;3270;Megistacroloba;24
+473;CGN;18209;AST;astleyi;-196.333;1938S;-652.833;06517W;D. Potosi;P. Saavedra;BO;BOL;11 Km from turning point near Betanzos to Esquire;03/04/80;HAM    205;3270;Megistacroloba;24
+474;CGN;18210;AST;astleyi;-196.333;1938S;-652.833;06517W;D. Potosi;P. Saavedra;BO;BOL;11 KM FROM TURNING POINT NEAR BETANZOS TO ESQUIRE;03/04/80;HAM    207;3300;Megistacroloba;24
+475;CGN;18211;AST;astleyi;-196.333;1938S;-652.833;06517W;D. Potosi;P. Saavedra;BO;BOL;11 km from turning point near Betanzos to Esquire;03/04/80;HAM    208;3300;Megistacroloba;24
+476;CGN;18212;AST;astleyi;-196.333;1938S;-652.833;06517W;D. Potosi;P. Saavedra;BO;BOL;11 km from turning point near Betanzos on road to Esquire;03/04/80;HAM    209;3300;Megistacroloba;24
+477;CGN;18255;AVL;avilesii;-186.333;1838S;-64.15;06409W;D. Santa Cruz;P. Valle Grande;BO;BOL;26 km from Valle Grande on the road to Pucara, Aqua de Oro;01/03/80;HHA   6519;2850;Tuberosa;24
+478;CGN;18256;AVL;avilesii;-186.333;1838S;-64.15;06409W;D. Santa Cruz;P. Valle Grande;BO;BOL;28 km from Valle Grande on the road to Pucara;01/03/80;HHA   6521;2950;Tuberosa;24
+479;CGN;18257;AVL;avilesii;-186.333;1838S;-64.15;06409W;D. Santa Cruz;P. Valle Grande;BO;BOL;28 km from Valle Grande on the road to Pucara;01/03/80;HHA   6522;2850;Tuberosa;24
+480;CGN;18074;BER;berthaultii;-195.333;1932S;-652.666;06516W;D. Potosi;P. Saavedra;BO;BOL;Retiro, 78 km from Sucre to Potosi;28/03/74;AST     44;2950;Tuberosa;24
+481;CGN;18190;BER;berthaultii;-194.333;1926S;-65.2;06512W;D. Potosi;P. Saavedra;BO;BOL;94 km from Potosi to Sucre;05/03/80;HAM    115;2650;Tuberosa;24
+482;CGN;20635;BER;berthaultii;-193.833;1923S;-647.833;06447W;D. Chuquisaca;P. Yamparaez;BO;BOL;37 km from Tarabuco to Sotomayor via Icla;13/03/80;HAM    141;2650;Tuberosa;24
+483;CGN;20636;BER;berthaultii;-18.75;1845S;-651.333;06508W;D. Chuquisaca;P. Oropeza;BO;BOL;51km from Sucre to Cachabamba;14/03/80;HAM    146;1980;Tuberosa;24
+484;CGN;22715;BER;berthaultii;-180.833;1805S;-65.15;06509W;D. Cochabamba;P. Mizque;BO;BOL;18 km from Aiquile on the road to Misque;23/02/80;HHA   6451;2200;Tuberosa;24
+485;CGN;18216;BER;berthaultii;-180.666;1804S;-651.666;06510W;D. Cochabamba;P. Mizque;BO;BOL;21 km from Aiquile on the road to Misque;23/02/80;HHA   6453;2180;Tuberosa;24
+486;CGN;22716;BER;berthaultii;-179.166;1755S;-659.166;06555W;D. Cochabamba;P. E. Arce;BO;BOL;Road from Snzaldo to Mollepujro at 15 km from Anzaldo, near Alfamayo;06/03/80;HHA   6540;2730;Tuberosa;24
+487;CGN;20645;BER;berthaultii;-17.9;1754S;-659.166;06555W;D. Cochabamba;P. E. Arce;BO;BOL;12.5 km along the road from Anzaldo to Mollepujro;06/03/80;HHA   6549;2875;Tuberosa;24
+488;CGN;18246;BER;berthaultii;-17.95;1757S;-659.166;06555W;D. Cochabamba;P. E. Arce;BO;BOL;2.5 km below Mollepujro, Anzaldo-Mollepujro road;06/03/80;HHA   6552;2440;Tuberosa;24
+489;CGN;23804;BER;berthaultii;-17.95;1757S;-659.166;06555W;D. Cochabamba;P. E. Arce;BO;BOL;Hacienda Mollepujro, 100 m from the house;07/03/80;HHA   6557;2560;Tuberosa;24
+490;CGN;18228;BER;berthaultii;-175.666;1734S;-663.833;06623W;D. Cochabamba;P. Capinota;BO;BOL;2 km from Parotani on the road to Capinota, (1 km from the new road);29/03/80;HHA   6668;2450;Tuberosa;24
+491;CGN;22727;BER;berthaultii;-229.666;2258S;-65.45;06527W;P. Jujuy;D. Humahuaca;AR;ARG;station azul pampa;NULL;HOF   1840;3600;Tuberosa;24
+492;CGN;960983;BER;berthaultii;NULL;NULL;NULL;NULL;D. Chuquisaca;P. Zudanez;BO;BOL;road from Zudanez to Airampo via Calle-Calle;07/03/59;ROR    355;2650;Tuberosa;24
+493;CGN;17823;BER;berthaultii;-17.4;1724S;-66.15;06609W;D. Cochabamba;P. Cercado;BO;BOL;Cochabamba, Cerro de San Pedro;12/03/59;ROR    382;2570;Tuberosa;24
+494;CGN;18118;BER;berthaultii;-17.45;1727S;-662.833;06617W;D. Cochabamba;P. Cercado;BO;BOL;Outskirts of Cochabamba town, Cerro de San Pedro;17/02/80;VSOA     1;2780;Tuberosa;24
+495;CGN;22711;BLV;boliviense;-188.166;1849S;-65.65;06539W;D. Potosi;P. Chayanta;BO;BOL;42 km from Ocuri to Ravelo;23/02/80;HAM     46;3450;Megistacroloba;24
+496;CGN;18196;BLV;boliviense;-207.333;2044S;-64.85;06451W;D. Chuquisaca;P. Nor Cinti;BO;BOL;61 km from Camargo to St. Elena;22/03/80;HAM    162;2840;Megistacroloba;24
+497;CGN;18208;BLV;boliviense;-196.333;1938S;-652.833;06517W;D. Potosi;P. Saavedra;BO;BOL;11 km from turning point near Betanzos to Esquire;03/04/80;HAM    204;3270;Megistacroloba;24
+498;CGN;18070;BLV;boliviense;-189.666;1858S;-65.35;06521W;D. Chuquisaca;P. Oropeza;BO;BOL;Road from Sucre to Ravelo in the Vicinity of Guerraloma;25/03/74;HVHL  5669;3050;Megistacroloba;24
+499;CGN;961244;BLV;boliviense;-253.333;2520S;-658.333;06550W;P. Salta;D. San Carlos;AR;ARG;Isonza, Las Aguadas, Camino de Cachipampa a Amblayo, 21 km s cruce ruta59;14/06/73;OKA   5051b;2800;Megistacroloba;24
+500;CGN;17603;BST;brachistotrichum;218.833;2153N;-102.483;10229W;E. Aguascalientes;NULL;MX;MEX;Collected between Aguascalientes and Calvillo;NULL;GRA 347 x 345;NULL;Pinnatisecta;24
+501;CGN;962574;BCP;brachycarpum;NULL;NULL;NULL;NULL;E. Oaxaca;NULL;MX;MEX;San Mateo;NULL;GRA     71;NULL;Demissa;72
+502;CGN;22360;BCP;brachycarpum;191.333;1908N;-99.75;09945W;E. Mexico;NULL;MX;MEX;Tenancingo;NULL;GRA    454;NULL;Demissa;72
+503;CGN;21308;BCP;brachycarpum;19.55;1933N;-103.633;10338W;E. Jalisco;NULL;MX;MEX;Nevado de Colima, W side, Tranquitas;23/09/58;HHLs   1547;3200;Demissa;72
+504;CGN;18347;BCP;brachycarpum;162.833;1617N;-96.55;09633W;E. Oaxaca;NULL;MX;MEX;Municipio Miahuatlan, road from Oaxaca to Puerto Angel;19/10/58;HHLs   1710;2400;Demissa;72
+505;CGN;17841;BRC;brevicaule;NULL;NULL;NULL;NULL;D. Cochabamba;NULL;BO;BOL;Puente San Miguel, Tunari;NULL;EBS   2361 OCHK;3800;Tuberosa;24
+506;CGN;18226;BRC;brevicaule;-181.166;1807S;-65.1;06506W;D. Cochabamba;P. Campero;BO;BOL;10 km from Aiquile to Mizque, in fields across the river and railway;26/03/80;HHA   6661b;2450;Tuberosa;24
+507;CGN;18232;BRC;brevicaule;-173.333;1720S;-66.35;06621W;D. Cochabamba;P. Quillacollo;BO;BOL;22 km from Quillacollo old road to Morochata near New Puente San Miguel;03/04/80;HHA   6701;3650;Tuberosa;24
+508;CGN;17682;BRC;brevicaule;-172.666;1716S;-66.3;06618W;D. Cochabamba;P. Quillacollo;BO;BOL;Puente San Miguel, Tunari Range, above Cochabamba;09/04/63;UGN   4685;NULL;Tuberosa;24
+509;CGN;22321;BRC;brevicaule;-190.333;1902S;-652.833;06517W;D. Chuquisaca;NULL;BO;BOL;Pumilla, near Sucre;12/04/63;UGN   4909;NULL;Tuberosa;24
+510;CGN;960640;DMS;demissum;NULL;NULL;NULL;NULL;D. Puno;P. Puno;unk;PER;NULL;NULL;HHCH  5072;NULL;Tuberosa;24
+511;CGN;17684;BUK;bukasovii;-13.65;1339S;-733.833;07323W;D. Apurimac;P. Andahuaylas;PE;PER;Km 79 from Abancay on road to Andahuaylas;18/04/71;HHCH  5220;3900;Tuberosa;24
+512;CGN;17737;BUK;bukasovii;-133.833;1323S;-738.833;07353W;D. Ayacucho;P. Cangallo;PE;PER;7 km from Rio Pampas bridge;18/04/71;HHCH  5230;2400;Tuberosa;24
+513;CGN;21366;ACL;acaule;-15.65;1539S;-714.333;07126W;D. Arequipa;P. Caylloma;PE;PER;Pulpera, en la Ruta de Chivay a Chibayo;29/03/74;OCH   5106;4000;Tuberosa;48
+514;CGN;17821;BUK;bukasovii;-12.55;1233S;-751.833;07511W;D. Ayacucho;P. Pacaicara;PE;PER;Huallapampa;NULL;OCH S-  64;3000;Tuberosa;24
+515;CGN;17690;BLB;bulbocastanum;198.333;1950N;-101.716;10143W;E. Michoacan;NULL;MX;MEX;Near Zacapu, at km 400 from Mexico City on the road to Guadalajara;01/10/58;HHLs   1584;NULL;Bulbocastana;24
+516;CGN;17691;BLB;bulbocastanum;192.166;1913N;-98.8;09848W;E. Mexico;NULL;MX;MEX;Road from Amecameca to Chalco, Tlalmanalco;01/10/58;HHLs   1585;2400;Bulbocastana;24
+517;CGN;22698;BLB;bulbocastanum;191.833;1911N;-982.166;09813W;E. Tlaxcala;NULL;MX;MEX;Km 8 on the road from Tlaxcala to Puebla;01/10/58;HHLs   1589;NULL;Bulbocastana;24
+518;CGN;17692;BLB;bulbocastanum;178.833;1753N;-96.55;09633W;E. Oaxaca;NULL;MX;MEX;Near Oaxaca, Cerro San Felipe;01/10/58;HHLs   1590;NULL;Bulbocastana;24
+519;CGN;960631;BLB;bulbocastanum;170.333;1702N;-967.666;09646W;E. Oaxaca;NULL;MX;MEX;Oaxaca, ruins of Montealban;01/10/58;HHLs   1591;1950;Bulbocastana;24
+520;CGN;18310;BLB;bulbocastanum;NULL;NULL;NULL;NULL;NULL;NULL;MX;MEX;NULL;NULL;HHLs 1627 x 1565;NULL;Bulbocastana;24
+521;CGN;17687;BLB;bulbocastanum;NULL;NULL;NULL;NULL;E. Distrito Federal;NULL;MX;MEX;Pedregal de San Angel;NULL;ROC S-361 x S-359;NULL;Bulbocastana;24
+522;CGN;962577;BLB;bulbocastanum;NULL;NULL;NULL;NULL;NULL;NULL;MX;MEX;Canoni, Humboldt road at Chalco;NULL;SCH     28 + 29;NULL;Bulbocastana;24
+523;CGN;21363;BLB;bulbocastanum;15.15;1509N;-90.3;09018W;D. Baja Verapaz;NULL;GT;GTM;8.8 km N from town square of Salama on old road to Coban;05/10/95;SMHV  7040;1430;Bulbocastana;24
+524;CGN;21364;BLB;bulbocastanum;152.166;1513N;-90.3;09018W;D. Baja Verapaz;NULL;GT;GTM;18.8 km N from town square of Salama on old road to Coban;05/10/95;SMHV  7043;1420;Bulbocastana;24
+525;CGN;23075;BLB;bulbocastanum;153.166;1519N;-91.55;09133W;D. Huehuetenango;NULL;GT;GTM;7.3 km NW of entrance to Huehuetenango on Rt. CA 1, about 400 m uphill (SW);19/10/95;SMHV  7057;2000;Bulbocastana;24
+526;CGN;960639;CAN;canasense;-158.333;1550S;-700.333;07002W;D. Puno;P. Puno;PE;PER;Huerta farm, 6 km from Puno, Lake Titicaca;06/04/71;HHCH  5064;3900;Tuberosa;24
+527;CGN;17722;CAN;canasense;-133.833;1323S;-71.9;07154W;D. Cusco;P. Calca;PE;PER;9 km past Calca, on road to Pisac;10/04/71;HHCH  5107;3000;Tuberosa;24
+528;CGN;17672;CAN;canasense;-13.4;1324S;-73.9;07354W;D. Ayacucho;P. Cangallo;PE;PER;73 km from Chinceros, on Ayacucho road, above Ocros;18/04/71;HHCH  5233;3800;Tuberosa;24
+529;CGN;17589;CAN;canasense;-135.166;1331S;-719.833;07159W;D. Cusco;P. Cusco;PE;PER;7 km from Cusco to Pisac. same place as 794;17/04/59;ROR    795;3850;Tuberosa;24
+530;CGN;962670;CND;candolleanum;-15.4;1524S;-690.666;06904W;D. La Paz;P. Camacho;BO;BOL;Pantini, near Italaque;28/02/78;OCHS 11897;3600;Tuberosa;24
+531;CGN;18132;CND;candolleanum;-155.833;1535S;-68.55;06833W;D. La Paz;P. Larecaja;BO;BOL;"Higher altitude road to Tacacoma; 40,5 km from Sorata to Tacacoma";04/03/80;VSOA    68;3560;Tuberosa;24
+532;CGN;20603;CND;candolleanum;-156.166;1537S;-690.833;06905W;D. La Paz;P. Camacho;BO;BOL;9 km from Escoma on road to Italaque;06/03/80;VSOA    75;3850;Tuberosa;24
+533;CGN;18137;SPEC;species;-156.166;1537S;-689.333;06856W;D. La Paz;P. Omasuyos;BO;BOL;36 km from Humacha on road to Ambana;07/03/80;VSOA    86;3680;Tuberosa;24
+534;CGN;18291;CAP;capsicibaccatum;NULL;NULL;NULL;NULL;NULL;NULL;BO;BOL;NULL;NULL;EBS   2320;NULL;Circaeifolia;24
+535;CGN;18254;CAP;capsicibaccatum;-18.6;1836S;-641.166;06407W;D. Santa Cruz;P. Valle Grande;BO;BOL;19 km from Valle Grande on the road to Pucara;01/03/80;HHA   6510;2650;Circaeifolia;24
+536;CGN;22388;CAP;capsicibaccatum;-17.2;1712S;-668.833;06653W;D. Cochabamba;P. Ayopaya;BO;BOL;16 km from Independencia on the road to Challa;12/03/80;HHA   6588;3220;Circaeifolia;24
+537;CGN;962457;CAP;capsicibaccatum;NULL;NULL;NULL;NULL;D. Cochabamba;NULL;BO;BOL;NULL;NULL;HHA 6469 x 6486;NULL;Circaeifolia;24
+538;CGN;18265;CAP;capsicibaccatum;NULL;NULL;NULL;NULL;D. Cochabamba;P. Carrasco;BO;BOL;NULL;27/02/80;HHA 6561 x 6486;NULL;Circaeifolia;24
+539;CGN;962630;CPH;cardiophyllum;NULL;NULL;NULL;NULL;NULL;NULL;MX;MEX;NULL;NULL;BGRC 55227;NULL;Pinnatisecta;24
+540;CGN;NULL;CPH;cardiophyllum;NULL;NULL;NULL;NULL;E. Michoacan;NULL;MX;MEX;NULL;NULL;GRA 216 x 297;NULL;Pinnatisecta;24
+541;CGN;22387;CPH;cardiophyllum;NULL;NULL;NULL;NULL;E. Mexico;NULL;MX;MEX;Near Texacoco, Chapingo/Lunestone hills;NULL;HAW 1010 x 1032;NULL;Pinnatisecta;24
+542;CGN;17697;CPH;cardiophyllum;NULL;NULL;NULL;NULL;NULL;NULL;MX;MEX;NULL;NULL;WRF   1274;NULL;Pinnatisecta;24
+543;CGN;962709;CHC;chacoense;-184.666;1828S;-640.666;06404W;D. Santa Cruz;P. Valle Grande;BO;BOL;3.9km E of townsquare of Valle Grande to Canton Poster Valle;23/01/94;VSUG   644;2100;Yungasensa;24
+544;CGN;18365;CHC;chacoense;-183.333;1820S;-64.15;06409W;D. Santa Cruz;P. Valle Grande;BO;BOL;19.1km N of large Christ statue;24/01/94;VSUG   645;1750;Yungasensa;24
+545;CGN;17702;CHC;chacoense;NULL;NULL;NULL;NULL;P. Mendoza;NULL;AR;ARG;NULL;NULL;BRU     57;NULL;Yungasensa;24
+546;CGN;22384;CHC;chacoense;NULL;NULL;NULL;NULL;NULL;NULL;AR;ARG;NULL;NULL;FCE    104;NULL;Yungasensa;24
+547;CGN;18202;CHC;chacoense;-22.45;2227S;-645.166;06431W;D. Tarija;P. Arce;BO;BOL;59.5 km from Bermejo to Tarija;29/03/80;HAM    181;720;Yungasensa;24
+548;CGN;18294;CHC;chacoense;-253.833;2523S;-57.15;05709W;D. Cordillera;d. Caacupe;PY;PRY;Caacupe, around Instituto Agronomico Nacional;NULL;OCH  15261;221;Yungasensa;24
+549;CGN;18338;CHC;chacoense;-253.833;2523S;-572.666;05716W;D. Central;d. Ypacarai;PY;PRY;Ypacarai, on route 6 between Ascunsion and Caacupe;NULL;OCH VOO  7-9;200;Yungasensa;24
+550;CGN;961764;CHC;chacoense;-280.166;2801S;-65.6;06536W;P. Catamarca;D. Paclin;AR;ARG;La Vina, route 38;16/05/78;OKA   6888;750;Yungasensa;24
+551;CGN;22368;CHC;chacoense;-237.333;2344S;-65.25;06515W;P. Jujuy;D. Tilcara;AR;ARG;Quebrada de Yaquis Pampa, El Estanque, down from San Antonio;23/03/52;PEH    349;2300;Yungasensa;24
+552;CGN;18036;CHN;chancayense;-11.35;1121S;-773.833;07723W;D. Lima;P. Chancay;PE;PER;Loma Teatinos II or Chancay Loma Lachay ?;16/09/67;EBS   2807;NULL;Tuberosa;24
+553;CGN;18356;CHN;chancayense;NULL;NULL;NULL;NULL;D. Lima;P. Chancay;PE;PER;Lomas de Lachay;NULL;OCHS 11250;200;Tuberosa;24
+554;CGN;22718;STO;stoloniferum;-11.35;1121S;-773.833;07723W;D. Lima;P. Chancay;PE;PER;Loma Lachay;NULL;SCH    137;NULL;Tuberosa;24
+555;CGN;960028;CHM;chomatophilum;NULL;NULL;NULL;NULL;NULL;NULL;PE;PER;NULL;NULL;EBS   2145 OCH;NULL;Conicibaccata;24
+556;CGN;961684;CHM;chomatophilum;-70.833;0705S;-785.833;07835W;D. Cajamarca;P. Cajamarca;PE;PER;Hacienda Porcon, surroundings of the farmhouse;29/03/64;HAW   2433;3000;Conicibaccata;24
+557;CGN;18037;CHM;chomatophilum;-66.833;0641S;-777.833;07747W;D. Amazonas;P. Chachapoyas;PE;PER;Cerro de Leimebamba;NULL;HAW   2492;NULL;Conicibaccata;24
+558;CGN;17712;CHM;chomatophilum;NULL;NULL;NULL;NULL;NULL;NULL;PE;PER;NULL;NULL;OCH     46;NULL;Conicibaccata;24
+559;CGN;20574;CHM;chomatophilum;-70.833;0705S;-785.833;07835W;D. Cajamarca;P. Cajamarca;PE;PER;Cerro Entenador, highlands of Hacienda Porcon;21/05/52;OCH   1512;NULL;Conicibaccata;24
+560;CGN;21372;CHM;chamatophilum;-108.833;1053S;-75.95;07557W;D. Junin;P. Junin;PE;PER;Cerro Huishca. Enroute to Paucartambo;NULL;OCH S-  76;3550;Conicibaccata;24
+561;CGN;962587;BER;berthaultii;NULL;NULL;NULL;NULL;NULL;NULL;PE;PER;NULL;NULL;OCH SCHICK 155;NULL;Conicibaccata;24
+562;CGN;17713;CHM;chomatophilum;NULL;NULL;NULL;NULL;NULL;NULL;PE;PER;NULL;NULL;OCH WAC 3344;NULL;Conicibaccata;24
+563;CGN;961984;CRC;circaeifolium;-156.666;1540S;-686.166;06837W;D. La Paz;P. Larecaja;BO;BOL;12 km from Sorata on higher altitude road to Tacacoma;04/03/80;VSOA    62;3300;Circaeifolia;24
+564;CGN;18133;CRC;circaeifolium;-157.833;1547S;-686.666;06840W;D. La Paz;P. Larecaja;BO;BOL;5 km from Sorata to Achachachi;05/03/80;VSOA    73;2800;Circaeifolia;24
+565;CGN;20643;QUM;circaeifolium quimense;-177.666;1746S;-646.833;06441W;D. Cochabamba;P. Carrasco;BO;BOL;204 km from Cochabamba on the road to Santa Cruz;02/03/80;HHA   6532;2650;Circaeifolia;24
+566;CGN;22767;QUM;circaeifolium quimense;-171.166;1707S;-669.333;06656W;D. Cochabamba;P. Ayopaya;BO;BOL;Near Independencia, by the path;11/03/80;HHA   6578;2750;Circaeifolia;24
+567;CGN;18158;QUM;circaeifolium quimense;-17.05;1703S;-67.3;06718W;D. La Paz;P. Inquisivi;BO;BOL;5 km from Quime on road to Caxata;26/03/80;VSA    182;3350;Circaeifolia;24
+568;CGN;962759;CLR;clarum;150.666;1504N;-915.666;09134W;D. Totonicapan;NULL;GT;GTM;4.1 km E of town square of Calel, on road to the Panamerican Highway;20/09/95;SMHV  7011;3020;Bulbocastana;24
+569;CGN;962765;CLR;clarum;151.666;1510N;-91.95;09157W;D. San Marcos;NULL;GT;GTM;1.0 km NW of town square of Ixchiguan on toad to Tacana, ca 50 km N of road;24/09/95;SMHV  7027;3380;Bulbocastana;24
+570;CGN;962773;CLR;clarum;148.666;1452N;-912.333;09114W;D. Totonicapan;NULL;GT;GTM;along old road from Los Encuentros to Totonicapan, 2 km W;12/10/95;SMHV  7046;3260;Bulbocastana;24
+571;CGN;962787;CLR;clarum;154.833;1529N;-915.166;09131W;D. Huehuetenango;NULL;GT;GTM;31 km N of town square of Huehuetenango, on Road 9N, 3.5 km N of road jct;24/10/95;SMHV  7065;3500;Bulbocastana;24
+572;CGN;20557;COP;coelestipetalum;-13.3;1318S;-72.1;07206W;D. Cusco;P. Urubamba;PE;PER;Salapunco, Urubamba valley;21/04/59;ROR    893;2500;Tuberosa;24
+573;CGN;18287;COL;colombianum;2.35;0221N;-763.333;07620W;D. Cauca;P. Totoro;CO;COL;Paramo. 27 km from Purace on the road to Moscopan;11/04/58;COR  C 525;NULL;Conicibaccata;48
+574;CGN;18289;COL;colombianum;NULL;NULL;NULL;NULL;NULL;NULL;CO;COL;NULL;NULL;EBS   2322b;NULL;Conicibaccata;48
+575;CGN;961592;CMM;commersonii;-378.166;3749S;-582.166;05813W;P. Buenos Aires;D. Balcarce;AR;ARG;Near Balcarce, Sierra de Bachicha;23/07/72;OKA   4584;150;Commersoniana;24
+576;CGN;961597;CMM;commersonii;-380.833;3805S;-576.166;05737W;P. Buenos Aires;D. General Pueyrredon;AR;ARG;Mar del Plata, Parque Peralta Ramos.Calle Acha y 61 (B. Lynch);23/11/73;OKA   5138;30;Commersoniana;24
+577;CGN;18027;CMM;commersonii;-37.45;3727S;-585.666;05834W;P. Buenos Aires;D. Balcarce;AR;ARG;Estancia Arroyo Grande, 45 km N of Balcarce on route 55;01/04/76;OKA   6180;50;Commersoniana;24
+578;CGN;22351;CMM;commersonii;-330.333;3302S;-585.333;05832W;P. Entre Rios;D. Gualeguaychu;AR;ARG;Gualeguaychu;19/06/80;OKC   7254;20;Commersoniana;24
+579;CGN;18329;MLM;commersonii malmeanum;NULL;NULL;NULL;NULL;NULL;NULL;UY;URY;NULL;NULL;HAW    560;NULL;Commersoniana;24
+580;CGN;18025;MLM;commersonii malmeanum;-295.666;2934S;-575.333;05732W;P. Corrientes;D. Mercedes;AR;ARG;Route 23, 63 km del cruce a Mercedes y a 300 m anter de lleger. Paso Libre;05/11/73;OKA   5071;56;Commersoniana;24
+581;CGN;18215;MLM;commersonii malmeanum;-30.2;3012S;-57.7;05742W;P. Corrientes;D. Monte Caseros;AR;ARG;Route 14, 1 km from Monte Caseros;24/06/80;OKA   7270;50;Commersoniana;24
+582;CGN;17797;DMS;demissum;196.833;1941N;-100.85;10051W;E. Michoacan;NULL;MX;MEX;San Jose de las Cumbres;12/12/47;COR  14328;NULL;Demissa;72
+583;CGN;23779;DMS;demissum;19.25;1915N;-991.666;09910W;E. Distrito Federal;NULL;MX;MEX;Near Las Cruces;28/12/47;COR  14413;NULL;Demissa;72
+584;CGN;17794;DMS;demissum;196.166;1937N;-981.166;09807W;E. Tlaxcala;NULL;MX;MEX;Above San Agustin Tlaxco, Mt Cuyuaguen;07/01/48;COR  14435;NULL;Demissa;72
+585;CGN;18302;DMS;demissum;NULL;NULL;NULL;NULL;NULL;NULL;MX;MEX;NULL;NULL;CPC   6201;NULL;Demissa;72
+586;CGN;22378;DMS;demissum;NULL;NULL;NULL;NULL;NULL;NULL;MX;MEX;NULL;NULL;PET    897;NULL;Demissa;72
+587;CGN;20570;DMS;demissum;NULL;NULL;NULL;NULL;NULL;NULL;MX;MEX;NULL;NULL;ROC S-  38;NULL;Demissa;72
+588;CGN;20661;DDS;doddsii;-194.666;1928S;-641.666;06410W;D. Chuquisaca;P. Tomina;BO;BOL;41km SE of Padilla town square;20/01/94;VSUG   631;2380;Tuberosa;24
+589;CGN;18359;DDS;doddsii;-17;1700S;-65;06500W;D. Cochabamba;P. Mizque;BO;BOL;192 km from Sucre, on the road to Epizana;18/03/71;HHCH  4736;2650;Tuberosa;24
+590;CGN;960921;EHR;ehrenbergii;227.833;2247N;-102.583;10235W;E. Zacatecas;NULL;MX;MEX;726.5 km from Mexico towards Zacatecas;14/09/49;HAW   1102;2100;Bulbocastana;24
+591;CGN;17714;ETB;etuberosum;NULL;NULL;NULL;NULL;NULL;NULL;CL;CHL;NULL;NULL;COR  C 134;NULL;Etuberosa;24
+592;CGN;18288;ETB;etuberosum;NULL;NULL;NULL;NULL;NULL;NULL;CL;CHL;NULL;NULL;COR C143 x C134;NULL;Etuberosa;24
+593;CGN;23066;ETB;etuberosum;-36.9;3654S;-714.666;07128W;P. Nuble;D. Pinto;CL;CHL;Las Trancas;08/01/78;UAC  1318;1240;Etuberosa;24
+594;CGN;18242;ETB;etuberosum;-36.9;3654S;-71.4;07124W;P. Nuble;D. Coihueco;CL;CHL;Term. de Chillan;09/01/78;UAC  1321;1750;Etuberosa;24
+595;CGN;20648;ETB;etuberosum;NULL;NULL;NULL;NULL;NULL;NULL;CL;CHL;NULL;NULL;UAC  1434;NULL;Etuberosa;24
+596;CGN;18116;FEN;fendleri;333.833;3323N;-108.6;10836W;E. New Mexico;C. Catron;US;USA;Mogollon Mountains, Willow Creek, 0.5 mile above the Willow Creek Lodge;03/08/58;HHLs   1173;2400;Longipedicellata;48
+597;CGN;18063;FEN;fendleri;31.9;3154N;-109.266;10916W;E. Arizona;C. Cochise;US;USA;Chiricahua Mountains, Barfoot Park;04/08/58;HHLs   1177;2450;Longipedicellata;48
+598;CGN;17715;FEN;fendleri;314.333;3126N;-110.316;11019W;E. Arizona;C. Cochise;US;USA;Huachuca Mountains, Ramsey Canon;07/08/58;HHLs   1209;1750;Longipedicellata;48
+599;CGN;18360;FRN;fernandezianum;NULL;NULL;NULL;NULL;P. Juan Fernandez;NULL;CL;CHL;Isla Robinson Crusoe;NULL;OCH  13069;150;Etuberosa;24
+600;CGN;18243;FRN;fernandezianum;NULL;NULL;NULL;NULL;NULL;NULL;CL;CHL;NULL;NULL;UAC  1403;NULL;Etuberosa;24
+601;CGN;962595;SPEC;species;NULL;NULL;NULL;NULL;D. Cundinamarca;NULL;CO;COL;Usme;NULL;SCH     89;NULL;Conicibaccata;24
+602;CGN;21368;FRX;fraxinifolium;97.166;0943N;-84.1;08406W;P. San Jose;NULL;CR;CRI;about 4km S of La Legua on the road to San Francisco (map 3345 II).;21/12/96;SHV   7139;2100;NULL;NULL
+603;CGN;17590;GND;gandarillasii;-186.666;1840S;-651.666;06510W;D. Cochabamba;P. Campero;BO;BOL;20-24 km from Aiquila to Sucre;11/03/59;ROR    259;2500;Tuberosa;24
+604;CGN;22705;GRL;gourlayi;-22.95;2257S;-653.833;06523W;P. Jujuy;D. Humahuaca;AR;ARG;Between Iturbe and Tres Cruses, by railway at km 1313 to 1313.5;19/03/66;HHR   3907;3530;Tuberosa;48
+605;CGN;17591;GRL;gourlayi;-237.833;2347S;-65.55;06533W;P. Jujuy;D. Tumbaya;AR;ARG;Jujuy.  Abre de Tumbaya Grande;20/01/71;HOF   1800;1900;Tuberosa;24
+606;CGN;18039;GRL;gourlayi;-235.666;2334S;-654.333;06526W;P. Jujuy;D. Tilcara;AR;ARG;Sierra de Malpaso, Quebrada de Huichaira, near Tilcara;02/04/71;OKA   3801;2850;Tuberosa;48
+607;CGN;22380;GRL;gourlayi;-235.833;2335S;-653.333;06520W;P. Jujuy;D. Tilcara;AR;ARG;Casa Colorada, Quebrada del Zorro;15/03/72;OKA   4302;3400;Tuberosa;48
+608;CGN;961345;GRL;gourlayi;-236.166;2337S;-652.666;06516W;P. Jujuy;D. Tilcara;AR;ARG;Quebrada del Chorro, path from Casa Colorada to Molulo;26/03/72;OKA   4445;3900;Tuberosa;48
+609;CGN;17592;GRL;gourlayi;-243.166;2419S;-66.1;06606W;P. Salta;D. Rosario de Lerma;AR;ARG;Route 51, Quebrada Munal, 8 km NW of Las Cuevas;21/03/73;OKA   4829;3340;Tuberosa;24
+610;CGN;22336;GRL;gourlayi;-243.333;2420S;-660.833;06605W;P. Salta;D. Rosario de Lerma;AR;ARG;5 km NW of Cuevas on route 51, San Antonio de los Cobres;27/03/73;OKA   4858;3500;Tuberosa;24
+611;CGN;21335;GRL;gourlayi;-242.666;2416S;-663.166;06619W;P. Salta;D. La Poma;AR;ARG;3 km W of San Antonio, route 51, near rio San Antonio de los Cobres;29/03/73;OKA   4873;3800;Tuberosa;24
+612;CGN;18102;PTR;gourlayi pachytrichum;-19.6;1936S;-65.95;06557W;D. Potosi;P. Frias;BO;BOL;4 km from Hacienda Cayara to Potosi;07/04/74;AST     92;NULL;Tuberosa;24
+613;CGN;18176;PTR;gourlayi pachytrichum;-18.65;1839S;-662.666;06616W;D. Potosi;P. Bustillos;BO;BOL;60 km from Uncia to Macha;21/02/80;HAM     26;3530;Tuberosa;24
+614;CGN;962184;PTR;gourlayi pachytrichum;-194.666;1928S;-65.8;06548W;D. Potosi;P. Frias;BO;BOL;4 km from Casa Cayara to Potosi on the old road;04/03/80;HAM    106;3350;Tuberosa;24
+615;CGN;962185;PTR;gourlayi pachytrichum;-195.333;1932S;-65.8;06548W;D. Potosi;P. Frias;BO;BOL;10 km from Casa Cayara to Potosi on the old road;04/03/80;HAM    107;3350;Tuberosa;24
+616;CGN;18188;PTR;gourlayi pachytrichum;-19.45;1927S;-652.166;06513W;D. Potosi;P. Saavedra;BO;BOL;87 km from Potosi to Sucre;05/03/80;HAM    112;3050;Tuberosa;24
+617;CGN;960078;PTR;gourlayi pachytrichum;NULL;NULL;NULL;NULL;D. Potosi;P. Frias;BO;BOL;near Potosi;01/03/59;ROR    184;4000;Tuberosa;48
+618;CGN;962363;PTR;gourlayi pachytrichum;-193.666;1922S;-66;06600W;D. Potosi;P. Frias;BO;BOL;63 km from Potosi to Oruro;01/04/80;VSH    242b;3820;Tuberosa;24
+619;CGN;17848;VID;gourlayi vidaurrei;-227.166;2243S;-65.2;06512W;P. Salta;D. Iruya;AR;ARG;Salta.  Chiyuyoo;15/02/70;HOF   1704;3000;Tuberosa;24
+620;CGN;17849;VID;gourlayi vidaurrei;-226.833;2241S;-65.2;06512W;P. Salta;D. Iruya;AR;ARG;Salta.  Abra Colorada;15/02/70;HOF   1706;3400;Tuberosa;24
+621;CGN;18040;VID;gourlayi vidaurrei;-22.6;2236S;-651.666;06510W;P. Salta;D. Iruya;AR;ARG;Salta.  Road from Molinos;15/02/70;HOF   1716;2800;Tuberosa;24
+622;CGN;17850;VID;gourlayi vidaurrei;-225.166;2231S;-65.1;06506W;P. Salta;D. Santa Victoria;AR;ARG;Salta.  Rio Nazareno;15/02/70;HOF   1724;3050;Tuberosa;24
+623;CGN;18038;VID;gourlayi vidaurrei;-23.2;2312S;-65.45;06527W;P. Jujuy;D. Humahuaca;AR;ARG;Quebrada de la Soledad, 12 km W of Humahuaca;04/03/67;OKA   3047;3300;Tuberosa;24
+624;CGN;17864;VID;gourlayi vidaurrei;-222.666;2216S;-65.2;06512W;P. Salta;D. Santa Victoria;AR;ARG;Road to Lizoite, 10 km from junction with route 5, finca Eusebio Condori;22/04/74;OKA   5838;3800;Tuberosa;24
+625;CGN;23024;VID;gourlayi vidaurrei;-221.833;2211S;-651.833;06511W;P. Salta;D. Santa Victoria;AR;ARG;1 km NW of Lizoite, on route 5, where the road narrows and crosses river;23/04/74;OKA   5869;3500;Tuberosa;24
+626;CGN;23045;VID;gourlayi vidaurrei;-228.166;2249S;-652.333;06514W;P. Salta;D. Iruya;AR;ARG;Quebrada El Volcancito. 2 km from Iruya;23/04/78;OKA   6829;3000;Tuberosa;24
+627;CGN;960039;GRR;guerreroense;17.55;1733N;-99.5;09930W;E. Guerrero;NULL;MX;MEX;Mountains N of Chilpancingo;27/12/47;COR  14410;NULL;Demissa;72
+628;CGN;17996;HAN;hannemanii;-23.6;2336S;-651.333;06508W;P. Jujuy;D. Tilcara;AR;ARG;Huairahuasi, along the path to Casa Colorado and Molulo;21/03/72;OKA   4372;3200;Tuberosa;24
+629;CGN;17854;HAN;hannemanii;-23.6;2336S;-651.333;06508W;P. Jujuy;D. Tilcara;AR;ARG;Huairahuasi, al otro lado de La Quebreda del Rio Colorado en la senda a Pis;21/03/72;OKA   4374;3200;Tuberosa;24
+630;CGN;17997;HAN;hannemanii;-236.333;2338S;-65.1;06506W;P. Jujuy;D. Tilcara;AR;ARG;piscuno, por la senda de casa colorada a molulo;23/03/72;OKA   4383a;3100;Tuberosa;24
+631;CGN;20578;HAN;hannemanii;NULL;NULL;NULL;NULL;P. Jujuy;D. Tilcara;AR;ARG;NULL;NULL;OKA 4365 x 4372;NULL;Tuberosa;24
+632;CGN;17856;HAN;hannemanii;NULL;NULL;NULL;NULL;P. Jujuy;D. Tilcara;AR;ARG;1.5 hours by horse W of El Durazno on the road to Tilcara;24/03/72;OKA 4407 x 4481;2800;Tuberosa;24
+633;CGN;17858;HAN;hannemanii;NULL;NULL;NULL;NULL;NULL;NULL;AR;ARG;NULL;NULL;OKA 4481 x 4374;NULL;Tuberosa;24
+634;CGN;17888;HAW;hawkesianum;-251.666;2510S;-658.666;06552W;P. Salta;D. Chicoana-San Carlos;AR;ARG;Ruta 59, km 56.5, 1km abaja de La Herradura, 16.5 km W de Hosteria El Maray;04/04/73;OKA   4913;3000;Tuberosa;24
+635;CGN;17889;HAW;hawkesianum;-251.666;2510S;-658.666;06552W;P. Salta;D. Chicoana-San Carlos;AR;ARG;Cuerta del Obispo, ruta nac. 59, km 58, 1 km above Oka 4913;04/04/73;OKA   4914;3200;Tuberosa;24
+636;CGN;17890;HAW;hawkesianum;-251.666;2510S;-658.666;06552W;P. Salta;D. Chicoana-San Carlos;AR;ARG;Cuerta del Obispo, ruta nac. 59, km 58, 1 km above Oka 4913;04/04/73;OKA   4915;3300;Tuberosa;24
+637;CGN;17891;HAW;hawkesianum;-251.666;2510S;-658.666;06552W;P. Salta;D. Chicoana-San Carlos;AR;ARG;Cuerta del Obispo, ruta nac. 59, km 58, 1 km above Oka 4913;04/04/73;OKA   4916;3200;Tuberosa;24
+638;CGN;17892;HAW;hawkesianum;-251.666;2510S;-658.666;06552W;P. Salta;D. Chicoana-San Carlos;AR;ARG;Ruta nac.59, 14km arriba del pie de la cuesta, 17km w de hosteria El Maray;04/04/73;OKA   4917;3400;Tuberosa;24
+639;CGN;22369;HJT;hjertingii;254.166;2525N;-100.85;10051W;E. Coahuila;NULL;MX;MEX;Near Saltillo, Municipio Artiaga, Canon de los Lirios, Sierra Madre Orient;12/10/49;HAW   1114;2250;Longipedicellata;48
+640;CGN;22370;HJT;hjertingii;254.166;2525N;-101;10100W;E. Coahuila;NULL;MX;MEX;Saltillo.  E of Saltillo, Canon de Los Lirios, 4 miles W of Lirios village;23/08/58;HHLs   1355;2200;Longipedicellata;48
+641;CGN;18345;HJT;hjertingii;248.666;2452N;-100.216;10013W;E. Nuevo Leon;NULL;MX;MEX;Cerro Potosi.   Below Las Canoas on the edge of La Joya de Abajo;25/08/58;HHLs   1378;2500;Longipedicellata;48
+642;CGN;22385;PTA;papita;NULL;NULL;NULL;NULL;NULL;NULL;MX;MEX;NULL;NULL;K     9146.2;NULL;Longipedicellata;48
+643;CGN;962453;HJT;hjertingii;NULL;NULL;NULL;NULL;NULL;NULL;MX;MEX;NULL;NULL;K    17410.2;NULL;Longipedicellata;48
+644;CGN;961918;HDM;hondelmannii;-194.666;1928S;-65.25;06515W;D. Potosi;P. Saavedra;BO;BOL;68 km from Sucre to Potosi;28/03/74;AST     43;2350;Tuberosa;24
+645;CGN;962199;HDM;hondelmannii;-193.333;1920S;-647.833;06447W;D. Chuquisaca;P. Yamparaez;BO;BOL;32 km from Tarabuco to Sotomayor Via Icla;13/03/80;HAM    136;2700;Tuberosa;24
+646;CGN;18192;HDM;hondelmannii;-193.666;1922S;-647.833;06447W;D. Chuquisaca;P. Yamparaez;BO;BOL;36 km from Tarabuco on the road to Sotomayor;13/03/80;HAM    138;2590;Tuberosa;24
+647;CGN;18193;HDM;hondelmannii;-193.666;1922S;-647.833;06447W;D. Chuquisaca;P. Yamparaez;BO;BOL;36 km from Tarabuco to Sotomayor via Icla;13/03/80;HAM    139;2590;Tuberosa;24
+648;CGN;962204;HDM;hondelmannii;-193.833;1923S;-647.833;06447W;D. Chuquisaca;P. Yamparaez;BO;BOL;37 km from Tarabuco to Sotomayor via Icla;13/03/80;HAM    142;2650;Tuberosa;24
+649;CGN;18053;SPEC;species;-195.666;1934S;-65.8;06548W;D. Potosi;P. Frias;BO;BOL;27 km from Potosi on the road to Oruro, above Tarapaya;08/03/71;HHCH  4595;3550;Tuberosa;24
+650;CGN;18363;HPS;hoopesii;-19.95;1957S;-64.45;06427W;D. Chuquisaca;P. Azurduy;BO;BOL;24.3 km N of town square of Azurduy on road to Tarabuco;16/01/94;VSUG   623;2860;Tuberosa;48
+651;CGN;18367;HPS;hoopesii;-20.1;2006S;-644.166;06425W;D. Chuquisaca;P. Azurduy;BO;BOL;Nursery of EstaciÃ_n Exp. Santa BÃ¡rbara, at edge of town of Azurduy;07/03/93;SFVU  6683;2513;Tuberosa;48
+652;CGN;18368;HPS;hoopesii;-20.1;2006S;-64.4;06424W;D. Chuquisaca;P. Azurduy;BO;BOL;1km N of town square of Azurduy;07/03/93;SFVU  6684;2481;Tuberosa;48
+653;CGN;18372;HPS;hoopesii;-20;20--S;-644.166;06425W;D. Chuquisaca;P. Azurduy;BO;BOL;NULL;07/03/93;SFVU 6685 x 6683;2550;Tuberosa;48
+654;CGN;18339;HOU;hougasii;19.65;1939N;-103.633;10338W;E. Jalisco;NULL;MX;MEX;In thicket on edge of field, near Sayula, Slopes of Volcan de Nevada;18/12/47;COR  14340;NULL;Demissa;72
+655;CGN;21361;HOU;hougasii;NULL;NULL;NULL;NULL;NULL;NULL;MX;MEX;NULL;NULL;GLK  66.  9;NULL;Demissa;72
+656;CGN;962568;HMP;humectophilum;NULL;NULL;NULL;NULL;D. Amazonas;P. Chachapoyas;PE;PER;Convento;NULL;OCH  11753;3000;Tuberosa;24
+657;CGN;18077;INM;incamayoense;-24.75;2445S;-657.333;06544W;P. Salta;D. Rosario de Lerma;AR;ARG;Quebrada del Toro, Cebollar;05/04/74;HOHH  5995;2280;Tuberosa;24
+658;CGN;21320;INM;incamayoense;-248.166;2449S;-65.7;06542W;P. Salta;D. Rosario de Lerma;AR;ARG;Route 51, km 44-45, between El Alisal and Chorrillos;21/03/73;OKA   4824;1900;Tuberosa;24
+659;CGN;17874;INM;incamayoense;-247.666;2446S;-657.333;06544W;P. Salta;D. Rosario de Lerma;AR;ARG;Salta.Quebrada del Toro,Cebollar,about 50km on route 51. Ent.CH. Y Golgata;26/03/73;OKA   4850;2200;Tuberosa;24
+660;CGN;17875;INM;incamayoense;-24.75;2445S;-657.333;06544W;P. Salta;D. Rosario de Lerma;AR;ARG;Quebrada del Toto, Incamayo, route 51;27/03/73;OKA   4852;2280;Tuberosa;24
+661;CGN;17968;INM;incamayoense;-247.166;2443S;-65.75;06545W;P. Salta;D. Rosario de Lerma;AR;ARG;Quebrada del Toro, El Golgota, route 51 km 59;27/03/73;OKA   4853;2320;Tuberosa;24
+662;CGN;961363;INM;incamayoense;-246.666;2440S;-657.666;06546W;P. Salta;D. Rosario de Lerma;AR;ARG;Quebrada del Toro, Terron Azul, route 59, km 65.5;27/03/73;OKA   4854;2500;Tuberosa;24
+663;CGN;22335;INM;incamayoense;-245.166;2431S;-65.85;06551W;P. Salta;D. Rosario de Lerma;AR;ARG;Quebrada del Toro, past Puerta de Tastil, route 51. km 87;27/03/73;OKA   4855;2700;Tuberosa;24
+664;CGN;17720;IFD;infundibuliforme;NULL;NULL;NULL;NULL;D. La Paz;NULL;BO;BOL;NULL;NULL;ALN  64- 8;NULL;Cuneoalata;24
+665;CGN;23063;IFD;infundibuliforme;-19.8;1948S;-657.333;06544W;D. Potosi;P. Linares;BO;BOL;31 km from Potosi to Tarija;21/03/80;HAM    151;3800;Cuneoalata;24
+666;CGN;22334;IFD;infundibuliforme;-23.65;2339S;-66.3;06618W;P. Salta;D. La Poma;AR;ARG;7 km W of Quebrada de Cobres, route 40. Ruta Nac. 40 km 1455;30/03/73;OKA   4881;3800;Cuneoalata;24
+667;CGN;23048;IFD;infundibuliforme;-237.166;2343S;-656.666;06540W;P. Jujuy;D. Tumbaya;AR;ARG;Abra de Pibes, route 16, then 34 km W on route 9;05/05/74;OKA   6000;3640;Cuneoalata;24
+668;CGN;960696;IFD;infundibuliforme;-232.166;2313S;-65.7;06542W;P. Jujuy;D. Humahuaca;AR;ARG;Mina Aguilar, near the mill;28/03/52;PEH    360;4100;Cuneoalata;24
+669;CGN;20562;AEM;acaule aemulans;NULL;NULL;NULL;NULL;NULL;NULL;MX;;NULL;NULL;HAW    318;NULL;Demissa;48
+670;CGN;20561;IOP;iopetalum;NULL;NULL;NULL;NULL;NULL;NULL;MX;MEX;NULL;NULL;HAW    320;NULL;Demissa;72
+671;CGN;20572;IOP;iopetalum;20.25;2015N;-982.166;09813W;E. Puebla;NULL;MX;MEX;2-3 km from Honey, on the path N to Tehuatlan, escarpment edge;08/10/58;HHLs   1654;1950;Demissa;72
+672;CGN;962542;JAM;jamesii;NULL;NULL;NULL;NULL;NULL;NULL;US;USA;NULL;NULL;CPC 3850 x 5847;NULL;Pinnatisecta;24
+673;CGN;960923;JAM;jamesii;NULL;NULL;NULL;NULL;E. New Mexico;NULL;US;USA;Arizona and New Mexico;NULL;GRA 388 x 381;NULL;Pinnatisecta;24
+674;CGN;18346;JAM;jamesii;324.833;3229N;-108.516;10831W;E. New Mexico;C. Grant;US;USA;S end of the Bigg Burro Mountains, Silver City, 17 miles from Lordsburg;03/08/58;HHLs   1176;1800;Pinnatisecta;24
+675;CGN;22338;KTZ;kurtzianum;-303.666;3022S;-695.833;06935W;P. San Juan;D. Iglesia;AR;ARG;Penasquito, Riquintin, 5 km N on route 150. km 92.5;14/02/72;OKA   4285;2700;Tuberosa;24
+676;CGN;961563;KTZ;kurtzianum;-27.9;2754S;-673.666;06722W;P. Catamarca;D. Tinogasta-Belen;AR;ARG;Cuesta de Zapata, 7 km from the foot of the Hill. 32kM NE cruce ruta40-60;28/04/73;OKA   5026;1840;Tuberosa;24
+677;CGN;23042;KTZ;kurtzianum;-287.666;2846S;-66.4;06624W;P. La Rioja;D. Capital;AR;ARG;Sierra de Ambato, Quebrada de la Sebila. km 1143 17km;08/05/74;OKA   6004;960;Tuberosa;24
+678;CGN;961013;KTZ;kurtzianum;-275.833;2735S;-671.166;06707W;P. Catamarca;D. Belen;AR;ARG;Finca Molinos.  Bajo cerca de ramas;25/04/75;OKA   6139;NULL;Tuberosa;24
+679;CGN;22721;LXS;laxissimum;NULL;NULL;NULL;NULL;D. Cusco;P. Urubamba;PE;PER;Stat. Machu Picchu, at the bottom of the valley;18/04/59;ROR    862;2500;Conicibaccata;24
+680;CGN;18173;LPH;leptophyes;-182.333;1814S;-664.833;06629W;D. Potosi;P. Ibanez;BO;BOL;1 km from Caripuyo on the road to Llallagua;19/02/80;HAM      9;3250;Tuberosa;24
+681;CGN;20623;ACL;acaule;-188.166;1849S;-65.9;06554W;D. Potosi;P. Chayanta;BO;BOL;40 km from Colquechaca to Ocuri;22/02/80;HAM     41;3960;Tuberosa;24
+682;CGN;18167;LPH;leptophyes;-186.333;1838S;-66.95;06657W;D. Oruro;P. Poopo;BO;BOL;Farm Saint Helena, 5 km from Pazna to Lago Poopo;04/04/80;VSH    248;3700;Tuberosa;24
+683;CGN;20611;LPH;leptophyes;-177.833;1747S;-675.333;06732W;D. Oruro;P. Cercado;BO;BOL;2 km from La Joya to Lajma;20/03/80;VSLC   146;3680;Tuberosa;24
+684;CGN;18126;LPH;leptophyes;-17.05;1703S;-67.3;06718W;D. La Paz;P. Inquisivi;BO;BOL;79 km from Panduro to Quime, 7 km after Huanacota Village;24/02/80;VSOA    22;3900;Tuberosa;24
+685;CGN;17723;LGL;lignicaule;-134.333;1326S;-71.85;07151W;D. Cusco;P. Calca;PE;PER;Ruins of Pisac;11/04/71;HHCH  5113;3300;Lignicaulia;24
+686;CGN;22720;LMB;limbaniense;NULL;NULL;NULL;NULL;NULL;NULL;PE;PER;NULL;NULL;OCH   5123;NULL;Conicibaccata;24
+687;CGN;962815;LGC;longiconicum;101.833;1011N;-842.333;08414W;P. Alajuela;NULL;CR;CRI;Volcan Poas, 8.5 km from Poasito, 400 m before large meadow;09/12/96;SHV   7122;2560;Conicibaccata;48
+688;CGN;22719;MAG;maglia;NULL;NULL;NULL;NULL;P. Mendoza;NULL;AR;ARG;NULL;NULL;CPC   2057;NULL;Maglia;24
+689;CGN;17724;MRN;marinasense;-134.666;1328S;-719.166;07155W;D. Cusco;P. Cusco;PE;PER;Along road to Cuzco, 8 km past Pisac, on a steep bank in a village;11/04/71;HHCH  5126;3350;Tuberosa;24
+690;CGN;17594;MRN;marinasense;NULL;NULL;NULL;NULL;D. Cusco;P. Cusco;PE;PER;Granja de Kcaira, Quebrada de Las Anderias;16/04/59;ROR    779;3300;Tuberosa;24
+691;CGN;21349;MED;medians;NULL;NULL;NULL;NULL;NULL;NULL;PE;PER;3km behind Huincu (?);NULL;EBS   3185;NULL;Tuberosa;24
+692;CGN;18043;MED;medians;NULL;NULL;NULL;NULL;D. Lima;P. Canta;PE;PER;near Canta;NULL;HAW   2489;NULL;Tuberosa;24
+693;CGN;18308;MED;medians;-115.666;1134S;-766.166;07637W;D. Lima;P. Canta;PE;PER;Carhua;NULL;OCH   5032;2850;Tuberosa;24
+694;CGN;21343;MED;medians;-114.166;1125S;-766.333;07638W;D. Lima;P. Canta;PE;PER;near Canta;03/05/59;ROR   1029;3000;Tuberosa;24
+695;CGN;18307;MED;medians;-113.666;1122S;-770.166;07701W;D. Lima;P. Canta;PE;PER;San Miguel;NULL;VIL    211;2900;Tuberosa;24
+696;CGN;23064;MGA;megistacrolobum;-197.333;1944S;-651.333;06508W;D. Potosi;P. Linares;BO;BOL;53 km from turning point near Betanzos to Turchipa;02/04/80;HAM    201;3900;Megistacroloba;24
+697;CGN;17828;MGA;megistacrolobum;NULL;NULL;NULL;NULL;P. Salta;D. Santa Victoria;AR;ARG;Between Lizoite and Abra de Lizoite;17/02/56;HJR    255;3450;Megistacroloba;24
+698;CGN;961590;MGA;megistacrolobum;-218.833;2153S;-66.1;06606W;P. Jujuy;D. Santa Catalina;AR;ARG;10 km W of Santa Catalina;06/04/71;OKA 3912 x 3915;4000;Megistacroloba;24
+699;CGN;22347;MGA;megistacrolobum;-17.65;1739S;-669.833;06659W;D. Oruro;P. Cercado;BO;BOL;28 km from Caracolla to Cochabamba, near Leque Palca;14/03/80;VSAL   133;3940;Megistacroloba;24
+700;CGN;20601;MGA;megistacrolobum;-170.833;1705S;-67.4;06724W;D. La Paz;P. Loayza;BO;BOL;8 km from Caxata Junction to Araca;29/02/80;VSOA    48;4140;Megistacroloba;24
+701;CGN;17728;TOR;megistacrolobum toralapanum;-19.15;1909S;-652.833;06517W;D. Chuquisaca;P. Oropeza;BO;BOL;29 km from Sucre towards Ravelo;05/03/71;HHCH  4556;3300;Megistacroloba;24
+702;CGN;23006;TOR;megistacrolobum toralapanum;-22.25;2215S;-65.05;06503W;P. Salta;D. Santa Victoria;AR;ARG;E of Cajas, 56 km;05/03/71;HOF   1851;3150;Megistacroloba;24
+703;CGN;18145;TOR;megistacrolobum toralapanum;-174.333;1726S;-655.333;06532W;D. Cochabamba;P. Arani;BO;BOL;76 km from Cochabamba to Santa Cruz, Coari Village;17/03/80;VSAL   134;3800;Megistacroloba;24
+704;CGN;18146;TOR;megistacrolobum toralapanum;-176.666;1740S;-66.5;06630W;D. Cochabamba;P. Arque;BO;BOL;90 km from Cochabamba to Oruro, Sayari road Junction;19/03/80;VSAL   136;3760;Megistacroloba;24
+705;CGN;18147;TOR;megistacrolobum toralapanum;-176.666;1740S;-665.333;06632W;D. Cochabamba;P. Arque;BO;BOL;94 km from Cochabamba to Oruro, 4 km after Sayari;19/03/80;VSLC   138;3800;Megistacroloba;24
+706;CGN;18125;TOR;megistacrolobum toralapanum;-17.05;1703S;-673.166;06719W;D. La Paz;P. Inquisivi;BO;BOL;76 km from Panduro to Quime, 4 km after Huanacota Village;24/02/80;VSOA    19;4040;Megistacroloba;24
+707;CGN;22382;MCD;microdontum;-185.166;1831S;-641.166;06407W;D. Santa Cruz;P. Valle Grande;BO;BOL;8 km from Valle Grande in the direction of Masicuri, Guadalupe;29/02/80;HHA   6502;2200;Tuberosa;24
+708;CGN;18259;MCD;microdontum;-178.833;1753S;-64.7;06442W;D. Santa Cruz;P. M.M. Caballero;BO;BOL;Siberia, on the road to La Fortaleza, 227 km from Cochabamba;02/03/80;HHA   6531;2550;Tuberosa;24
+709;CGN;23805;MCD;microdontum;-23.6;2336S;-652.333;06514W;P. Jujuy;D. Tilcara;AR;ARG;El Durazno about 13 hours by mule from Tilcara;10/04/83;OKA   7612;2550;Tuberosa;24
+710;CGN;18199;GIG;microdontum gigantophyllum;-21.4;2124S;-644.666;06428W;D. Tarija;P. Cercado;BO;BOL;53 km from Tarija to Entre rios;27/03/80;HAM    174;2400;Tuberosa;24
+711;CGN;20639;GIG;microdontum gigantophyllum;-21.4;2124S;-644.666;06428W;D. Tarija;P. Cercado;BO;BOL;54 km from Tarija to Entre rios;27/03/80;HAM    175;2350;Tuberosa;24
+712;CGN;18200;GIG;microdontum gigantophyllum;-214.166;2125S;-643.666;06422W;D. Tarija;P. Cercado;BO;BOL;69 km from Tarija to Entre rios;27/03/80;HAM    177;2070;Tuberosa;24
+713;CGN;17595;GIG;microdontum gigantophyllum;-25.7;2542S;-65.5;06530W;P. Salta;D. Guachipas;AR;ARG;20.3 km from Pampa Grande (km 1480);04/03/66;HHR   3681;1920;Tuberosa;24
+714;CGN;23050;GIG;microdontum gigantophyllum;-25.15;2509S;-656.833;06541W;P. Salta;D. Chicoana;AR;ARG;Quebrada de Escoipe, agua negra, 4 km al oeste de mal paso por ruta 59;08/04/74;HOHH  6012;1720;Tuberosa;24
+715;CGN;21342;GIG;microdontum gigantophyllum;NULL;NULL;NULL;NULL;P. Salta;D. Capital;AR;ARG;Capital Quebrada de San Lorenzo;20/02/56;HPR    293;1500;Tuberosa;24
+716;CGN;20587;MCQ;mochiquense;-84.166;0825S;-78.75;07845W;D. La Libertad;P. Viru;PE;PER;Cerro La Pileta;NULL;EBS   2764;NULL;Tuberosa;24
+717;CGN;18263;MCQ;mochiquense;NULL;NULL;NULL;NULL;NULL;NULL;PE;PER;NULL;NULL;K 11273 x 18129;NULL;Tuberosa;24
+718;CGN;17731;MCQ;mochiquense;-79.833;0759S;-79.1;07906W;D. La Libertad;P. Trujillo;PE;PER;Cerro Campana, near Trujillo;10/09/52;OCH   1822;450;Tuberosa;24
+719;CGN;21360;MCQ;mochiquense;NULL;NULL;NULL;NULL;NULL;NULL;PE;PER;NULL;NULL;OCH SCHICK 138;NULL;Tuberosa;24
+720;CGN;22355;MSP;moscopanum;2.4;0224N;-76.45;07627W;D. Cauca;P. Purace;CO;COL;NULL;NULL;CCC   5150;NULL;Conicibaccata;72
+721;CGN;18343;MSP;moscopanum;NULL;NULL;NULL;NULL;NULL;NULL;EC;ECU;NULL;NULL;OCH   2104;NULL;Conicibaccata;72
+722;CGN;21344;MLT;multidissectum;NULL;NULL;NULL;NULL;NULL;NULL;PE;PER;NULL;NULL;EBS   2420;NULL;Tuberosa;24
+723;CGN;18330;MLT;multidissectum;NULL;NULL;NULL;NULL;NULL;NULL;PE;PER;NULL;NULL;HAW     96;NULL;Tuberosa;24
+724;CGN;960739;MLT;multidissectum;NULL;NULL;NULL;NULL;D. Cusco;P. Cusco;PE;PER;4km from Cusco to Tambomachy, on E-side of Cusco valley;16/04/64;HAW   2469;3650;Tuberosa;24
+725;CGN;17686;MLT;multidissectum;-143.333;1420S;-71.55;07133W;D. Cusco;P. Canas;PE;PER;Ruins of Viracocha at Raqchi, near San Pedro;08/04/71;HHCH  5088;3550;Tuberosa;24
+726;CGN;17685;SPEC;species;-13.65;1339S;-733.833;07323W;D. Apurimac;P. Andahuaylas;PE;PER;108 km from Abancay on road to Andahuaylas;18/04/71;HHCH  5226;3900;Tuberosa;24
+727;CGN;17733;MLT;multidissectum;-11.45;1127S;-759.666;07558W;D. Junin;P. Tarma;PE;PER;15 km from La Oroya to Junin, Casarajra;09/04/53;PEH   1340;3850;Tuberosa;24
+728;CGN;960736;MLT;multidissectum;-132.666;1316S;-73.85;07351W;D. Ayacucho;P. Cangallo;PE;PER;38 km from Ayacucho towards Andahuaylas;17/04/53;PEH   1407;3900;Tuberosa;24
+729;CGN;17825;MLT;multidissectum;-141.666;1410S;-71.1;07106W;D. Cusco;P. Canchis;PE;PER;30 km towards Puno from Sicuani;03/05/53;PEH   1583;3950;Tuberosa;24
+730;CGN;961613;MLT;multidissectum;NULL;NULL;NULL;NULL;NULL;NULL;UNK;;From a collection of Gandarillas in Belen (BOL);NULL;ROR    591;NULL;Tuberosa;24
+731;CGN;17840;MLT;multidissectum;NULL;NULL;NULL;NULL;D. Junin;P. Huancayo;PE;PER;Acostambo before Huancayo. Near 988;NULL;ROR    989;3550;Tuberosa;24
+732;CGN;960967;MLT;multidissectum;NULL;NULL;NULL;NULL;D. Junin;P. Huancayo;PE;PER;Huaychulo at Huancayo;29/04/59;ROR   1020;3300;Tuberosa;24
+733;CGN;962398;MTP;multiinterruptum;NULL;NULL;NULL;NULL;D. Ancash;P. Bolognesi;PE;PER;Km 295, Cajacay, valley Rio Fortaleza, (valley to Huares);26/04/59;ROR   1046;2500;Tuberosa;24
+734;CGN;18217;NCD;neocardenasii;-181.166;1807S;-64.2;06412W;D. Santa Cruz;P. Valle Grande;BO;BOL;1.5 km from Matoral on the road to Valle Grande;29/02/80;HHA   6496;1400;Tuberosa;24
+735;CGN;18280;NRS;neorossii;NULL;NULL;NULL;NULL;NULL;NULL;AR;ARG;NULL;NULL;HHR 3873 x 3875;NULL;Tuberosa;24
+736;CGN;17599;NRS;neorossii;-22.25;2215S;-650.333;06502W;P. Salta;D. Santa Victoria;AR;ARG;Rodeopampa, 14.5 km W from Santa Victoria;06/03/71;HOF   1874;2530;Tuberosa;24
+737;CGN;18051;NRS;neorossii;-22.25;2215S;-650.833;06505W;P. Salta;D. Santa Victoria;AR;ARG;Salta.  13 km W from Santa Victoria on the road to La Quiaca;06/03/71;HOF   1875;2830;Tuberosa;24
+738;CGN;23068;OKA;okadae;-17.1;1706S;-669.166;06655W;D. Cochabamba;P. Ayopaya;BO;BOL;3 km from Independencia on the footpath to Sivingani;11/03/80;HHA   6585;2450;Tuberosa;24
+739;CGN;18269;OKA;okadae;NULL;NULL;NULL;NULL;NULL;NULL;AR;;NULL;NULL;NULL;NULL;Tuberosa;24
+740;CGN;17999;VNT;venturii;NULL;NULL;NULL;NULL;P. Jujuy;D. Tilcara;AR;ARG;Piscuno, Casa Colorada-Molulo road;22/03/72;OKA 4388 x 4392;NULL;Tuberosa;24
+741;CGN;18279;VNT;venturii;-241.166;2407S;-656.333;06538W;P. Jujuy;D. Capital;AR;ARG;Falda de Sombra;05/04/83;OKA 7584 x 7585;3150;Tuberosa;24
+742;CGN;962076;OKA;okadae;-170.166;1701S;-67.25;06715W;D. La Paz;P. Inquisivi;BO;BOL;0.5 km from Quime to Inquisivi;26/03/80;VSA    176;2950;Tuberosa;24
+743;CGN;962078;OKA;okadae;-169.833;1659S;-67.2;06712W;D. La Paz;P. Inquisivi;BO;BOL;12.5 km from Quime to Inquisivi (Calasaya Village);26/03/80;VSA    178;2930;Tuberosa;24
+744;CGN;18157;OKA;okadae;-170.166;1701S;-67.25;06715W;D. La Paz;P. Inquisivi;BO;BOL;14 km from Inquisivi to Quime;26/03/80;VSA    180;2800;Tuberosa;24
+745;CGN;22709;OKA;okadae;-17;1700S;-672.333;06714W;D. La Paz;P. Inquisivi;BO;BOL;6 km from Quime to Licoma;25/02/80;VSOA    38;2830;Tuberosa;24
+746;CGN;18129;OKA;okadae;-17;1700S;-672.333;06714W;D. La Paz;P. Inquisivi;BO;BOL;6 km from Quime to Licoma;25/02/80;VSOA    42;2840;Tuberosa;24
+747;CGN;23049;OPL;oplocense;-213.333;2120S;-65.75;06545W;D. Potosi;P. Sud Chichas;BO;BOL;Road to Tupiza, 2 km from Oploca. As AST 58 BUT 100 m. Down River;02/04/74;AST     60;3100;Tuberosa;72
+748;CGN;23062;DMS;demissum;NULL;NULL;NULL;NULL;D. Potosi;P. Saavedra;BO;unk;NULL;NULL;HAM    114;NULL;Tuberosa;48, 72
+749;CGN;962217;OPL;oplocense;-208.333;2050S;-649.166;06455W;D. Chuquisaca;P. Sud Cinti;BO;BOL;East of Camargo, Outskirts Culpina;22/03/80;HAM    161;2870;Tuberosa;48
+750;CGN;21352;OPL;oplocense;NULL;NULL;NULL;NULL;D. Potosi;P. Sud Chichas;BO;BOL;61 km from Cotagaita to Tupiza;24/03/80;HAM    167;3300;Tuberosa;72
+751;CGN;18088;OPL;oplocense;-218.833;2153S;-661.833;06611W;P. Jujuy;D. Santa Catalina;AR;ARG;A 10 m de 5586;02/04/74;HOHH  5895;3800;Tuberosa;72
+752;CGN;18085;OPL;oplocense;-218.833;2153S;-661.833;06611W;P. Jujuy;D. Santa Catalina;AR;ARG;30km Oeste de Sta catalina, camino a El Angosto, finca de Anselmo Salinas;02/04/74;HOHH  5896;3800;Tuberosa;72
+753;CGN;21319;OPL;oplocense;-218.833;2153S;-661.833;06611W;P. Jujuy;D. Santa Catalina;AR;ARG;El Angosto, 34 km W of Santa Catalina.Finca de Felix Velazquez;07/04/71;OKA   3951b;3700;Tuberosa;48
+754;CGN;17871;OPL;oplocense;-23.2;2312S;-65.45;06527W;P. Jujuy;D. Humahuaca;AR;ARG;Ravine from Soledad, 12 km W to Humahuaca;03/04/72;OKA   4498;3300;Tuberosa;72
+755;CGN;18086;OPL;oplocense;-221.166;2207S;-654.666;06528W;P. Jujuy;D. Yavi;AR;ARG;Yavi, E side of the River Yavi;28/03/74;OKA   5423;3500;Tuberosa;72
+756;CGN;962570;ORP;orophilum;NULL;NULL;NULL;NULL;D. Junin;P. Huancayo;PE;PER;Eluyo;NULL;OCHS 11869;3400;Tuberosa;24
+757;CGN;18292;OXC;oxycarpum;195.666;1934N;-972.333;09714W;E. Veracruz;NULL;MX;MEX;Near Perote, km 306.5 from Mexico, road from Las Vigas to Jalapa;07/10/58;HHLs   1643;2100;Conicibaccata;48
+758;CGN;20558;OXC;oxycarpum;195.666;1934N;-972.333;09714W;E. Veracruz;NULL;MX;MEX;Km 305.5 from Mexico on the road from Las Vigas to Jalapa;07/10/58;HHLs   1649;2150;Conicibaccata;48
+759;CGN;18286;PLS;palustre;-392.666;3916S;-719.666;07158W;P. Cautin;D. Pucon;CL;CHL;Along streams at Liapenco, above Pucon;17/01/58;COR  C  15;NULL;Etuberosa;24
+760;CGN;17983;PLS;palustre;-40.2;4012S;-71.45;07127W;P. Neuquen;D. Lacar;AR;ARG;Quiaquina, al lado del Lago Lacar cerca de la fuente de agua mineral;02/02/73;DEL BALC 73002;NULL;Etuberosa;24
+761;CGN;18241;PLS;palustre;-386.833;3841S;-71.9;07154W;P. Cautin;D. Vilcun;CL;CHL;fundo venecia, 11 km cherquenco a llaima;06/01/78;UAC  1315;850;Etuberosa;24
+762;CGN;962604;PAM;pampasense;NULL;NULL;NULL;NULL;D. Ayacucho;P. Cangallo;PE;PER;Pajonal, between Ocras and Andahuaylas;18/04/53;PEH   1420;2000;Tuberosa;24
+763;CGN;20575;PAM;pampasense;NULL;NULL;NULL;NULL;D. Ayacucho;P. Ayacucho;PE;PER;Road Chincheros - Ocros. Just after crossing Rio Pampas;26/04/59;ROR    966;2300;Tuberosa;24
+764;CGN;960051;PAM;pampasense;-134.166;1325S;-73.9;07354W;D. Ayacucho;P. Cangallo;PE;PER;Chicheros to Ocros. 5km before Chumbis;26/04/59;ROR    969;2600;Tuberosa;24
+765;CGN;18309;PTA;papita;233.333;2320N;-105.116;10507W;E. Durango;NULL;MX;MEX;Road 40. 18 miles W of Durango, Rio Chico, north slope of canyon;24/07/58;COR  20075;NULL;Longipedicellata;48
+766;CGN;18319;PTA;papita;241.833;2411N;-105.033;10502W;E. Durango;NULL;MX;MEX;NW of Durango, 1 mile from Otinapa along the road to Durango;11/09/58;HHLs   1486;2200;Longipedicellata;48
+767;CGN;17831;PTA;papita;23.5;2330N;-103.583;10335W;E. Zacatecas;NULL;MX;MEX;4.2 miles from the Durango border, along road from Durango to Zacatecas;12/09/58;HHLs   1488;2250;Longipedicellata;48
+768;CGN;18050;PCJ;paucijugum;NULL;NULL;NULL;NULL;NULL;NULL;PE;ECU;NULL;NULL;EBS   2746;NULL;Conicibaccata;48
+769;CGN;962622;PCS;paucissectum;-53.333;0520S;-794.333;07926W;D. Piura;P. Huancabamba;PE;PER;Sondorillo, Cienago Largo;20/06/74;HUA    974;3050;Piurana;24
+770;CGN;17739;PCS;paucissectum;NULL;NULL;NULL;NULL;NULL;NULL;PE;PER;NULL;NULL;OCH WAC 3354;NULL;Piurana;24
+771;CGN;18342;PHU;phureja;NULL;NULL;NULL;NULL;NULL;NULL;CO;COL;NULL;NULL;CCC    143;NULL;Tuberosa cult;24
+772;CGN;960564;PHU;phureja;NULL;NULL;NULL;NULL;D. Cauca;NULL;CO;COL;NULL;NULL;CCC   1150;NULL;Tuberosa cult;24
+773;CGN;17668;PHU;phureja;NULL;NULL;NULL;NULL;D. Narino;Tuquerres;CO;COL;Tuquerres market;NULL;CCC   1210;NULL;Tuberosa cult;24
+774;CGN;18316;PHU;phureja;NULL;NULL;NULL;NULL;NULL;NULL;EC;ECU;NULL;NULL;DOP 162 x 163;NULL;Tuberosa cult;24
+775;CGN;17742;PNT;pinnatisectum;211.166;2107N;-101.666;10140W;E. Guanajuato;NULL;MX;MEX;Leon, 2 km SE of the cement factory;30/08/49;HAW   1093;1800;Pinnatisecta;24
+776;CGN;17744;PNT;pinnatisectum;20.6;2036N;-100.383;10023W;E. Queretaro;NULL;MX;MEX;Queretaro, 3 km SSE of town, by the small resevoir;06/09/58;HHLs   1424;1900;Pinnatisecta;24
+777;CGN;17740;PNT;pinnatisectum;20.6;2036N;-100.383;10023W;E. Queretaro;NULL;MX;MEX;Queretaro, 3 km SSE of town, 0.5 km from the small resevoir by a cliff;06/09/58;HHLs   1426;1900;Pinnatisecta;24
+778;CGN;23011;PNT;pinnatisectum;20.75;2045N;-101.466;10128W;E. Guanajuato;NULL;MX;MEX;2 miles from Silao on the road to Guanajuato, El Castillo;08/09/58;HHLs   1455;1800;Pinnatisecta;24
+779;CGN;23012;PNT;pinnatisectum;21.5;2130N;-101.983;10159W;E. Jalisco;NULL;MX;MEX;15 miles from Leon on the road to Aguas Calientes;08/09/58;HHLs   1456;1950;Pinnatisecta;24
+780;CGN;17741;PNT;pinnatisectum;21.5;2130N;-101.983;10159W;E. Jalisco;NULL;MX;MEX;15 miles from Leon on the road to Aguas Calientes;08/09/58;HHLs   1457;1950;Pinnatisecta;24
+781;CGN;18331;PNT;pinnatisectum;NULL;NULL;NULL;NULL;E. Mexico;C. Toluca;MX;MEX;Experimentalstation Elena, Toluca-valley;NULL;SCH     22;NULL;Pinnatisecta;24
+782;CGN;17748;PLD;polyadenium;197.333;1944N;-101.616;10137W;E. Michoacan;NULL;MX;MEX;Near Matugeo;23/12/47;COR  14374;NULL;Polyadenia;24
+783;CGN;17747;PLD;polyadenium;NULL;NULL;NULL;NULL;NULL;NULL;MX;MEX;NULL;NULL;CPC   4022;NULL;Polyadenia;24
+784;CGN;23013;PLD;polyadenium;19.7;1942N;-101.116;10107W;E. Michoacan;NULL;MX;MEX;Near Morelia, Cerro Punguato, saddle on the summit between two peaks;26/09/58;HHLs   1569;2300;Polyadenia;24
+785;CGN;23014;PLD;polyadenium;NULL;NULL;NULL;NULL;NULL;NULL;MX;MEX;NULL;NULL;RU N    52;NULL;Polyadenia;24
+786;CGN;962607;PLT;polytrichon;NULL;NULL;NULL;NULL;NULL;NULL;MX;MEX;NULL;NULL;GLK 102. 13;NULL;Longipedicellata;48
+787;CGN;22362;PLT;polytrichon;203.333;2020N;-100;10000W;E. Queretaro;NULL;MX;MEX;San Juan del Rio;NULL;GRA    250;NULL;Longipedicellata;48
+788;CGN;22361;PLT;polytrichon;203.333;2020N;-100;10000W;E. Queretaro;NULL;MX;MEX;San Juan del Rio, ESE of town, near the Mexico highway;26/08/49;HAW   1090;2000;Longipedicellata;48
+789;CGN;18318;PLT;polytrichon;NULL;NULL;NULL;NULL;NULL;NULL;MX;MEX;NULL;NULL;HAW 1098 x HHLs 1461;NULL;Longipedicellata;48
+790;CGN;960772;RAP;raphanifolium;NULL;NULL;NULL;NULL;NULL;NULL;PE;PER;NULL;NULL;HAW    694;NULL;Megistacroloba;24
+791;CGN;20589;RAP;raphanifolium;-134.666;1328S;-719.833;07159W;D. Cusco;P. Cusco;PE;PER;Fortress of Sacsayhuaman, Chincana;16/04/64;HAW   2470;3550;Megistacroloba;24
+792;CGN;18300;RAP;raphanifolium;-133.833;1323S;-718.666;07152W;D. Cusco;P. Calca;PE;PER;Inca Ruins of Pisac;28/02/87;BGRC 53019 HOE;NULL;Megistacroloba;24
+793;CGN;18089;RAP;raphanifolium;-13.5;1330S;-72;07200W;D. Cusco;P. Cusco;PE;PER;Cusco-Tambo Machay rd, near the Grupo Arqueologico del Lago;09/03/74;HVHL  5421;3700;Megistacroloba;24
+794;CGN;961878;RAP;raphanifolium;-13.6;1336S;-719.666;07158W;D. Cusco;P. Quispicanchis;PE;PER;Piquillacta, near ruined fortress;11/03/74;HVHL  5452;3700;Megistacroloba;24
+795;CGN;961879;RAP;raphanifolium;-141.833;1411S;-71.35;07121W;D. Cusco;P. Canchis;PE;PER;Raqchi, temple of Viracocha;11/03/74;HVHL  5485;3550;Megistacroloba;24
+796;CGN;17754;SPEC;species;NULL;NULL;NULL;NULL;NULL;NULL;PE;PER;NULL;NULL;OCH     52;NULL;Megistacroloba;24
+797;CGN;18320;RAP;raphanifolium;NULL;NULL;NULL;NULL;NULL;NULL;PE;PER;NULL;NULL;OCH S-  58;NULL;Megistacroloba;24
+798;CGN;17752;RAP;raphanifolium;-135.166;1331S;-719.833;07159W;D. Cusco;P. Cusco;PE;PER;Sacsayhuaman ruins;24/04/53;PEH   1521;3450;Megistacroloba;24
+799;CGN;18033;RAP;raphanifolium;-142.666;1416S;-712.166;07113W;D. Cusco;P. Canchis;PE;PER;Sicuani, near town part called San Felipe. same place as 760;14/04/59;ROR    762;3600;Megistacroloba;24
+800;CGN;17833;RAP;raphanifolium;NULL;NULL;NULL;NULL;D. Cusco;P. Quispicanchis;PE;PER;Inca ruine Rumiccalca - Rachi;14/04/59;ROR    775;3200;Megistacroloba;24
+801;CGN;17835;RAP;raphanifolium;-134.166;1325S;-740.333;07402W;D. Ayacucho;P. Huamanga;PE;PER;pass Pumacahuanca;26/04/59;ROR    975;3920;Megistacroloba;24
+802;CGN;18117;RZL;ruiz-lealii;NULL;NULL;NULL;NULL;NULL;NULL;PE;ARG;NULL;NULL;BGRC 24980 HJT;NULL;Tuberosa;24
+803;CGN;20576;SCT;sanctae-rosae;-258.333;2550S;-655.833;06535W;P. Salta;D. Guachipas;AR;ARG;Estancia Pampa Grande, W mountain range between Cerro Cristal and Pirgua;20/03/66;HHR   3939;2650;Megistacroloba;24
+804;CGN;22344;SCT;sanctae-rosae;-267.666;2646S;-65.75;06545W;P. Tucuman;D. Tafi del Valle;AR;ARG;Ruta 307, km 83, entre Infiernillos y Tafi del Valle,;11/04/74;HOHH  6086;2940;Megistacroloba;24
+805;CGN;17910;SCT;sanctae-rosae;-275.666;2734S;-67.2;06712W;P. Catamarca;D. Belen;AR;ARG;Quebrada del Rio Los Pocitos, W towards Pozo de Piedras;27/04/75;OKA 6152 x 6153;2500;Megistacroloba;24
+806;CGN;20564;SCT;sanctae-rosae;-267.833;2647S;-65.75;06545W;P. Tucuman;D. Tafi del Valle;AR;ARG;Quebrada Honda, Infernillo;23/01/52;PEH    328;3250;Megistacroloba;24
+807;CGN;17837;SCT;sanctae-rosae;-26.55;2633S;-65.8;06548W;P. Tucuman;D. Tafi del Valle;AR;ARG;Quebrada Honda km 84;13/02/59;ROR     41;3000;Megistacroloba;24
+808;CGN;17600;SND;sandemanii;-16.4;1624S;-71.4;07124W;D. Arequipa;P. Arequipa;PE;PER;Chiguata, near Arequipa, valley of Rio Grande;10/04/59;ROR    726;2700;Tuberosa;24
+809;CGN;18293;SAN;santolallae;-131.333;1308S;-714.166;07125W;D. Cusco;P. Paucartambo;PE;PER;Pillahuata;18/04/45;VAR   5109a;2700;Conicibaccata;24
+810;CGN;18361;SNK;schenckii;162.833;1617N;-976.833;09741W;E. Oaxaca;NULL;MX;MEX;Between La Cumbre and Yavila;NULL;OCH  14140;2750;Demissa;72
+811;CGN;20655;STL;setulosistylum;NULL;NULL;NULL;NULL;NULL;NULL;AR;ARG;NULL;NULL;K  2906 x 5248;NULL;Tuberosa;24
+812;CGN;962632;SIT;sitiens;NULL;NULL;NULL;NULL;NULL;NULL;CL;CHL;NULL;NULL;CON    723;NULL;Juglandifolia;24
+813;CGN;962729;SST;soestii;-16.95;1657S;-671.833;06711W;D. La Paz;P. Inquisivi;BO;BOL;6 km N of town square of Quime;15/03/93;SFVU  6722;2819;Circaeifolia;24
+814;CGN;17601;SGR;sogarandinum;-8.15;0809S;-781.833;07811W;D. La Libertad;P. Santiago de Chuco;PE;PER;Sogaranda, near Santiago de Chuco;12/05/52;OCH   1440;3550;Megistacroloba;24
+815;CGN;18061;SOU;soukupii;NULL;NULL;NULL;NULL;NULL;NULL;PE;PER;NULL;NULL;OCH 2032 x BLS (6667;NULL;Tuberosa;24
+816;CGN;18096;SPL;sparsipilum;-177.166;1743S;-662.833;06617W;D. Cochabamba;P. Capinota;BO;BOL;Parotani-Capinota road, 1 km past Charamo;22/03/74;AST     16;2400;Tuberosa;24
+817;CGN;17838;SPL;sparsipilum;NULL;NULL;NULL;NULL;D. Cochabamba;NULL;BO;BOL;Sta Cruz, km118, near Jatun Pino;01/01/65;EBS   2189 CAR;NULL;Tuberosa;24
+818;CGN;18221;SPL;sparsipilum;-17.95;1757S;-659.166;06555W;D. Cochabamba;P. E. Arce;BO;BOL;Hacienda mollepujro, 100 m from the house;07/03/80;HHA   6556;2560;Tuberosa;24
+819;CGN;20653;SPL;sparsipilum;-175.666;1734S;-663.833;06623W;D. Cochabamba;P. Capinota;BO;BOL;2 km from Parotani on the road to Capinota (1 km from the new road);29/03/80;HHA   6669a;2450;Tuberosa;24
+820;CGN;17758;SPL;sparsipilum;-16.55;1633S;-68.1;06806W;D. La Paz;P. Murillo;BO;BOL;Sequencoma;02/04/71;HHCH  5025;3325;Tuberosa;24
+821;CGN;20602;SPL;sparsipilum;-16.55;1633S;-68.1;06806W;D. La Paz;P. Murillo;BO;BOL;From La Paz to Mecapaca, Aranjuez, 1 km past inst. Biblico Nazareno,;13/03/80;VSAL   120b;3190;Tuberosa;24
+822;CGN;960795;SPG;spegazzinii;NULL;NULL;NULL;NULL;NULL;NULL;AR;ARG;NULL;NULL;BRU     46;NULL;Tuberosa;24
+823;CGN;21318;SPG;spegazzinii;NULL;NULL;NULL;NULL;P. La Rioja;D. Famatina;AR;ARG;between Carrizal and Corrales;10/04/60;EBS   2079;1900;Tuberosa;24
+824;CGN;22707;SPG;spegazzinii;-288.166;2849S;-676.666;06740W;P. La Rioja;D. Famatina;AR;ARG;Sierra Famatina-at base, Los Corrales;25/03/66;HHR   3995;1950;Tuberosa;24
+825;CGN;18100;VER;verrucosum;-266.666;2640S;-658.166;06549W;P. Tucuman;D. Tafi del Valle;AR;ARG;Ruta 307, km 97.7, entre Amaicha y Tafi;11/04/74;HOHH  6079;2700;Tuberosa;24
+826;CGN;21321;SPG;spegazzinii;NULL;NULL;NULL;NULL;P. Salta;D. San Carlos;AR;ARG;Tonco, road to the Don Otto mine;24/02/71;OKA 3793 x 3794;3300;Tuberosa;24
+827;CGN;23015;SPG;spegazzinii;-28.95;2857S;-67.7;06742W;P. La Rioja;D. Famatina;AR;ARG;Below la Encrucijada;08/03/56;PEH   1900;2950;Tuberosa;24
+828;CGN;18034;SPEC;species;NULL;NULL;NULL;NULL;NULL;NULL;AR;ARG;San Varlos;NULL;ROR     54;2000;Tuberosa;24
+829;CGN;18161;STN;stenotomum;-183.333;1820S;-67.6;06736W;D. Oruro;P. Carangas;BO;BOL;39km from Toledo to Corque, near Hauko Kcale.;27/03/80;VSAH   187;3750;Tuberosa cult;24
+830;CGN;17621;GON;stenotomum goniocalyx;NULL;NULL;NULL;NULL;D. Cusco;NULL;PE;PER;NULL;NULL;BLS 6755 x 6757;NULL;Tuberosa;24
+831;CGN;18314;GON;stenotomum goniocalyx;NULL;NULL;NULL;NULL;NULL;NULL;UNK;;NULL;NULL;CPC   4667;NULL;Tuberosa;24
+832;CGN;18237;GON;stenotomum goniocalyx;NULL;NULL;NULL;NULL;NULL;NULL;BO;BOL;NULL;NULL;IBTA   1113;NULL;Tuberosa;24
+833;CGN;17625;GON;stenotomum goniocalyx;NULL;NULL;NULL;NULL;NULL;NULL;PE;PER;NULL;NULL;TOX 204 x 693;NULL;Tuberosa;24
+834;CGN;17623;GON;stenotomum goniocalyx;NULL;NULL;NULL;NULL;NULL;NULL;PE;PER;NULL;NULL;YAB 83 x 089;NULL;Tuberosa;24
+835;CGN;962637;STO;stoloniferum;191.166;1907N;-987.666;09846W;E. Mexico;NULL;MX;MEX;Near Amecameca;NULL;CPC     28.4;NULL;Longipedicellata;48
+836;CGN;17607;STO;stoloniferum;19.7;1942N;-101.116;10107W;E. Michoacan;NULL;MX;MEX;Cerro Punguato near Morelia;03/08/65;EBS   2626;NULL;Longipedicellata;48
+837;CGN;17606;STO;stoloniferum;NULL;NULL;NULL;NULL;NULL;NULL;MX;MEX;NULL;NULL;EBS   2942;NULL;Longipedicellata;48
+838;CGN;18348;STO;stoloniferum;195.833;1935N;-990.666;09904W;E. Mexico;NULL;MX;MEX;Mexico City to San Juan del Rio at km 167, highway 57;04/09/58;HHLs   1392;3100;Longipedicellata;48
+839;CGN;962615;STO;stoloniferum;NULL;NULL;NULL;NULL;E. Mexico;C. Toluca;MX;MEX;Toluca, agric. exp. Sta. Elena;NULL;SCH     23;NULL;Longipedicellata;48
+840;CGN;18334;STO;stoloniferum;NULL;NULL;NULL;NULL;NULL;NULL;MX;MEX;Los cedros, Humboldt road, desserted field;NULL;SCH     33;NULL;Longipedicellata;48
+841;CGN;23072;STO;stoloniferum;190.833;1905N;-986.833;09841W;E. Mexico;NULL;MX;MEX;In forest on the road to the volcans behind Amecameca;NULL;SCH     36;3200;Longipedicellata;48
+842;CGN;18333;STO;stoloniferum;190.833;1905N;-986.833;09841W;E. Mexico;NULL;MX;MEX;In forest on the road to the volcans behind Amecameca;NULL;SCH     48;3200;Longipedicellata;48
+843;CGN;20628;SCR;sucrense;-192.333;1914S;-65.85;06551W;D. Potosi;P. Frias;BO;BOL;5 km from Tinguipaya to Potosi;28/02/80;HAM     68;3320;Tuberosa;48
+844;CGN;20630;SCR;sucrense;-195.333;1932S;-65.8;06548W;D. Potosi;P. Frias;BO;BOL;17 km from Potosi to Yocalla;02/03/80;HAM     86;3240;Tuberosa;48
+845;CGN;20631;SCR;sucrense;-19.45;1927S;-65.8;06548W;D. Potosi;P. Frias;BO;BOL;1 km from Estancia Mondragon on the old road to Potosi via Miraflores;02/03/80;HAM     88;3120;Tuberosa;48
+846;CGN;18187;SCR;sucrense;-19.45;1927S;-658.166;06549W;D. Potosi;P. Frias;BO;BOL;Cayara village, 25 km from potosi on the old road to Oruro;04/03/80;HAM    102;3380;Tuberosa;48
+847;CGN;20634;SCR;sucrense;-191.166;1907S;-648.833;06453W;D. Chuquisaca;P. Yamparaez;BO;BOL;14 km from Tarabuco to Presto;11/03/80;HAM    131;2810;Tuberosa;48
+848;CGN;22350;SCR;sucrense;-20.05;2003S;-65.55;06533W;D. Potosi;P. Linares;BO;BOL;105 km from Cotagaita to Potosi via Vitiche;01/04/80;HAM    195;3130;Tuberosa;48
+849;CGN;18206;SCR;sucrense;-19.55;1933S;-65.7;06542W;D. Potosi;P. Frias;BO;BOL;5 km from Potosi on road to Betanzos;01/04/80;HAM    197;3600;Tuberosa;48
+850;CGN;18105;SCR;sucrense;-194.666;1928S;-658.333;06550W;D. Potosi;P. Frias;BO;BOL;On road to Oruro, 30 km from Potosi, just before Totora;19/04/74;HVHL  6127;NULL;Tuberosa;48
+851;CGN;NULL;TAR;tarijense;-17.52;17?52 S;-65.22;065?22 W;D. Chuquisaca;P. Mizque;BO;BOL;12 km north of Mizque on road to Cochabamba;NULL;BESP   610;2400;Yungasensa;24
+852;CGN;22729;TAR;tarijense;-191.166;1907S;-652.833;06517W;D. Chuquisaca;P. Oropeza;BO;BOL;13km from Sucre to Potosi (Villa Victoria);06/03/80;HAM    117;2460;Yungasensa;24
+853;CGN;962224;TAR;tarijense;-215.666;2134S;-646.333;06438W;D. Tarija;P. Cercado;BO;BOL;10 km from Tarija to entre rios;27/03/80;HAM    170;2900;Yungasensa;24
+854;CGN;22714;TAR;tarijense;-214.166;2125S;-64.5;06430W;D. Tarija;P. Cercado;BO;BOL;42 km from Tarija to entre Rios;27/03/80;HAM    172;2300;Yungasensa;24
+855;CGN;18198;TAR;tarijense;-214.166;2125S;-64.5;06430W;D. Tarija;P. Cercado;BO;BOL;42 km from Tarija to entre Rios;27/03/80;HAM    173;2280;Yungasensa;24
+856;CGN;960807;TAR;tarijense;NULL;NULL;NULL;NULL;NULL;NULL;AR;ARG;NULL;NULL;HAW    810;NULL;Yungasensa;24
+857;CGN;960805;TAR;tarijense;-19.1;1906S;-652.333;06514W;D. Chuquisaca;P. Oropeza;BO;BOL;Tambakasa, 16 km from Sucre on Zudanez road;04/03/71;HHCH  4538;2850;Yungasensa;24
+858;CGN;960806;TAR;tarijense;-193.333;1920S;-651.666;06510W;D. Potosi;P. Saavedra;BO;BOL;On the road to Potosi,  84 km from Sucre, 0.5 km before the village. 0.5 km before Retiro;06/03/71;HHCH  4574;2750;Yungasensa;24
+859;CGN;17975;TAR;tarijense;-22.6;2236S;-651.166;06507W;P. Salta;D. Iruya;AR;ARG;Salta.  Rio Nazaneno;15/02/70;HOF   1717;2550;Yungasensa;24
+860;CGN;961432;TAR;tarijense;-22.25;2215S;-65.05;06503W;P. Salta;D. Santa Victoria;AR;ARG;km 3  rodeopampa;06/03/71;HOF   1867;2300;Yungasensa;24
+861;CGN;17924;ACL;acaule;-22.25;2215S;-650.666;06504W;P. Salta;D. Santa Victoria;AR;ARG;Rodeopampa, 14.5 KM Santa Victoria to Abra de Lizoite;06/03/71;HOF   1870;2850;Yungasensa;48
+862;CGN;21337;TAR;tarijense;-22.25;2215S;-649.666;06458W;P. Salta;D. Santa Victoria;AR;ARG;Beside the track S of Rio Santa Victoria going towards Meson;09/03/71;HOF   1885;2200;Yungasensa;24
+863;CGN;23795;TAR;tarijense;-22.2;2212S;-649.333;06456W;P. Salta;D. Santa Victoria;AR;ARG;Chojo;09/03/71;HOF   1896;2350;Yungasensa;24
+864;CGN;961736;TAR;tarijense;-22.25;2215S;-648.833;06453W;P. Salta;D. Santa Victoria;AR;ARG;Quebrada de la Soledad;09/03/71;HOF   1902;2250;Yungasensa;24
+865;CGN;17976;TAR;tarijense;-22.2;2212S;-64.95;06457W;P. Salta;D. Santa Victoria;AR;ARG;7 km N of Santa Victoria to Pucara, last hill before Pucara;25/03/71;HOF   2017;2400;Yungasensa;24
+866;CGN;17974;TAR;tarijense;-226.333;2238S;-651.833;06511W;P. Salta;D. Iruya;AR;ARG;NULL;NULL;HOF 1713 x 1714;3050;Yungasensa;24
+867;CGN;17977;TAR;tarijense;-22.25;2215S;NULL;NULL;P. Salta;D. Santa Victoria;AR;ARG;NULL;NULL;HOF 1886 x 1867;2200;Yungasensa;24
+868;CGN;18107;TAR;tarijense;-251.833;2511S;-65.8;06548W;P. Salta;D. Chicoana;AR;ARG;2km arriba de Escoipe, ruta nac.59, km 40;08/04/74;HOHH  6022;2100;Yungasensa;24
+869;CGN;961128;TAR;tarijense;-251.833;2511S;-65.8;06548W;P. Salta;D. Chicoana;AR;ARG;Route 59, km 40, 2 km W of Escoipe, near the finca Maray. Quebrada;19/03/73;OKA   4818;2100;Yungasensa;24
+870;CGN;17978;TAR;tarijense;-222.666;2216S;-649.666;06458W;P. Salta;D. Santa Victoria;AR;ARG;Santa Victoria, ravine of Rio Acoite;24/04/74;OKA   5881;2560;Yungasensa;24
+871;CGN;17979;TAR;tarijense;-222.666;2216S;-649.666;06458W;P. Salta;D. Santa Victoria;AR;ARG;Santa Victoria, ravine of Rio Negrohuaico. 400 m Quebrada arriba;24/04/74;OKA   5883;2560;Yungasensa;24
+872;CGN;961441;TAR;tarijense;-222.666;2216S;-649.666;06458W;P. Salta;D. Santa Victoria;AR;ARG;Santa Victoria,ravine of Rio Negrohuaico.400M Quebrada Arriba 5M Oka;24/04/74;OKA   5884;2560;Yungasensa;24
+873;CGN;17980;TAR;tarijense;-222.666;2216S;-649.666;06458W;P. Salta;D. Santa Victoria;AR;ARG;Quebrada del Rio Negrohuaico, 400 m quebrada arriba;24/04/74;OKA   5885;2560;Yungasensa;24
+874;CGN;21338;TAR;tarijense;-222.666;2216S;-649.666;06458W;P. Salta;D. Santa Victoria;AR;ARG;Santa Victoria, quebrada del Rio Hegrohuaica, 50 m from mouth of Santa Vic;24/04/74;OKA   5886;2560;Yungasensa;24
+875;CGN;17981;TAR;tarijense;-222.666;2216S;-649.666;06458W;P. Salta;D. Santa Victoria;AR;ARG;Quebrada del Rio Negrohuaico Salta.  10 m from mouth of Rio Negrohuaico;24/04/74;OKA   5888;2560;Yungasensa;24
+876;CGN;961449;TAR;tarijense;-222.666;2216S;-64.95;06457W;P. Salta;D. Santa Victoria;AR;ARG;Path from Santa Victoria to Papachicra;21/04/76;OKA   6234;2900;Yungasensa;24
+877;CGN;17982;TAR;tarijense;-22.35;2221S;-651.833;06511W;P. Salta;D. Santa Victoria;AR;ARG;Path from Santa Victoria to Corral Blanco.A 500 m de Oka 6238(76053);22/04/76;OKA   6239;2200;Yungasensa;24
+878;CGN;961451;TAR;tarijense;-222.666;2216S;-649.833;06459W;P. Salta;D. Santa Victoria;AR;ARG;Santa Victoria;06/05/76;OKA   6320;2500;Yungasensa;24
+879;CGN;962690;TAR;tarijense;-182.833;1817S;-65.25;06515W;D. Cochabamba;P. Campero;BO;BOL;16km S of town square of Aiquile, drive W, across river, to town of Pabellon Mayu, walk S, up stream;14/01/94;VSUG   619;2210;Yungasensa;24
+880;CGN;18335;PNT;pinnatisectum;NULL;NULL;NULL;NULL;NULL;NULL;MX;MEX;NULL;NULL;GLK 124.  6;NULL;Pinnatisecta;24
+881;CGN;22722;TRF;trifidum;NULL;NULL;NULL;NULL;E. Michoacan;NULL;MX;MEX;NULL;NULL;GRA 301 x 244;NULL;Pinnatisecta;24
+882;CGN;22371;TRF;trifidum;19.55;1933N;-103.633;10338W;E. Jalisco;NULL;MX;MEX;NE slope of Nevado de Colima, 13 km from turn to Toliman, Los Alpes;22/09/58;HHLs   1541;2300;Pinnatisecta;24
+883;CGN;22877;TBR;tuberosum;NULL;NULL;NULL;NULL;NULL;NULL;CL;CHL;NULL;NULL;(COR C 10 x C 128)x(;NULL;Tuberosa;48
+884;CGN;962368;TBR;tuberosum;NULL;NULL;NULL;NULL;NULL;NULL;CL;CHL;NULL;NULL;UAC 1244;NULL;Tuberosa;48
+885;CGN;960305;ADG;tuberosum andigena;NULL;NULL;NULL;NULL;NULL;NULL;PE;PER;NULL;NULL;OCH    956;NULL;Tuberosa;48
+886;CGN;20610;ADG;tuberosum andigena;-193.833;1923S;-65.9;06554W;D. Potosi;P. Frias;BO;BOL;50km from Potosi to Oruro.;01/04/80;VSH    240;3480;Tuberosa;48
+887;CGN;20614;ADG;tuberosum andigena;-16.55;1633S;-690.166;06901W;D. La Paz;P. Ingavi;BO;BOL;3km from Desaguadero to Guaqui.;22/03/80;VSLC   162;3800;Tuberosa;48
+888;CGN;23055;ADG;tuberosum andigena;-162.666;1616S;-679.666;06758W;D. La Paz;P. Murillo;BO;BOL;44km from toll-block La Paz to Unduavi (Unduavi junction).;19/02/80;VSOA     6;3250;Tuberosa;48
+889;CGN;960441;ADG;tuberosum andigena;NULL;NULL;NULL;NULL;NULL;NULL;MX;MEX;NULL;NULL;WAC  912;NULL;Tuberosa;48
+890;CGN;18353;TUQ;tuquerrense;10.833;0105N;-776.166;07737W;D. Narino;NULL;CO;COL;103 km from Pasto and 30 km from Tuquerres on the road from Pasto;31/08/65;HAW   2547;3150;Piurana;48
+891;CGN;18364;SPEC;species;-196.333;1938S;-645.833;06435W;D. Chuquisaca;P. Azurduy;BO;BOL;115.2km N of Azurduy;17/01/94;VSUG   628;3440;Tuberosa;48
+892;CGN;18369;UGT;ugentii;-197.333;1944S;-645.833;06435W;D. Chuquisaca;P. Azurduy;BO;BOL;113 km N of Azurduy, 20 km N of Cruz Kasa;07/03/93;SFVU  6687;3730;Tuberosa;48
+893;CGN;18324;VLR;velardei;-13.45;1327S;-737.166;07343W;D. Apurimac;P. Abancay;PE;PER;Vecinity of Chirhuay;NULL;OCH  13807;2600;Tuberosa;24
+894;CGN;17761;VNT;venturii;NULL;NULL;NULL;NULL;P. Tucuman;D. Tafi del Valle;AR;ARG;Valle Viscacka;NULL;EBS    457;NULL;Tuberosa;24
+895;CGN;17762;VRN;vernei;NULL;NULL;NULL;NULL;NULL;NULL;AR;ARG;NULL;NULL;HAW    876;NULL;Tuberosa;24
+896;CGN;961508;VNT;venturii;-236.333;2338S;NULL;NULL;P. Jujuy;D. Tilcara;AR;ARG;Tilcara;23/03/72;OKA 4392 x 4404;NULL;Tuberosa;24
+897;CGN;22728;VRN;vernei;-251.666;2510S;-658.333;06550W;P. Salta;D. Chicoana;AR;ARG;Cuesta del Obispo, Quebrada La Sirena, 4km arriba pie de la cuesta, ruta59;08/04/74;HOHH  6030;2600;Tuberosa;24
+898;CGN;18111;VRN;vernei;-267.666;2646S;-657.666;06546W;P. Tucuman;D. Tafi del Valle;AR;ARG;Quebrada a la altura del km 83, ruta 307 y 2km sur del camino;11/04/74;HOHH  6088;2900;Tuberosa;24
+899;CGN;21350;VRN;vernei;-267.666;2646S;-657.666;06546W;P. Tucuman;D. Tafi del Valle;AR;ARG;Quebrada a la altura del km 83, ruta 307 y 2km sur del camino;11/04/74;HOHH  6089;2900;Tuberosa;24
+900;CGN;22345;VRN;vernei;NULL;NULL;NULL;NULL;NULL;NULL;AR;ARG;NULL;NULL;HOHH 6031 x 6088;NULL;Tuberosa;24
+901;CGN;18112;VRN;vernei;NULL;NULL;NULL;NULL;NULL;NULL;AR;ARG;NULL;NULL;HOHH 6088 x 6032;NULL;Tuberosa;24
+902;CGN;18114;VRN;vernei;-221.166;2207S;-650.333;06502W;P. Salta;D. Santa Victoria;AR;ARG;400 m above the Ravine Yahuaico, by the rio Santa Cruz;26/04/74;OKA   5917;3140;Tuberosa;24
+903;CGN;23039;VRN;vernei;-221.166;2207S;-650.333;06502W;P. Salta;D. Santa Victoria;AR;ARG;10 km N of Santa Cruz,Quebrada de Santa Cruz.1km Q.arriba de Oka 5924;26/04/74;OKA   5927;3300;Tuberosa;24
+904;CGN;18278;VRN;vernei;-23.6;2336S;-651.833;06511W;P. Jujuy;D. Tilcara;AR;ARG;Piscuno, about three hours above El Durazno by mule;13/04/83;OKA   7617;3100;Tuberosa;24
+905;CGN;17836;VRN;vernei;NULL;NULL;NULL;NULL;P. Jujuy;D. Tilcara;AR;ARG;Quebrada del Chorro, de San Antonio hasta Huaca Corral;24/03/52;PEH  351b x c;3000;Tuberosa;24
+906;CGN;17992;BAL;vernei ballsii;-23.6;2336S;-651.333;06508W;P. Jujuy;D. Tilcara;AR;ARG;Huairahuasi, Casa Colorada - Molulo road;21/03/72;OKA   4366;3200;Tuberosa;24
+907;CGN;17993;BAL;vernei ballsii;-23.6;2336S;-651.333;06508W;P. Jujuy;D. Tilcara;AR;ARG;Huairahuasi, Casa Colorado - Molulo road, 50 m from OKA 4363 en ladera;21/03/72;OKA   4367;3200;Tuberosa;24
+908;CGN;17994;BAL;vernei ballsii;-231.666;2310S;-64.95;06457W;P. Salta;D. Oran;AR;ARG;Cueva, road to Abra de Zente and Santa Cruz. A 500 m DE 4476;31/03/72;OKA   4477;3600;Tuberosa;24
+909;CGN;22326;VER;verrucosum;NULL;NULL;NULL;NULL;NULL;NULL;MX;MEX;NULL;NULL;HAW    341;NULL;Tuberosa;24
+910;CGN;22374;VER;verrucosum;NULL;NULL;NULL;NULL;NULL;NULL;MX;MEX;NULL;NULL;HAW    343;NULL;Tuberosa;24
+911;CGN;17764;VER;verrucosum;NULL;NULL;NULL;NULL;NULL;NULL;MX;MEX;NULL;NULL;HAW    756;NULL;Tuberosa;24
+912;CGN;20567;VER;verrucosum;253.666;2522N;-100.55;10033W;E. Coahuila;NULL;MX;MEX;near Saltillo, Canon de los Lirios, 37 miles from Saltillo, N. facing slope;22/08/58;HHLs   1350;3300;Tuberosa;24
+913;CGN;NULL;VER;verrucosum;19.24;19?24 N;-101.36;101?36 W;E. Michoacan;NULL;MX;MEX;7 miles beyond Opopeo, km 51 on Quiroga-Tacambaro road.;NULL;HAW   1527;2950;Tuberosa;24
+914;CGN;17769;VER;verrucosum;19.4;1924N;-101.6;10136W;E. Michoacan;NULL;MX;MEX;7 miles beyond Opopeo, km 51 on the Quirogo-Tacambaro road;20/09/58;HHLs   1528;2950;Tuberosa;24
+915;CGN;17765;VER;verrucosum;19.4;1924N;-101.6;10136W;E. Michoacan;NULL;MX;MEX;7 miles beyond Opopeo, km 51 on Quirogo-Tacambaro road;20/09/58;HHLs   1532;2950;Tuberosa;24
+916;CGN;17773;VER;verrucosum;19.55;1933N;-103.633;10338W;E. Jalisco;NULL;MX;MEX;Nevado de Colima, Llanita de las Tepozas, NE slope of the mountain;23/09/58;HHLs   1542;3100;Tuberosa;24
+917;CGN;17771;VER;verrucosum;19.55;1933N;-103.633;10338W;E. Jalisco;NULL;MX;MEX;Nevado de Colima, W side, Tranquitas;23/09/58;HHLs   1548;3200;Tuberosa;24
+918;CGN;17766;VER;verrucosum;NULL;NULL;NULL;NULL;NULL;NULL;MX;MEX;NULL;NULL;HAW   2246;NULL;Tuberosa;24
+919;CGN;17770;VER;verrucosum;19.55;1933N;-103.633;10338W;E. Jalisco;NULL;MX;MEX;Nevado de Colima, NE side, near Rancho Juan Martinez;23/09/58;HHLs   1546;3250;Tuberosa;24
+920;CGN;17772;VER;verrucosum;190.333;1902N;-986.333;09838W;E. Puebla;NULL;MX;MEX;Popocatepetl;31/08/62;UGN   1289;2838;Tuberosa;24
+921;CGN;960832;VER;verrucosum;NULL;NULL;NULL;NULL;NULL;NULL;MX;MEX;NULL;NULL;WAC 3320;NULL;Tuberosa;24
+922;CGN;960833;VER;verrucosum;NULL;NULL;NULL;NULL;NULL;NULL;MX;MEX;NULL;NULL;WAC 3321;NULL;Tuberosa;24
+923;CGN;20566;VER;verrucosum;NULL;NULL;NULL;NULL;NULL;NULL;MX;MEX;NULL;NULL;WAC 3323;NULL;Tuberosa;24
+924;CGN;18296;VIO;violaceimarmoratum;NULL;NULL;NULL;NULL;NULL;NULL;BO;BOL;NULL;NULL;BGRC 53015 GND;NULL;Conicibaccata;24
+925;CGN;20647;VIO;violaceimarmoratum;-173.333;1720S;-657.666;06546W;D. Cochabamba;P. Chapare;BO;BOL;"Road from Aguirre to Incachaca, taking left-hand turning for 2,5 km; 16,5 k";31/03/80;HHA   6678;3400;Conicibaccata;24
+926;CGN;22878;VIO;violaceimarmoratum;-15.15;1509S;-689.833;06859W;D. La Paz;P. Saavedra;BO;BOL;Caspichaca, 5 km before Chullina, between Mataro and Chullina;04/03/78;OCHS 11901;3500;Conicibaccata;24
+927;CGN;962448;VRG;virgultorum;-176.166;1737S;-664.666;06628W;D. Cochabamba;P. Arque;BO;BOL;60 km from Cochabamba on old road to Oruro;09/03/80;HHA   6561;3175;Tuberosa;24
+928;CGN;17775;VRG;virgultorum;NULL;NULL;NULL;NULL;D. Cochabamba;P. Carrasco;BO;BOL;104-5 km from Cochabamba on Santa Cruz road;18/03/71;HHCH  4739;3000;Tuberosa;24
+929;CGN;962072;VRG;virgultorum;-17.05;1703S;-67.3;06718W;D. La Paz;P. Inquisivi;BO;BOL;73 km from Panduro to Quime, 5 km after Huanacota;25/03/80;VSA    172;3910;Tuberosa;24
+930;CGN;20615;VRG;virgultorum;-17.05;1703S;-67.3;06718W;D. La Paz;P. Inquisivi;BO;BOL;74 km from Panduro to Quime, 6 km after Huanacota;25/03/80;VSA    175;3800;Tuberosa;24
+931;CGN;962077;VRG;virgultorum;-169.833;1659S;-67.2;06712W;D. La Paz;P. Inquisivi;BO;BOL;12.5 km from Quime to Inquisivi (Calasaya Villaga);26/03/80;VSA    177;2930;Tuberosa;24
+932;CGN;20652;VRG;virgultorum;NULL;NULL;NULL;NULL;NULL;NULL;BO;BOL;NULL;NULL;VSA 172 x HHA 6422;NULL;Tuberosa;24
+933;CGN;18262;SPEC;species;NULL;NULL;NULL;NULL;NULL;NULL;PE;PER;NULL;NULL;K     3971.14;NULL;Tuberosa;24
+934;CGN;18336;YUN;yungasense;NULL;NULL;NULL;NULL;NULL;NULL;BO;BOL;NULL;NULL;JUZ   1406;NULL;Yungasensa;24
+935;CGN;20677;YUN;yungasense;NULL;NULL;NULL;NULL;D. La Paz;NULL;BO;BOL;NULL;20/03/93;SFVU 6738 x 6732;NULL;Yungasensa;24
+936;CGN;20676;YUN;yungasense;NULL;NULL;NULL;NULL;D. La Paz;NULL;BO;BOL;NULL;20/03/93;SFVU 6738 x 6739;NULL;Yungasensa;24
+937;CGN;17688;DPH;bulbocastanum dolichophyllum;19.7;1942N;-103.516;10331W;E. Jalisco;NULL;MX;MEX;Cuidad Guzman;NULL;GRA    313;NULL;Bulbocastana;24
+938;CGN;18323;BUK;bukasovii;NULL;NULL;NULL;NULL;D. Apurimac;P. Abancay;PE;PER;NULL;NULL;OCH  13600;3800;Tuberosa;24
+939;CGN;18189;BER;berthaultii;-194.333;1926S;-652.166;06513W;D. Potosi;P. Saavedra;BO;BOL;89 km from Potosi to Sucre;05/03/80;HAM    113;2950;Tuberosa;24
+940;CGN;23508;BER;berthaultii;-194.166;1925S;-647.833;06447W;D. Chuquisaca;P. Yamparaez;BO;BOL;43 km from Tarabuco to Sotomayor via Icla;13/03/80;HAM    144;2500;Tuberosa;24
+941;CGN;18267;BER;berthaultii;-18.25;1815S;-652.833;06517W;D. Cochabamba;P. Campero;BO;BOL;17 km from Aiquile turn W to Sucre, Novillero, 13 km from junction;22/02/80;HHA   6446;2420;Tuberosa;24
+942;CGN;20642;BER;berthaultii;-179.833;1759S;-652.333;06514W;D. Cochabamba;P. Mizque;BO;BOL;37 km from Aiquile on the road to Misque, just before the river crossing;23/02/80;HHA   6454;2000;Tuberosa;24
+943;CGN;17716;BER;berthaultii;-190.333;1902S;-652.833;06517W;D. Chuquisaca;P. Oropeza;BO;BOL;On Cochabamba road at Serpas, 30 km from Sucre;08/03/71;HHCH  4746;2050;Tuberosa;24
+944;CGN;23477;BER;berthaultii;NULL;NULL;NULL;NULL;D. Chuquisaca;P. Zudanez;BO;BOL;Road from Zudanez to Airampo via Calle-Calle;07/03/59;ROR    351;2700;Tuberosa;24
+945;CGN;17689;BLB;bulbocastanum;19.35;1921N;-99.2;09912W;E. Distrito Federal;NULL;MX;MEX;Pedregal de San Angel, Ciudad Universitaria;01/10/58;HHLs   1581;NULL;Bulbocastana;24
+946;CGN;22367;BLB;bulbocastanum;192.166;1913N;-98.8;09848W;E. Mexico;NULL;MX;MEX;Road from AmecaFmeca to Chalco, Tlalmanalco;01/10/58;HHLs   1586;2400;Bulbocastana;24
+947;CGN;960634;BLB;bulbocastanum;194.833;1929N;-98.9;09854W;E. Mexico;NULL;MX;MEX;Near Texcoco, Chapingo, Casas Antiguas;01/10/58;HHLs   1596;2200;Bulbocastana;24
+948;CGN;23010;BLB;bulbocastanum;NULL;NULL;NULL;NULL;E. Mexico;NULL;MX;MEX;395- Mexico, Amecameca-Chalco road, Tlalmanalco;NULL;ROC S-395 x S-398;NULL;Bulbocastana;24
+949;CGN;23074;BLB;bulbocastanum;157.666;1546N;-91.5;09130W;D. Huehuetenango;NULL;GT;GTM;along 9N, at junction of entrance to Huehuetenango, 50-200 m W of road;18/09/95;SMHV  7010;2000;Bulbocastana;24
+950;CGN;22732;BLB;bulbocastanum;153.166;1519N;-915.166;09131W;D. Huehuetenango;NULL;GT;GTM;3.1 km NW of the road entrance to Huehuetenango, on Rt. CA1, 200 m uphill;18/10/95;SMHV  7056;1900;Bulbocastana;24
+951;CGN;20592;CAN;canasense;NULL;NULL;NULL;NULL;NULL;NULL;PE;PER;NULL;NULL;ASL   6198;NULL;Tuberosa;24
+952;CGN;18072;CAN;canasense;NULL;NULL;NULL;NULL;NULL;NULL;PE;PER;NULL;NULL;ASL   6199;NULL;Tuberosa;24
+953;CGN;23007;CAN;canasense;-134.666;1328S;-719.166;07155W;D. Cusco;P. Fort Pucara;PE;PER;4 km from Cuzco on the road to Pisac;26/02/58;COR  P 223;3600;Tuberosa;24
+954;CGN;18283;CAN;canasense;NULL;NULL;NULL;NULL;D. Puno;NULL;PE;PER;NULL;NULL;DOS    104;NULL;Tuberosa;24
+955;CGN;21305;BUK;bukasovii;-13.65;1339S;-733.833;07323W;D. Apurimac;P. Andahuaylas;PE;PER;Road to Andahuaylas, 82.5 km from Abancay;18/04/71;HHCH  5225;3900;Tuberosa;24
+956;CGN;18295;GIG;microdontum gigantophyllum;NULL;NULL;NULL;NULL;P. Tucuman;NULL;AR;ARG;La Banderita;NULL;COR  A 705;NULL;Tuberosa;24
+957;CGN;23511;GIG;microdontum gigantophyllum;-214.166;2125S;-64.4;06424W;D. Tarija;P. Cercado;BO;BOL;60 km from Tarija to Entre Rios;27/03/80;HAM    179;2270;Tuberosa;24
+958;CGN;20646;MCD;microdontum;-194.166;1925S;-642.666;06416W;D. Chuquisaca;P. Jaime Mendoza;BO;BOL;110 km from Monteagudo on the road to Padilla, 1 km from Llequepampa;24/03/80;HHA   6650;2500;Tuberosa;24
+959;CGN;18047;MCD;microdontum;-239.166;2355S;-654.166;06525W;P. Jujuy;D. Tumbaya;AR;ARG;Volcan, western slopes of Cordillera on E side of Quebrada Grande;09/03/66;HHR   3777;3080;Tuberosa;24
+960;CGN;20586;GIG;microdontum gigantophyllum;-22.3;2218S;-64.7;06442W;P. Salta;D. Santa Victoria;AR;ARG;road from Los Toldos to Lipeo. KM 4;14/03/71;HOF   1976;1550;Tuberosa;24
+961;CGN;18048;GIG;microdontum gigantophyllum;-273.166;2719S;-659.333;06556W;P. Tucuman;D. Chicligasta;AR;ARG;Route 65, Hill of Clavillo;24/03/67;OKA   2910;1500;Tuberosa;24
+962;CGN;17597;GIG;microdontum gigantophyllum;-25.15;2509S;-65.75;06545W;P. Salta;D. Chicoana;AR;ARG;La Zanja, Quebrada de Escoipe. Camino La Zanja a 6 km del cruce ruta 59;19/03/73;OKA   4820;2360;Tuberosa;24
+963;CGN;18049;GIG;microdontum gigantophyllum;-25.15;2509S;-656.333;06538W;P. Salta;D. Chicoana;AR;ARG;Quebrada de Escoipe, Agua Negra, route 59;02/04/73;OKA   4897;1800;Tuberosa;24
+964;CGN;18084;GIG;microdontum gigantophyllum;-221.333;2208S;-650.333;06502W;P. Salta;D. Santa Victoria;AR;ARG;Quebrada de Santa Cruz, 2km n de Sta Cruz, finca de Cipriano Luna;26/04/74;OKA   5913;3000;Tuberosa;24
+965;CGN;18003;GIG;microdontum gigantophyllum;-223.333;2220S;-650.333;06502W;P. Salta;D. Santa Victoria;AR;ARG;Path from San Felipe to Trigohuaico.  Quebrada del Rio S.F;07/05/76;OKA   6327;3000;Tuberosa;24
+966;CGN;18067;GIG;microdontum gigantophyllum;-227.666;2246S;-652.333;06514W;P. Salta;D. Iruya;AR;ARG;San Isidro valley, 6 km nw of Iruya;25/04/78;OKA   6840;3050;Tuberosa;24
+967;CGN;22372;GIG;microdontum gigantophyllum;NULL;NULL;NULL;NULL;P. Salta;D. Iruya;AR;ARG;Between San Pedro and Rodeo Colorado;06/04/52;PEH    364;2800;Tuberosa;24
+968;CGN;21367;nig;nigrum;99.333;0956N;-838.833;08353W;P. Cartago;NULL;CR;CRI;1km N of Potrero Cerrado on road to Volcan Irazu, next to bridge over stream.;13/12/96;SHV   7134;2450;NULL;72
+969;CGN;22703;VNT;venturii;-25.15;2509S;-658.666;06552W;P. Salta;D. Chicoana;AR;ARG;Escoipe-Cachi road, Cuesta del Obispo, 15.6 km from Piedra Molino;06/03/66;HHR   3741;2700;Tuberosa;24
+970;CGN;20599;OKA;okadae;-17;1700S;-672.333;06714W;D. La Paz;P. Inquisivi;BO;BOL;7 km from Quime to Licoma;25/02/80;VSOA    39;2820;Tuberosa;24
+971;CGN;17738;BUK;bukasovii;-13.65;1339S;-734.666;07328W;D. Apurimac;P. Andahuaylas;PE;PER;Ayacucho road above Rio Pampas, 12 km below Chincheros;18/04/71;HHCH  5229;2600;Tuberosa;24
+972;CGN;18099;SPL;sparsipilum;-190.833;1905S;-65.25;06515W;D. Chuquisaca;P. Oropeza;BO;BOL;Loman Punta, 10 km from Sucre to Zudanez;26/03/74;AST     20;2800;Tuberosa;24
+973;CGN;22702;SPL;sparsipilum;-175.666;1734S;-657.666;06546W;D. Cochabamba;P. Arani;BO;BOL;1 km past Arani on the road to Mizque;16/02/71;HHCH  4428;2700;Tuberosa;24
+974;CGN;18052;SPEC;species;NULL;NULL;NULL;NULL;D. Cusco;P. Cusco;PE;PER;15 km from Cusco to Puno, Saylla;12/04/71;HHCH  5127;3150;Tuberosa;24
+975;CGN;18094;SPL;sparsipilum;-173.833;1723S;-66.25;06615W;D. Cochabamba;P. Quillacollo;BO;BOL;4 km ne of Quillacollo, Llaoquinquire;22/03/74;HVHL  5638;2600;Tuberosa;24
+976;CGN;17822;RAP;raphanifolium;-196.166;1937S;-65.75;06545W;D. Potosi;P. Frias;BO;BOL;Near Potosi. lower part of Cerro Potosi;01/03/59;ROR    183;4100;Megistacroloba;24
+977;CGN;22315;SPL;sparsipilum;-133.333;1320S;-721.166;07207W;D. Cusco;P. Urubamba;PE;PER;Pumahuanca, Urubamba Valley;21/04/59;ROR    891;2900;Tuberosa;24
+978;CGN;18131;SPL;sparsipilum;-171.166;1707S;-676.833;06741W;D. La Paz;P. Loayza;BO;BOL;31 km from Pata Camaya to Luribay;29/02/80;VSOA    57;3980;Tuberosa;24
+979;CGN;18110;VRN;vernei;NULL;NULL;NULL;NULL;NULL;NULL;AR;ARG;NULL;NULL;WAC 4070;NULL;Tuberosa;24
+980;CGN;21315;VRN;vernei;-267.666;2646S;-65.75;06545W;P. Tucuman;D. Tafi del Valle;AR;ARG;Near Infiernillo, on the road from Tafi del Valle to Cafayate;15/02/66;HHR   3505;2850;Tuberosa;24
+981;CGN;17995;VRN;vernei;-267.666;2646S;-657.666;06546W;P. Tucuman;D. Tafi del Valle;AR;ARG;Route 307, km 83, about 2 km S of the road. Infiernillo;11/04/74;OKA   5702;2900;Tuberosa;24
+982;CGN;18113;VRN;vernei;-22.2;2212S;-651.666;06510W;P. Salta;D. Santa Victoria;AR;ARG;Lizoite, 15 km del cruce on route 5;23/04/74;OKA   5855;3400;Tuberosa;24
+983;CGN;18115;VRN;vernei;-221.166;2207S;-650.333;06502W;P. Salta;D. Santa Victoria;AR;ARG;7 km N of Santa Cruz, Quebrada de Santa Cruz. 10 M de Oka 5920;26/04/74;OKA   5923;3280;Tuberosa;24
+984;CGN;23516;VRN;vernei;-251.666;2510S;-658.666;06552W;P. Salta;D. Chicoana;AR;ARG;Cuesta del Obispo, Valle Encantado;20/03/83;OKA   7502;3450;Tuberosa;24
+985;CGN;18277;VRN;vernei;-23.6;2336S;-651.833;06511W;P. Jujuy;D. Tilcara;AR;ARG;Puesto Yusto above El Durazno;12/04/83;OKA   7614;3350;Tuberosa;24
+986;CGN;963094;VRN;vernei;NULL;NULL;NULL;NULL;P. Tucuman;NULL;AR;ARG;NULL;NULL;EBS    180;NULL;Tuberosa;24
+987;CGN;17763;NRS;neorossii;NULL;NULL;NULL;NULL;NULL;NULL;AR;ARG;NULL;03/02/53;SLU   3748;NULL;Tuberosa;24
+988;CGN;23017;VER;verrucosum;19.2;1912N;-99.25;09915W;E. Distrito Federal;NULL;MX;MEX;Slopes of Mt Ajusco;25/10/47;COR  14217b;NULL;Tuberosa;24
+989;CGN;17767;VER;verrucosum;194.666;1928N;-101.6;10136W;E. Michoacan;NULL;MX;MEX;7 miles above Opopeo;13/11/47;COR  14252;2400;Tuberosa;24
+990;CGN;17774;VER;verrucosum;NULL;NULL;NULL;NULL;NULL;NULL;MX;MEX;NULL;NULL;PET    925;NULL;Tuberosa;24
+991;CGN;21369;VIA;viarum;97.166;0943N;-84.1;08406W;P. San Jose;NULL;CR;CRI;about 4km S of La Legua on the road to San Francisco (map 3345 II).;21/12/96;SHV   7140;2100;NULL;NULL
+992;CGN;23561;LGC;longiconicum;101.166;1007N;-841.333;08408W;P. Heredia;NULL;CR;CRI;Volcan Barva, 500 m after entrance of park 100 m NW towards viewpoint;29/11/96;SHV   7105;2570;Conicibaccata;48
+993;CGN;17755;VNT;venturii;NULL;NULL;NULL;NULL;P. Tucuman;D. Tafi del Valle;AR;ARG;NULL;NULL;EBS    438;3000;Tuberosa;24
+994;CGN;20597;MCD;microdontum;NULL;NULL;NULL;NULL;NULL;NULL;AR;ARG;NULL;NULL;EBS   1091;NULL;Tuberosa;24
+995;CGN;22353;KTZ;kurtzianum;-339.166;3355S;-691.666;06910W;P. Mendoza;D. San Carlos;AR;ARG;Pampa del Cepillo, on way to Quebrada del Alvarado, 13 km from Route 40;26/02/79;HJT   6316;1200;Tuberosa;24
+996;CGN;962567;BLG;blanco-galdosii;NULL;NULL;NULL;NULL;D. Cajamarca;P. Cajamarca;PE;PER;Cuesta del Cumbe;NULL;OCH  10728;3400;Piurana;24
+997;CGN;960685;CHM;chomatophilum;NULL;NULL;NULL;NULL;NULL;NULL;PE;PER;NULL;NULL;OCH WAC 3345;NULL;Conicibaccata;24
+998;CGN;962734;DMS;demissum;-16.3;1618S;-67.85;06751W;D. La Paz;P. Nor Yungas;BO;BOL;at Chulumani, 15 km from junction of road out of La Laz at road to Caranavi and road to Chuspipata;18/03/93;SFVU  6731;2450;Demissa;NULL
+999;CGN;962782;CLR;clarum;154.666;1528N;-915.166;09131W;D. Huehuetenango;NULL;GT;GTM;4.3 km NW of road from Huehuetenango to Santa Eulalia;20/10/95;SMHV  7059;3280;Bulbocastana;NULL
+1000;CGN;961607;GRL;gourlayi;NULL;NULL;NULL;NULL;NULL;NULL;BO;BOL;NULL;NULL;OCH K    4;NULL;Tuberosa;NULL
+1001;CGN;17736;OPL;oplocense;NULL;NULL;NULL;NULL;D. Potosi;P. Nor Chichas;BO;BOL;62-64 km from Cotagaita to Vitichi;16/03/71;HHCH  4723;2900;Tuberosa;NULL
+1002;CGN;17868;OPL;oplocense;-221.166;2207S;-654.666;06528W;P. Jujuy;D. Yavi;AR;ARG;Yavi;15/02/70;HOF   1612;3450;Tuberosa;NULL
+1003;CGN;17869;OPL;oplocense;-23.2;2312S;-65.45;06527W;P. Jujuy;D. Humahuaca;AR;ARG;Route 11, Quebrada de la Soledad, 12 km W of Humahuaca;02/04/71;OKA   3829;3300;Tuberosa;NULL
+1004;CGN;17870;OPL;oplocense;-218.833;2153S;-661.833;06611W;P. Jujuy;D. Santa Catalina;AR;ARG;El Angosto, 34 km W of Santa Catalina,Faldeo pedregoso;07/04/71;OKA   3946;3700;Tuberosa;NULL
+1005;CGN;17872;GRL;gourlayi;-243.166;2419S;-66.1;06606W;P. Salta;D. Rosario de Lerma;AR;ARG;8 km NW of Las Cuevas, Quebrada Munal. 20 m DE 4831;21/03/73;OKA   4832;3340;Tuberosa;NULL
+1006;CGN;17873;GRL;gourlayi;-24.55;2433S;-66.2;06612W;P. Salta;D. La Poma;AR;ARG;Route 40, 1 km S of El Rodeo.  Very Frequent;21/03/73;OKA   4841;3900;Tuberosa;NULL
+1007;CGN;17959;IFD;infundibuliforme;-222.333;2214S;-66.45;06627W;P. Jujuy;D. Rinconada;AR;ARG;Quebrada de Paicones, 5 km SW of San Juan de Oros;02/05/74;OKA   5970;3700;Cuneoalata;NULL
+1008;CGN;17962;GRL;gourlayi;-23.65;2339S;-65.6;06536W;P. Jujuy;D. Tumbaya;AR;ARG;Quebrada de Sepulturas, 300 m above Oka 4345;18/03/72;OKA   4346;3200;Tuberosa;NULL
+1009;CGN;17963;GRL;gourlayi;-23.65;2339S;-65.6;06536W;P. Jujuy;D. Tumbaya;AR;ARG;quebrada de sepulturas. at the border of the valley;18/03/72;OKA   4349a;3100;Tuberosa;NULL
+1010;CGN;17965;GRL;gourlayi;-23.25;2315S;-652.166;06513W;P. Jujuy;D. Humahuaca;AR;ARG;Cianzo;02/04/72;OKA   4495;3800;Tuberosa;NULL
+1011;CGN;17966;GRL;gourlayi;-23.2;2312S;-65.45;06527W;P. Jujuy;D. Humahuaca;AR;ARG;12 km W of Humahuaca, Valley of La Soledad;03/04/72;OKA   4513;3620;Tuberosa;NULL
+1012;CGN;17967;GRL;gourlayi;-23.2;2312S;-65.45;06527W;P. Jujuy;D. Humahuaca;AR;ARG;Soledad, 12 km W of Humahuaca.SA alta Valley of Soledad 12 km W de Huma;03/04/72;OKA   4516;3680;Tuberosa;NULL
+1013;CGN;17969;GRL;gourlayi;-245.166;2431S;-66.2;06612W;P. Salta;D. La Poma;AR;ARG;Route 40, 1 km N of El Rodeo, 18 km S of Abra de Acay. km 1315;28/03/73;OKA   4866;3880;Tuberosa;NULL
+1014;CGN;17970;GRL;gourlayi;-239.333;2356S;-66.35;06621W;P. Salta;D. Los Andes;AR;ARG;Sierra del Cobre, 1.5 km W of Matanzillas, and 8.5 km W of route 40;30/03/73;OKA   4885;3720;Tuberosa;NULL
+1015;CGN;17971;GRL;gourlayi;-239.333;2356S;-66.35;06621W;P. Salta;D. Los Andes;AR;ARG;1 km W of Matancillas, 8 km W on route 40 and 33 km N of San Antonio;04/04/74;OKA   5570;3700;Tuberosa;NULL
+1016;CGN;17972;INM;incamayoense;-247.833;2447S;-657.166;06543W;P. Salta;D. Rosario de Lerma;AR;ARG;Chorrillos, route 51, km 49;01/04/73;OKA   4893;2100;Tuberosa;NULL
+1017;CGN;17988;CMM;commersonii;-230.666;2304S;-65.4;06524W;P. Salta;D. Santa Victoria;AR;ARG;Cuesta Azul Pampa;11/03/71;HOF BALC 71365;3400;Commersoniana;NULL
+1018;CGN;18024;CMM ssp CMM;commersonii commersonii;-377.333;3744S;-58.3;05818W;P. Buenos Aires;D. Balcarce;AR;ARG;Sierras de Balcarce, Cinco Cerros, through the dirt road to 8KM R.226 Ramos;26/06/72;OKA   4583;120;Commersoniana;NULL
+1019;CGN;18026;CMM;commersonii;NULL;NULL;NULL;NULL;NULL;NULL;AR;ARG;NULL;NULL;OKA 5107 x 5075;NULL;Commersoniana;NULL
+1020;CGN;18030;BRC;brevicaule;NULL;NULL;NULL;NULL;NULL;NULL;BO;BOL;NULL;NULL;EBS   2363 OCH;NULL;Tuberosa;NULL
+1021;CGN;18065;GRL;gourlayi;-23.2;2312S;-653.166;06519W;P. Jujuy;D. Humahuaca;AR;ARG;Pucara;15/04/78;OKA   6724;3500;Tuberosa;NULL
+1022;CGN;18066;GRL ssp GRL;gourlayi;-229.333;2256S;-653.166;06519W;P. Jujuy;D. Humahuaca;AR;ARG;Chaupi Rodero, between Iturbe and Iruya;21/04/78;OKA   6793;3700;Tuberosa;NULL
+1023;CGN;18079;IFD;infundibuliforme;-218.833;2153S;-661.833;06611W;P. Jujuy;D. Santa Catalina;AR;ARG;30km oeste de Sta Catalina, Finca de Anselmo Salinas;02/04/74;HOHH  5892;3800;Cuneoalata;NULL
+1024;CGN;18087;OPL;oplocense;-218.666;2152S;-661.833;06611W;P. Jujuy;D. Santa Catalina;AR;ARG;30km al oeste de Santa Catalina, al borde de un Canal de Irrigacion;02/04/74;HOHH  5892a;3800;Tuberosa;NULL
+1025;CGN;18223;BRC;brevicaule;-172.166;1713S;-66.05;06603W;D. Cochabamba;P. Chapare;BO;BOL;40 km from Tranca de Sacaba on the road to Palca, (0.5 km before Palca);15/03/80;HHA   6620;3730;Tuberosa;NULL
+1026;CGN;18247;BRC;brevicaule;-172.166;1713S;-66.05;06603W;D. Cochabamba;P. Chapare;BO;BOL;40 km from Tranca de Sacaba on the road to Palca, (0.5 km before Palca);15/03/80;HHA   6619;3730;Tuberosa;NULL
+1027;CGN;18327;CMM;commersonii;NULL;NULL;NULL;NULL;NULL;NULL;AR;ARG;NULL;NULL;HAW    195;NULL;Commersoniana;NULL
+1028;CGN;18328;CMM;commersonii;NULL;NULL;NULL;NULL;P. Buenos Aires;D. Salto;UNK;ARG;NULL;NULL;HAW  184 x 185;NULL;Commersoniana;NULL
+1029;CGN;20585;GRL;gourlayi;-227.333;2244S;-652.333;06514W;P. Salta;D. Iruya;AR;ARG;Pantipampa;NULL;HOF   1697;3200;Tuberosa;NULL
+1030;CGN;20594;GRL;gourlayi;-243.166;2419S;-66.1;06606W;P. Salta;D. Rosario de Lerma;AR;ARG;Quebrada Munal, 400m sureste oka 5604, ruta 51, 8km noroeste de las cuevas;05/04/74;HOHH  5991;3700;Tuberosa;NULL
+1031;CGN;20638;OPL;oplocense;NULL;NULL;NULL;NULL;D. Potosi;P. Nor Chichas;BO;BOL;27 km from Cotagaita to Tupiza;24/03/80;HAM    166;3000;Tuberosa;NULL
+1032;CGN;20657;GRL;gourlayi;-239.666;2358S;-656.333;06538W;P. Jujuy;D. Capital;AR;ARG;Molinos about nine hours northwest of Leon by mule;03/04/83;OKA   7558;3200;Tuberosa;NULL
+1033;CGN;21332;GRL;gourlayi;-236.166;2337S;-655.333;06532W;P. Jujuy;D. Tumbaya;AR;ARG;Quebrada de Estancia Grande. 1100 m from Oka 4314;17/03/72;OKA   4319;3200;Tuberosa;NULL
+1034;CGN;21333;GRL;gourlayi;-23.65;2339S;-65.6;06536W;P. Jujuy;D. Tumbaya;AR;ARG;Quebrada de Sepulturas;18/03/72;OKA   4336;3100;Tuberosa;NULL
+1035;CGN;21334;GRL;gourlayi;-229.666;2258S;-654.333;06526W;P. Jujuy;D. Humahuaca;AR;ARG;Esquina Blanca, route 9, abouat 100 m N of the ford with the rio Grande;08/04/72;OKA   4556;3500;Tuberosa;NULL
+1036;CGN;21336;GRL;gourlayi;-239.333;2356S;-66.35;06621W;P. Salta;D. Los Andes;AR;ARG;Sierra del Cobre, 2 km W of Matanzillas and 9 km W on route 40;30/03/73;OKA   4892;3740;Tuberosa;NULL
+1037;CGN;21341;GRL;gourlayi;NULL;NULL;NULL;NULL;P. Catamarca;D. Belen;AR;ARG;Pozo de Piedras;NULL;SLU      1;1900;Tuberosa;NULL
+1038;CGN;21353;CMM ssp MLM;commersonii malmeanum;-29.7;2942S;-571.166;05707W;P. Corrientes;D. Paso de los Libres;AR;ARG;3 km from Paso de Los Libres, Finca La Cautiva del Sr. Lagrilla;26/06/80;OKA   7281;50;Commersoniana;NULL
+1039;CGN;21359;CMM;commersonii;NULL;NULL;NULL;NULL;NULL;NULL;AR;;NULL;NULL;HAW  184 x 159;NULL;Commersoniana;NULL
+1040;CGN;22322;BRC;brevicaule;-172.666;1716S;-66.3;06618W;D. Cochabamba;P. Quillacollo;BO;BOL;Puente San Miguel, Tunari Range, above Cochabamba;09/04/63;UGN   4673;NULL;Tuberosa;NULL
+1041;CGN;22324;OPL;oplocense;NULL;NULL;NULL;NULL;NULL;NULL;UNK;BOL;NULL;NULL;HAW   1921;NULL;Tuberosa;NULL
+1042;CGN;22340;GRL;gourlayi;NULL;NULL;NULL;NULL;P. Salta;D. Iruya;AR;ARG;Rodeo Colorado, arriba de Valle Delgrado;07/04/52;PEH    365;3300;Tuberosa;NULL
+1043;CGN;22342;GRL;gourlayi;NULL;NULL;NULL;NULL;NULL;NULL;UNK;ARG;NULL;NULL;EBS    839;NULL;Tuberosa;NULL
+1044;CGN;22343;GRL;gourlayi;-243.166;2419S;-661.166;06607W;P. Salta;D. Rosario de Lerma;AR;ARG;La Bomba (encrucijada), finca de Elias Cruz, 11km noroeste cuevas ruta n.51;05/04/74;HOHH  5980;3800;Tuberosa;NULL
+1045;CGN;22352;CMM ssp MLM;commersonii malmeanum;-305.333;3032S;-589.333;05856W;P. Entre Rios;D. Feliciano;AR;ARG;Route 1, 19 km SW from Feliciano;27/06/80;OKA   7292;62;Commersoniana;NULL
+1046;CGN;22713;OPL;oplocense;-217.833;2147S;-65.55;06533W;D. Potosi;P. Modesto Omiste;BO;BOL;50 km from Tupiza to Villazon;25/03/80;HAM    169;3250;Tuberosa;NULL
+1047;CGN;22717;BRC;brevicaule;-172.166;1713S;-66.05;06603W;D. Cochabamba;P. Chapare;BO;BOL;40 km from Tranca de Sacaba on the road to Palca, (0.5 km before Palca);15/03/80;HHA   6621;3730;Tuberosa;NULL
+1048;CGN;23022;GRL;gourlayi;-18.6;1836S;-669.166;06655W;D. Cochabamba;NULL;BO;BOL;Pazna;01/01/67;OCH K    9;3800;Tuberosa;NULL
+1049;CGN;23486;GRL;gourlayi;-24.65;2439S;-66.2;06612W;P. Salta;D. La Poma;AR;ARG;Esquina Azul, route nacional 40. 1.5km Por quebrada del arroyo Pirca;05/04/73;OKA   4925;3580;Tuberosa;NULL
+1050;CGN;23492;CMM ssp CMM;commersonii commersonii;-373.833;3723S;-591.666;05910W;P. Buenos Aires;D. Tandil;AR;ARG;Reserva Faunistica de Sierra del Tigre. A unos 5-6 km al Sur de Tandil;09/12/73;OKA   5258b;300;Commersoniana;NULL
+1051;CGN;23497;GRL;gourlayi;-231.166;2307S;-651.333;06508W;P. Jujuy;D. Humahuaca;AR;ARG;Serrania de Aparzo, 2 km S Aparzo, 39 km E of Humahuaca;26/03/74;OKA   5376;3600;Tuberosa;NULL
+1052;CGN;23515;GRL;gourlayi;-23.5;2330S;-65.45;06527W;P. Jujuy;D. Tilcara;AR;ARG;Quebrada de Jueya near Tilcara;08/04/83;OKA   7589;2700;Tuberosa;NULL
+1053;CGN;960071;GRL;gourlayi;-23;2300S;-654.666;06528W;P. Jujuy;D. Humahuaca;AR;ARG;Jujuy.  Incacuevas;02/03/71;HOF   1832;3650;Tuberosa;NULL
+1054;CGN;961347;GRL;gourlayi;-23.25;2315S;-652.166;06513W;P. Jujuy;NULL;AR;ARG;Cianzo;02/04/72;OKA   4490a;3900;Tuberosa;NULL
+1055;CGN;23794;GRL;gourlayi;-23.15;2309S;-65.45;06527W;P. Jujuy;D. Humahuaca;AR;ARG;Prov. road 14, Coraya;06/03/67;OKA   3073;3300;Tuberosa;NULL
+1056;CGN;23798;OPL;oplocense;NULL;NULL;NULL;NULL;D. Chuquisaca;P. Oropeza;BO;BOL;Tejar, 4 km from Sucre to Potosi;27/03/74;AST     34;2600;Tuberosa;NULL
+1057;CGN;961876;OPL;oplocense;-207.166;2043S;-656.833;06541W;D. Potosi;P. Nor Chichas;BO;BOL;Road to Potosi, 25 km from Cotagaita;04/04/74;AST     72;NULL;Tuberosa;NULL
+1058;CGN;962274;CMM ssp MLM;commersonii malmeanum;-317.666;3146S;-605.333;06032W;P. Entre Rios;D. Parana;AR;ARG;Parana, 3 km from Illegar on route 11;04/07/80;OKA   7313;74;Commersoniana;NULL
+1059;CGN;962541;OPL;oplocense;-23.2;2312S;-65.45;06527W;P. Jujuy;D. Humahuaca;AR;ARG;NULL;NULL;OKA 4502 x 4498;3300;Tuberosa;NULL
+1060;CGN;17800;DMS;demissum;19;1900N;-98;09800W;E. Puebla;NULL;MX;MEX;Selva Obscura;06/01/48;COR  14432;NULL;Demissa;NULL
+1061;CGN;961619;SCT;sanctae-rosae;-258.333;2550S;-655.833;06535W;P. Salta;D. Guachipas;AR;ARG;Estancia Pampa Grande, W mountain range between Cerro Cristal and Pirgua;20/03/66;HHR   3939;2650;Megistacroloba;NULL
