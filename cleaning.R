@@ -12,63 +12,86 @@ get_elevation <- function(lat, long) {
   return(content(response)$results[[1]]$elevation)
 }
 
-validate.gps <- function(lat, lon, iso3c) {
+correct_gps <- function(lat, lon) {
+  # if lat lon NA change to Nan
+  if (any(is.na(c(lat, lon)))) {
+    loc <- c(lat=lat, lon=lon)
+    return(loc)
+  }
   # check if they are within the range
   if ((lat < -90) | (lat > 90)) {
     lat <- lat / 10
   }
-  if ((lon < -180) | (long > 180)) {
+  if ((lon < -180) | (lon > 180)) {
     lon <- lon / 10
   }
-  # check if location within provided country
-  print(lat)
-  print(lon)
-  address <- revgeocode(c(lon, lat))
-  print(address)
-  country.name <- str_split(address, ", ")[[1]][length(str_split(address, ", ")[[1]])]
-  if (countrycode(country.name, "country.name", "iso3c") != iso3c) {
-    loc <- c(lat=NA, lon=NA)
-  } else {
-    loc <- c(lat=lat, lon=lon)
-  }
+
+  loc <- c(lat=lat, lon=lon)
   return(loc)
 }
-# check if GPS (lat) is in range -90 to 90
-# check if GPS.2 (lon) is in range -180 to 180
-# if it's outside, divide by 10
 
-
-
-# check if the location is within the country in COUNTRY field
-
-
-as.numeric(str_sub(gps1, 1, -2))
-
-potato_df2 <- potato_df %>%
-  rowwise() %>%
-  mutate(div = floor(abs(GPS*100 / as.numeric(str_sub(GPS.1, 1, -2)))))
-
+validate_gps <- function(lat, lon, iso3c){
+  # iso3c is a country name in iso3 character format
+  # if any of the coordinates or the country is NA, cannot validate
+  if (any(is.na(c(lat, lon, iso3c)))) {
+    return(FALSE)
+  }
+  
+  # convert gps coordinates to address
+  full_address <- ""
+  tryCatch({
+    full_address <- revgeocode(c(lon, lat))
+    }, warning = function(w) {
+      print(w)
+      return(FALSE)
+    }, error = function(e) {
+      print(e)
+      return(FALSE)
+    }, finally = {
+      if (full_address == "") {
+        return(FALSE)
+      }
+    }
+  )
+  
+  address_split <- str_split(full_address, ", ")[[1]]
+  if (length(address_split) == 1) {
+    country <- address_split
+  } else {
+    country <- address_split[length(address_split)]
+  }
+  print(country)
+  # check if revgeo country matches provided one
+  if (countrycode(country, "country.name", "iso3c") == iso3c) {
+    return(TRUE)
+  } else {
+    return(FALSE)
+  }
+}
 
 potato_df <- dplyr::tbl_df(read.csv("pp_accession2.csv", sep=";", na.strings = "NULL", stringsAsFactors = FALSE))
 
-vars <- c("Genbank", "Genbank.ID", "Species.code", "Species", "gps.lat", "gps.lon", "Place", "Province", "Country",
-         "Description", "Date.of.collection", "Elevation", "Ploidy")
-
 # correct gps coordinates
+potato_df2 <- potato_df %>%
+  rowwise() %>%
+  mutate(gps.lat = correct_gps(GPS, GPS.2)['lat'],
+         gps.lon = correct_gps(GPS, GPS.2)['lon'])
 
-# add column 'location.source', for cases where no lat long information
-# do geocode to get coordinates based on the address Place + 
+# validate gps coordinates
+potato_df2%<>%
+  rowwise() %>%
+  mutate(gps.validated = validate_gps(gps.lat, gps.lon, COUNTRY))
 
-place = if (is.na(potato_df[2, ]$Place)) "" else potato_df[2, ]$Place
-province = if (is.na(potato_df[2, ]$Province)) "" else potato_df[2, ]$Province
-country = if (is.na(potato_df[2, ]$COUNTRY) )"" else potato_df[2, ]$COUNTRY
-address = paste(place, province, country, sep=", ")
+# get elevation for validated coordinates if elevation is no provided
+get_elevation_helper <- function(validated, lat, lon) {
+  if (validated) {
+    return(get_elevation(lat, lon))
+  } else {
+    return(NA)
+  }
+}
 
-geocode(address, source="google")
+potato_df2%<>%
+  rowwise() %>%
+  mutate(gps.elevation = get_elevation_helper(gps.validated, gps.lat, gps.lon))
 
-library(httr)
-GET("https://maps.googleapis.com/maps/api/elevation/json?locations=-15.9166,-68.6333")
-
-validate.gps(-4.000, -79.250, "ECU")
-validate.gps(-140.666, -73.250, "PER")
-validate.gps(189.166, -997.166, "MEX")
