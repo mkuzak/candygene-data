@@ -1,97 +1,74 @@
 library(ggmap)
 library(dplyr)
 library(countrycode)
+library(stringr)
+library(httr)
 
-get_elevation <- function(lat, long) {
+DDMM2DD <- function(ddmm){
+  pattern <- '[0-9]{4}[NS]'
+  if (is.na(str_match(ddmm, pattern))){
+    return(NaN)
+  }
+  degs <- as.integer(str_sub(ddmm, 1,2))
+  mins <- as.integer(str_sub(ddmm, 3,4))
+  direction <- str_sub(ddmm, 5,5)
+  dd <- degs + mins / 60
+  if (direction == "S") {
+    dd <- - dd
+  }
+  return(dd)
+}
+
+
+DDDMM2DD <- function(dddmm){
+  pattern <- '[0-9]{5}[EW]'
+  if (is.na(str_match(dddmm, pattern))){
+    return(NaN)
+  }
+  degs <- as.integer(str_sub(dddmm, 1,3))
+  mins <- as.integer(str_sub(dddmm, 4,5))
+  direction <- str_sub(dddmm, 6,6)
+  dd <- degs + mins / 60
+  if (direction == "W") {
+    dd <- - dd
+  }
+  return(dd)
+}
+
+get_elevation <- function(lat, lon) {
+  if (any(is.na(c(lat, lon)))){
+    return(NaN)
+  }
+  print(c(lat, lon))
   # GET("https://maps.googleapis.com/maps/api/elevation", path="maps/api/elevation/json", query = list(locations="lat,long"))
-
   url <- "https://maps.googleapis.com/"
   api_path <- "maps/api/elevation/json"
-  locs = paste(lat, long, sep = ",")
-  response = GET(url, path=api_path, query=list(locations=locs))
-  return(content(response)$results[[1]]$elevation)
-}
-
-correct_gps <- function(lat, lon) {
-  # if lat lon NA change to Nan
-  if (any(is.na(c(lat, lon)))) {
-    loc <- c(lat=lat, lon=lon)
-    return(loc)
-  }
-  # check if they are within the range
-  if ((lat < -90) | (lat > 90)) {
-    lat <- lat / 10
-  }
-  if ((lon < -180) | (lon > 180)) {
-    lon <- lon / 10
-  }
-
-  loc <- c(lat=lat, lon=lon)
-  return(loc)
-}
-
-validate_gps <- function(lat, lon, iso3c){
-  # iso3c is a country name in iso3 character format
-  # if any of the coordinates or the country is NA, cannot validate
-  if (any(is.na(c(lat, lon, iso3c)))) {
-    return(FALSE)
-  }
+  locs = paste(lat, lon, sep = ",")
   
-  # convert gps coordinates to address
-  full_address <- ""
-  tryCatch({
-    full_address <- revgeocode(c(lon, lat))
-    }, warning = function(w) {
-      print(w)
-      return(FALSE)
-    }, error = function(e) {
-      print(e)
-      return(FALSE)
-    }, finally = {
-      if (full_address == "") {
-        return(FALSE)
-      }
+  # google elevation API has limit of 10 requests per second
+  while (TRUE) {
+    response = GET(url, path=api_path, query=list(locations=locs))
+    status <- content(response)$status
+    print(status)
+    if (status == "OK"){
+      break
+    } else {
+     Sys.sleep(1) 
     }
-  )
-  
-  address_split <- str_split(full_address, ", ")[[1]]
-  if (length(address_split) == 1) {
-    country <- address_split
-  } else {
-    country <- address_split[length(address_split)]
   }
-  print(country)
-  # check if revgeo country matches provided one
-  if (countrycode(country, "country.name", "iso3c") == iso3c) {
-    return(TRUE)
-  } else {
-    return(FALSE)
-  }
+  elevation <- as.numeric(content(response)$results[[1]]$elevation)
+  print(elevation)
+  return(elevation)
 }
 
 potato_df <- dplyr::tbl_df(read.csv("pp_accession2.csv", sep=";", na.strings = "NULL", stringsAsFactors = FALSE))
 
 # correct gps coordinates
-potato_df2 <- potato_df %>%
+potato_df%<>%
   rowwise() %>%
-  mutate(gps.lat = correct_gps(GPS, GPS.2)['lat'],
-         gps.lon = correct_gps(GPS, GPS.2)['lon'])
+  mutate(gps.lat = DDMM2DD(GPS.1), gps.lon = DDDMM2DD(GPS.3))
 
-# validate gps coordinates
-potato_df2%<>%
+# fetch elevation with google api
+potato_df %<>%
   rowwise() %>%
-  mutate(gps.validated = validate_gps(gps.lat, gps.lon, COUNTRY))
-
-# get elevation for validated coordinates if elevation is no provided
-get_elevation_helper <- function(validated, lat, lon) {
-  if (validated) {
-    return(get_elevation(lat, lon))
-  } else {
-    return(NA)
-  }
-}
-
-potato_df2%<>%
-  rowwise() %>%
-  mutate(gps.elevation = get_elevation_helper(gps.validated, gps.lat, gps.lon))
-
+  mutate(gps.elevation = get_elevation(gps.lat, gps.lon))
