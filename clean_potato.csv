@@ -1,4 +1,4 @@
-"Number","Genebank","Genebank.ID","Species.code","Species","GPS","GPS.1","GPS.2","GPS.3","Place","Province","COUNTRY","Description","Date.of.collecton","Elevation","Ploidy","gps.lat","gps.lon","gps.elevation"
+"Number","Genebank","Genebank.ID","Species.code","Species","GPS","GPS.1","GPS.2","GPS.3","Place","Province","COUNTRY","Description","Date.of.collection","Elevation","Ploidy","gps.lat","gps.lon","gps.elevation"
 1,"VIR",20892,"CHN","chancayense",NA,NA,NA,NA,"D. Lima","P. Chancay","PER","Lomas de Lachay",NA,200,"24",NA,NA,NA
 2,"PI",561637,"ABZ","albornozii",-4,"0400S",-79.25,"07915W","P. Loja","D. Catamayo","ECU","3.6 km SW of junction of old Loja-Catamayo road and road to Duraznillo","01/05/91",2610,NA,-4,-79.25,2361.302734375
 3,"PI",365356,"AML","amabile",-13.2,NA,-72.07,NA,NA,NA,"PER","Huajratanca, near Ckosniriti.",NA,NA,NA,NA,NA,NA
@@ -73,7 +73,7 @@
 72,"PI",558091,"LYC","lycopersicoides",NA,NA,NA,NA,NA,NA,"CHL",NA,NA,NA,NA,NA,NA,NA
 73,"PI",NA,"LYC","lycopersicoides",-17.46,"17?46 S",-69.57,"069?57 W","D. Tacna","P. Tacna","PER","Near Causuri, 1 km from Palca.",NA,2890,NA,NA,NA,NA
 74,"PI",607845,"MCP","macropilosum",239.833,"2359N",-997.166,"09943W","E. Nuevo Leon",NA,"MEX","slopes of Cerro El Viejo, along logging path up hill, ca.6 km by air ENE of town square of Zaragoza","24/09/97",2850,NA,23.9833333333333,-99.7166666666667,3170.6220703125
-75,"PI",245087,"MAG","maglia",-329.666,"3258S",-715.333,"07132W","P. Valparaiso","D. Vina del Mar","CHL","Between ViÇña del Mar and Concon","05/01/58",NA,NA,-32.9666666666667,-71.5333333333333,96.5407791137695
+75,"PI",245087,"MAG","maglia",-329.666,"3258S",-715.333,"07132W","P. Valparaiso","D. Vina del Mar","CHL","Between Viï¿½ï¿½a del Mar and Concon","05/01/58",NA,NA,-32.9666666666667,-71.5333333333333,96.5407791137695
 76,"PI",558316,"MAG","maglia",-32.55,"3233S",-714.333,"07126W","P. Valparaiso","D. Petorca","CHL","Ca. 500 m S of beach at Zapallar, at house of Rosa Perez","02/03/91",10,NA,-32.55,-71.4333333333333,451.937591552734
 77,"PI",607884,"MRN","marinasense",-13.6,"1336S",-718.833,"07153W","D. Cusco","P. Quispicanchis","PER","S of Cusco, E of main road through town, direction Granja Kaira San Geronimo to km7.5, 300m uphill","03/03/98",3550,NA,-13.6,-71.8833333333333,3821.59643554688
 78,"PI",619119,"MRL","morelliforme",196.166,"1937N",-97.05,"09703W","E. Veracruz",NA,"MEX","On road from Perote to Jalapa just E of Toxtlacoaya, 3.6 km W of Las Vigas, 20 m off S side of road.","02/10/97",2300,NA,19.6166666666667,-97.05,2248.97900390625
@@ -390,7 +390,7 @@
 389,"CGN",17605,"STO","stoloniferum",19.7,"1942N",-101.116,"10107W","E. Michoacan",NA,"MEX","Cerro de Punguato","05/08/65",2400,"48",19.7,-101.116666666667,2053.2373046875
 390,"CGN",18332,"STO","stoloniferum",NA,NA,NA,NA,NA,NA,"MEX",NA,NA,NA,"48",NA,NA,NA
 391,"CGN",18205,"SCR","sucrense",-201.333,"2008S",-654.833,"06529W","D. Potosi","P. Nor Chichas","BOL","90 km from Cotagaita to Potosi via Vitiche","01/04/80",3030,"48",-20.1333333333333,-65.4833333333333,3146.13720703125
-392,"CGN",17861,"TAR","tarijense",-251.833,"2511S",-65.8,"06548W","P. Salta","D. Chicoana","ARG","2 km above de Escoipe, route 59. Pasando el Vado del RÇðo Escoipe","08/04/74",2100,"24",-25.1833333333333,-65.8,2583.81860351562
+392,"CGN",17861,"TAR","tarijense",-251.833,"2511S",-65.8,"06548W","P. Salta","D. Chicoana","ARG","2 km above de Escoipe, route 59. Pasando el Vado del Rï¿½ï¿½o Escoipe","08/04/74",2100,"24",-25.1833333333333,-65.8,2583.81860351562
 393,"CGN",17768,"VER","verrucosum",192.833,"1917N",-98.05,"09803W","E. Tlaxcala",NA,"MEX","Above San Diego de Pinar. mt.Malinche","12/10/38",2900,"24",19.2833333333333,-98.05,3027.81665039062
 394,"CGN",18121,"SPEC","species",-162.666,"1616S",-679.666,"06758W","D. La Paz","P. Sud Yungas","BOL","44 km from toll-block La Paz to Unduavi (Unduavi Junction)","19/02/80",3250,"24",-16.2666666666667,-67.9666666666667,3926.39770507812
 395,"CGN",18144,"ADG x CUR","ADG x CUR",-17.65,"1739S",-675.166,"06731W","D. Oruro","P. Cercado","BOL","6km from Eucaliptus to La Joya (along Rio Desaguadero).","14/03/80",3700,"48",-17.65,-67.5166666666667,3733.59692382812
@@ -649,7 +649,7 @@
 648,"CGN",962204,"HDM","hondelmannii",-193.833,"1923S",-647.833,"06447W","D. Chuquisaca","P. Yamparaez","BOL","37 km from Tarabuco to Sotomayor via Icla","13/03/80",2650,"24",-19.3833333333333,-64.7833333333333,2540.76806640625
 649,"CGN",18053,"SPEC","species",-195.666,"1934S",-65.8,"06548W","D. Potosi","P. Frias","BOL","27 km from Potosi on the road to Oruro, above Tarapaya","08/03/71",3550,"24",-19.5666666666667,-65.8,3858.48486328125
 650,"CGN",18363,"HPS","hoopesii",-19.95,"1957S",-64.45,"06427W","D. Chuquisaca","P. Azurduy","BOL","24.3 km N of town square of Azurduy on road to Tarabuco","16/01/94",2860,"48",-19.95,-64.45,3006.80712890625
-651,"CGN",18367,"HPS","hoopesii",-20.1,"2006S",-644.166,"06425W","D. Chuquisaca","P. Azurduy","BOL","Nursery of EstaciÇün Exp. Santa BÇ­rbara, at edge of town of Azurduy","07/03/93",2513,"48",-20.1,-64.4166666666667,2588.697265625
+651,"CGN",18367,"HPS","hoopesii",-20.1,"2006S",-644.166,"06425W","D. Chuquisaca","P. Azurduy","BOL","Nursery of Estaciï¿½ï¿½n Exp. Santa BÇ­rbara, at edge of town of Azurduy","07/03/93",2513,"48",-20.1,-64.4166666666667,2588.697265625
 652,"CGN",18368,"HPS","hoopesii",-20.1,"2006S",-64.4,"06424W","D. Chuquisaca","P. Azurduy","BOL","1km N of town square of Azurduy","07/03/93",2481,"48",-20.1,-64.4,2487.72875976562
 653,"CGN",18372,"HPS","hoopesii",-20,"20--S",-644.166,"06425W","D. Chuquisaca","P. Azurduy","BOL",NA,"07/03/93",2550,"48",NA,-64.4166666666667,NA
 654,"CGN",18339,"HOU","hougasii",19.65,"1939N",-103.633,"10338W","E. Jalisco",NA,"MEX","In thicket on edge of field, near Sayula, Slopes of Volcan de Nevada","18/12/47",NA,"72",19.65,-103.633333333333,2313.4560546875
