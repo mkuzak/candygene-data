@@ -3,7 +3,18 @@
 
 <head>
   <meta charset="UTF-8">
-  <link rel="stylesheet" type="text/css" href="js/dc.css" />
+  <link rel="stylesheet" type="text/css" href="bower_components/dcjs/dc.css" />
+  <!-- dc-addons requirements -->
+  <link rel="stylesheet" href="bower_components/leaflet/dist/leaflet.css" />
+  <link rel="stylesheet" href="bower_components/leaflet.markercluster/dist/MarkerCluster.css" />
+  <link rel="stylesheet" href="bower_components/leaflet.markercluster/dist/MarkerCluster.Default.css" />
+  <style>
+    .map {
+      width: 510px;
+      height: 510px;
+    }
+  </style>
+
 </head>
 
 <body>
@@ -11,18 +22,26 @@
   <div id="elevation-chart"></div>
   <div id="genebank-source-chart"></div>
   <div id="country-chart"></div>
-  <div id="timeline-chart"></div>
+  <div id="map-chart" class="map"></div>
+  <div id="bubble-cloud"></div>
 
   <script type="text/javascript" src="bower_components/d3/d3.min.js"></script>
   <script type="text/javascript" src="bower_components/crossfilter/crossfilter.min.js"></script>
   <script type="text/javascript" src="bower_components/dcjs/dc.min.js"></script>
+
+  <!-- dc-addons requirements -->
+  <script src="bower_components/leaflet/dist/leaflet.js"></script>
+  <script src="bower_components/leaflet.markercluster/dist/leaflet.markercluster.js"></script>
+  <script src="bower_components/dc-addons/dist/leaflet-map/dc-leaflet.min.js"></script>
+  <script src="bower_components/dc-addons/dist/bubble-cloud/dc-bubble-cloud.min.js"></script>
 
   <script type="text/javascript">
     /* create chart objects */
     var elevationChart = dc.scatterPlot("#elevation-chart");
     var genebankSourceChart = dc.rowChart("#genebank-source-chart");
     var countryChart = dc.rowChart("#country-chart");
-    var timelineChart = dc.dataCount("#timeline-chart");
+    var mapChart = dc.leafletMarkerChart("#map-chart");
+    var bubbleCloud = dc.bubbleCloud("#bubble-cloud");
 
     /* load data */
     d3.csv('clean_potato.csv', function(error, data) {
@@ -36,7 +55,8 @@
       data.forEach(function(d) {
         d['gps.elevation'] = d['gps.elevation'] === "NA" ? -1 : +d['gps.elevation'];
         d['Elevation'] = d['Elevation'] === "NA" ? -1 : +d['Elevation'];
-        d['date'] = d["Date.of.collection"] === "NA" ? dateFormat.parse("01/01/81") : dateFormat.parse("01/01/82");
+        d['date'] = d["Date.of.collection"] === "NA" ? dateFormat.parse("01/01/81") : dateFormat.parse(d["Date.of.collection"]);
+        d['geo'] = d['gps.lat'] === "NA" || d['gps.lon'] === "NA" ? "-3.0,-79.0" : d["gps.lat"].concat(",", d["gps.lon"]);
       });
 
       /* crossfiler, dimensions and groups */
@@ -56,6 +76,11 @@
         return d['COUNTRY'];
       });
       var countryGroup = countryDim.group();
+      /* geolocation */
+      var geoDim = ndx.dimension(function(d) {
+        return d['geo'];
+      })
+      var geoGroup = geoDim.group().reduceCount();
 
       /* elevation scatterplot */
       elevationChart
@@ -92,6 +117,16 @@
         countryChart.redrawGroup();
       });
 
+      mapChart
+        .dimension(geoDim)
+        .group(geoGroup)
+        .width(500)
+        .height(500)
+        .center([-3.0, -79.0])
+        .cluster(true)
+        .filterByArea(true)
+        .brushOn(true)
+        .renderPopup(false);
 
       dc.renderAll();
     });
