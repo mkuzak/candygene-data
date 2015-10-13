@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" type="text/css" href="js/dc.css" />
+</head>
+
+<body>
+
+  <div id="elevation-chart"></div>
+  <div id="genebank-source-chart"></div>
+  <div id="country-chart"></div>
+  <div id="timeline-chart"></div>
+
+  <script type="text/javascript" src="js/d3.js"></script>
+  <script type="text/javascript" src="js/crossfilter.js"></script>
+  <script type="text/javascript" src="js/dc.js"></script>
+
+  <script type="text/javascript">
+    /* create chart objects */
+    var elevationChart = dc.scatterPlot("#elevation-chart");
+    var genebankSourceChart = dc.rowChart("#genebank-source-chart");
+    var countryChart = dc.rowChart("#country-chart");
+    var timelineChart = dc.dataCount("#timeline-chart");
+
+    /* load data */
+    d3.csv('patat.csv', function(error, data) {
+      if (error) {
+        porint(error);
+      };
+
+      /* format data */
+
+      var dateFormat = d3.time.format("%m/%d/%Y");
+      data.forEach(function(d) {
+        d['gps.elevation'] = d['gps.elevation'] === "NA" ? -1 : +d['gps.elevation'];
+        d['Elevation'] = d['Elevation'] === "NA" ? -1 : +d['Elevation'];
+        d['date'] = d["Date.of.collection"] === "NA"
+        dateFormat.parse("01/01/81"): dateFormat.parse("01/01/82");
+      });
+
+      /* crossfiler, dimensions and groups */
+      var ndx = crossfilter(data);
+      /* elevation */
+      var elevationDim = ndx.dimension(function(d) {
+        return [+d['gps.elevation'], +d['Elevation']];
+      });
+      var elevationGroup = elevationDim.group();
+      /* genebank source */
+      var genebankSourceDim = ndx.dimension(function(d) {
+        return d['Genebank'];
+      });
+      var genebankSourceGroup = genebankSourceDim.group();
+      /* country of origin */
+      var countryDim = ndx.dimension(function(d) {
+        return d['COUNTRY'];
+      });
+      var countryGroup = countryDim.group();
+
+      /* elevation scatterplot */
+      elevationChart
+        .width(500)
+        .height(500)
+        .x(d3.scale.linear().domain([0, 5000]))
+        .xAxisLabel("gps derived elevation")
+        .yAxisLabel("original elevation")
+        .symbolSize(4)
+        .clipPadding(10)
+        .dimension(elevationDim)
+        .group(elevationGroup);
+
+      /* genebank source chart */
+      genebankSourceChart
+        .width(400)
+        .height(200)
+        .group(genebankSourceGroup)
+        .dimension(genebankSourceDim)
+        .elasticX(true)
+        .xAxis().ticks(5);
+
+      /* country chart */
+      countryChart
+        .width(400)
+        .height(300)
+        .group(countryGroup)
+        .dimension(countryDim)
+        .elasticX(true)
+        .xAxis().ticks(5);
+
+      d3.select("#country-chart").on("dblclick", function() {
+        countryChart.filter(null);
+        countryChart.redrawGroup();
+      });
+
+
+      dc.renderAll();
+    });
+  </script>
+</body>
+
+</html>
