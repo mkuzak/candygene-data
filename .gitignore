@@ -1,3 +1,5 @@
 # R related files
 *.Rhistory
 *.RData
+
+bower_components

@@ -13,9 +13,9 @@
   <div id="country-chart"></div>
   <div id="timeline-chart"></div>
 
-  <script type="text/javascript" src="js/d3.js"></script>
-  <script type="text/javascript" src="js/crossfilter.js"></script>
-  <script type="text/javascript" src="js/dc.js"></script>
+  <script type="text/javascript" src="bower_components/d3/d3.min.js"></script>
+  <script type="text/javascript" src="bower_components/crossfilter/crossfilter.min.js"></script>
+  <script type="text/javascript" src="bower_components/dcjs/dc.min.js"></script>
 
   <script type="text/javascript">
     /* create chart objects */
@@ -25,7 +25,7 @@
     var timelineChart = dc.dataCount("#timeline-chart");
 
     /* load data */
-    d3.csv('patat.csv', function(error, data) {
+    d3.csv('clean_potato.csv', function(error, data) {
       if (error) {
         porint(error);
       };
@@ -36,8 +36,7 @@
       data.forEach(function(d) {
         d['gps.elevation'] = d['gps.elevation'] === "NA" ? -1 : +d['gps.elevation'];
         d['Elevation'] = d['Elevation'] === "NA" ? -1 : +d['Elevation'];
-        d['date'] = d["Date.of.collection"] === "NA"
-        dateFormat.parse("01/01/81"): dateFormat.parse("01/01/82");
+        d['date'] = d["Date.of.collection"] === "NA" ? dateFormat.parse("01/01/81") : dateFormat.parse("01/01/82");
       });
 
       /* crossfiler, dimensions and groups */
