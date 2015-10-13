@@ -72,3 +72,5 @@ potato_df%<>%
 potato_df %<>%
   rowwise() %>%
   mutate(gps.elevation = get_elevation(gps.lat, gps.lon))
+
+qmplot(gps.lon, gps.lat, data=potato_df, maptype="toner-lite", color=gps.elevation) + scale_fill_gradientn(trans="log10", colours = heat.colors(10, alpha=0.5))
