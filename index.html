@@ -4,6 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <link rel="stylesheet" type="text/css" href="bower_components/dcjs/dc.css" />
+  <link rel="stylesheet" type="text/css" href="bower_components/dc-addons/dist/tooltip/dc-tooltip-mixin.min.css" />
   <!-- dc-addons requirements -->
   <link rel="stylesheet" href="bower_components/leaflet/dist/leaflet.css" />
   <link rel="stylesheet" href="bower_components/leaflet.markercluster/dist/MarkerCluster.css" />
@@ -23,17 +24,20 @@
   <div id="genebank-source-chart"></div>
   <div id="country-chart"></div>
   <div id="map-chart" class="map"></div>
-  <div id="bubble-cloud"></div>
+  <!-- <div id="bubble-cloud"></div> -->
+  <div id="data-table" class="map"></div>
 
   <script type="text/javascript" src="bower_components/d3/d3.min.js"></script>
+  <script type="text/javascript" src="bower_components/d3-tip/index.js"></script>
   <script type="text/javascript" src="bower_components/crossfilter/crossfilter.min.js"></script>
   <script type="text/javascript" src="bower_components/dcjs/dc.min.js"></script>
 
   <!-- dc-addons requirements -->
-  <script src="bower_components/leaflet/dist/leaflet.js"></script>
-  <script src="bower_components/leaflet.markercluster/dist/leaflet.markercluster.js"></script>
-  <script src="bower_components/dc-addons/dist/leaflet-map/dc-leaflet.min.js"></script>
-  <script src="bower_components/dc-addons/dist/bubble-cloud/dc-bubble-cloud.min.js"></script>
+  <script type="text/javascript" src="bower_components/leaflet/dist/leaflet.js"></script>
+  <script type="text/javascript" src="bower_components/leaflet.markercluster/dist/leaflet.markercluster.js"></script>
+  <script type="text/javascript" src="bower_components/dc-addons/dist/leaflet-map/dc-leaflet.min.js"></script>
+  <script type="text/javascript" src="bower_components/dc-addons/dist/bubble-cloud/dc-bubble-cloud.js"></script>
+  <script type="text/javascript" src="bower_components/dc-addons/dist/tooltip/dc-tooltip-mixin.min.js"></script>
 
   <script type="text/javascript">
     /* create chart objects */
@@ -41,7 +45,8 @@
     var genebankSourceChart = dc.rowChart("#genebank-source-chart");
     var countryChart = dc.rowChart("#country-chart");
     var mapChart = dc.leafletMarkerChart("#map-chart");
-    var bubbleCloud = dc.bubbleCloud("#bubble-cloud");
+    // var speciesBubble = dc.bubbleCloud("#bubble-cloud");
+    var dataTable = dc.dataTable("#data-table");
 
     /* load data */
     d3.csv('clean_potato.csv', function(error, data) {
@@ -57,6 +62,8 @@
         d['Elevation'] = d['Elevation'] === "NA" ? -1 : +d['Elevation'];
         d['date'] = d["Date.of.collection"] === "NA" ? dateFormat.parse("01/01/81") : dateFormat.parse(d["Date.of.collection"]);
         d['geo'] = d['gps.lat'] === "NA" || d['gps.lon'] === "NA" ? "-3.0,-79.0" : d["gps.lat"].concat(",", d["gps.lon"]);
+        d['Species'] = d['Species']
+        d['Genebank.ID'] = d['Genebank.ID'] === "NA" ? -1 : +d['Genebank.ID'];
       });
 
       /* crossfiler, dimensions and groups */
@@ -81,12 +88,24 @@
         return d['geo'];
       })
       var geoGroup = geoDim.group().reduceCount();
+      /* bubble cloud */
+      // var speciesDim = ndx.dimension(function(d) {
+      //   return d['Species'];
+      // });
+      // var speciesCount = speciesDim.group().reduceCount();
+      //
+
+      /* data table */
+      var genebankIDDim = ndx.dimension(function(d) {
+        return d['Genebank.ID'];
+      });
 
       /* elevation scatterplot */
       elevationChart
         .width(500)
         .height(500)
         .x(d3.scale.linear().domain([0, 5000]))
+        .y(d3.scale.linear().domain([0, 5000]))
         .xAxisLabel("gps derived elevation")
         .yAxisLabel("original elevation")
         .symbolSize(4)
@@ -97,7 +116,7 @@
       /* genebank source chart */
       genebankSourceChart
         .width(400)
-        .height(200)
+        .height(300)
         .group(genebankSourceGroup)
         .dimension(genebankSourceDim)
         .elasticX(true)
@@ -118,15 +137,37 @@
       });
 
       mapChart
-        .dimension(geoDim)
-        .group(geoGroup)
         .width(500)
         .height(500)
+        .dimension(geoDim)
+        .group(geoGroup)
         .center([-3.0, -79.0])
         .cluster(true)
         .filterByArea(true)
         .brushOn(true)
         .renderPopup(false);
+
+      // speciesBubble
+      //   .width(500)
+      //   .height(500)
+      //   .dimension(speciesDim)
+      //   .group(speciesCount)
+      //   .x(d3.scale.ordinal())
+      //   .r(d3.scale.linear())
+      //   .radiusValueAccessor(function(d) {
+      //     return d.value;
+      //   });
+
+      dataTable
+        .dimension(genebankIDDim)
+        .group(function(d) {
+          return d['Genebank.ID']
+        })
+        .columns([
+          'Genebank.ID', 'Genebank', 'Species', 'Place', 'Province', 'COUNTRY',
+          'gps.lon', 'gps.lat', 'gps.elevation', 'Date.of.collection'
+        ])
+        .size(data.length);
 
       dc.renderAll();
     });
