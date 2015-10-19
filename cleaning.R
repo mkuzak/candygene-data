@@ -74,3 +74,8 @@ potato_df %<>%
   mutate(gps.elevation = get_elevation(gps.lat, gps.lon))
 
 qmplot(gps.lon, gps.lat, data=potato_df, maptype="toner-lite", color=gps.elevation) + scale_fill_gradientn(trans="log10", colours = heat.colors(10, alpha=0.5))
+
+new_names <- c("number", "genebank", "genebankID", "speciesCode", "species", "gpsDdLat", "gpsDdLon", "gpsDmLat", "gpsDmLon",
+              "place", "province", "contry", "description", "dateOfCollection", "elevation", "ploidy", "gpsLat", "gpsLon", "gpsElevation")
+names(potato_df) <- new_names
+write.csv(potato_df, file="clean_potato.csv", quote = TRUE, row.names = FALSE)

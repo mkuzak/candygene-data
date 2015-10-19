@@ -1,62 +1,70 @@
 (function() {
   /* create chart objects */
-  var elevationChart = dc.scatterPlot("#elevation-chart");
-  var genebankSourceChart = dc.rowChart("#genebank-source-chart");
-  var countryChart = dc.rowChart("#country-chart");
-  var mapChart = dc.leafletMarkerChart("#map-chart");
-  // var speciesBubble = dc.bubbleCloud("#bubble-cloud");
-  var dataTable = dc.dataTable("#data-table");
+  var elevationChart = dc.scatterPlot('#elevation-chart');
+  var genebankSourceChart = dc.rowChart('#genebank-source-chart');
+  var countryChart = dc.rowChart('#country-chart');
+  var mapChart = dc.leafletMarkerChart('#map-chart');
+  /* var speciesBubble = dc.bubbleCloud('#bubble-cloud'); */
+  var dataTable = dc.dataTable('#data-table');
 
   /* load data */
   d3.csv('clean_potato.csv', function(error, data) {
     if (error) {
       porint(error);
-    };
+    }
 
     /* format data */
 
-    var dateFormat = d3.time.format("%m/%d/%Y");
+    var dateFormat = d3.time.format('%m/%d/%Y');
     data.forEach(function(d) {
-      d['gps.elevation'] = d['gps.elevation'] === "NA" ? -1 : +d['gps.elevation'];
-      d['Elevation'] = d['Elevation'] === "NA" ? -1 : +d['Elevation'];
-      d['date'] = d["Date.of.collection"] === "NA" ? dateFormat.parse("01/01/81") : dateFormat.parse(d["Date.of.collection"]);
-      d['geo'] = d['gps.lat'] === "NA" || d['gps.lon'] === "NA" ? "-3.0,-79.0" : d["gps.lat"].concat(",", d["gps.lon"]);
-      d['Species'] = d['Species']
-      d['Genebank.ID'] = d['Genebank.ID'] === "NA" ? -1 : +d['Genebank.ID'];
+      d.gpsElevation = d.gpsElevation === 'NA' ? -1 : +d.gpsElevation;
+      d.elevation = d.elevation === 'NA' ? -1 : +d.elevation;
+      d.date = d.dateOfCollection === 'NA' ? dateFormat.parse('01/01/81') : dateFormat.parse(d.dateOfCollection);
+      d.geo = d.gpsLat === 'NA' || d.gpsLon === 'NA' ? '-3.0,-79.0' : d.gpsLat.concat(',', d.gpsLon);
+      d.genebankId = d.genebankId === 'NA' ? -1 : +d.genebankId;
     });
 
     /* crossfiler, dimensions and groups */
     var ndx = crossfilter(data);
     /* elevation */
     var elevationDim = ndx.dimension(function(d) {
-      return [+d['gps.elevation'], +d['Elevation']];
+      return [+d.gpsElevation, +d.elevation];
     });
+
     var elevationGroup = elevationDim.group();
+
     /* genebank source */
     var genebankSourceDim = ndx.dimension(function(d) {
-      return d['Genebank'];
+      return d.genebank;
     });
+
     var genebankSourceGroup = genebankSourceDim.group();
+
     /* country of origin */
     var countryDim = ndx.dimension(function(d) {
-      return d['COUNTRY'];
+      return d.country;
     });
+
     var countryGroup = countryDim.group();
+
     /* geolocation */
     var geoDim = ndx.dimension(function(d) {
-      return d['geo'];
-    })
+      return d.geo;
+    });
+
     var geoGroup = geoDim.group().reduceCount();
-    /* bubble cloud */
+
+    /* bubble cloud
     // var speciesDim = ndx.dimension(function(d) {
-    //   return d['Species'];
+    //   return d.species;
     // });
     // var speciesCount = speciesDim.group().reduceCount();
     //
+    */
 
     /* data table */
     var genebankIDDim = ndx.dimension(function(d) {
-      return d['Genebank.ID'];
+      return d.genebankId;
     });
 
     /* elevation scatterplot */
@@ -65,8 +73,8 @@
       .height(500)
       .x(d3.scale.linear().domain([0, 5000]))
       .y(d3.scale.linear().domain([0, 5000]))
-      .xAxisLabel("gps derived elevation")
-      .yAxisLabel("original elevation")
+      .xAxisLabel('gps derived elevation')
+      .yAxisLabel('original elevation')
       .symbolSize(4)
       .clipPadding(10)
       .dimension(elevationDim)
@@ -90,7 +98,7 @@
       .elasticX(true)
       .xAxis().ticks(5);
 
-    d3.select("#country-chart").on("dblclick", function() {
+    d3.select('#country-chart').on('dblclick', function() {
       countryChart.filter(null);
       countryChart.redrawGroup();
     });
@@ -120,11 +128,11 @@
     dataTable
       .dimension(genebankIDDim)
       .group(function(d) {
-        return d['Genebank.ID']
+        return d.genebankId;
       })
       .columns([
-        'Genebank.ID', 'Genebank', 'Species', 'Place', 'Province', 'COUNTRY',
-        'gps.lon', 'gps.lat', 'gps.elevation', 'Date.of.collection'
+        'genebankId', 'genebank', 'species', 'place', 'province', 'country',
+        'gpsLon', 'gpsLat', 'gpsElevation', 'dateOfCollection',
       ])
       .size(data.length);
 
